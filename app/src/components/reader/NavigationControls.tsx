@@ -1,17 +1,24 @@
 import { Button } from '@/components/ui/button'
-import { ChevronLeft, ChevronRight, Home } from 'lucide-react'
+import { BookOpen, ChevronLeft, ChevronRight, Home, TabletSmartphone } from 'lucide-react'
 import { useCallback } from 'react'
+import type { ReactNode } from 'react'
 
 interface NavigationControlsProps {
   canGoBack: boolean
   canGoForward: boolean
   canGoToPrevScene: boolean
   canGoToNextScene: boolean
+  isHomeActive?: boolean
+  isGlossaryActive?: boolean
+  onGlossary: () => void
   onBack: () => void
   onForward: () => void
   onPrevScene: () => void
   onNextScene: () => void
   onHome: () => void
+  settingsControl: ReactNode
+  jumpMarker?: string
+  onJumpToMarker?: () => void
 }
 
 export function NavigationControls({
@@ -19,11 +26,17 @@ export function NavigationControls({
   canGoForward,
   canGoToPrevScene,
   canGoToNextScene,
+  isHomeActive = false,
+  isGlossaryActive = false,
+  onGlossary,
   onBack,
   onForward,
   onPrevScene,
   onNextScene,
   onHome,
+  settingsControl,
+  jumpMarker,
+  onJumpToMarker,
 }: NavigationControlsProps) {
   const handleKeyDown = useCallback(
     (e: KeyboardEvent) => {
@@ -94,15 +107,46 @@ export function NavigationControls({
       </div>
 
       {/* Center - Home button */}
-      <Button
-        variant="ghost"
-        size="icon"
-        onClick={onHome}
-        className="text-zinc-600 hover:text-orange-400 hover:bg-zinc-900/50"
-        title="Episode overview (Home)"
-      >
-        <Home className="w-5 h-5" />
-      </Button>
+      <div className="flex items-center gap-1">
+        <Button
+          variant="ghost"
+          size="icon"
+          onClick={onGlossary}
+          className={
+            isGlossaryActive
+              ? 'text-zinc-100 bg-zinc-800/70 hover:bg-zinc-700/70'
+              : 'text-zinc-600 hover:text-zinc-300 hover:bg-zinc-900/50'
+          }
+          title="Glossar"
+        >
+          <BookOpen className="w-4 h-4" />
+        </Button>
+        <Button
+          variant="ghost"
+          size="icon"
+          onClick={onHome}
+          className={
+            isHomeActive
+              ? 'text-zinc-100 bg-zinc-800/70 hover:bg-zinc-700/70'
+              : 'text-zinc-600 hover:text-orange-400 hover:bg-zinc-900/50'
+          }
+          title="Episode overview (Home)"
+        >
+          <Home className="w-5 h-5" />
+        </Button>
+        {settingsControl}
+        {jumpMarker && onJumpToMarker && (
+          <Button
+            variant="ghost"
+            onClick={onJumpToMarker}
+            className="h-8 px-2 gap-1 text-cyan-300 hover:text-cyan-200 hover:bg-cyan-500/10"
+            title={`Zu ${jumpMarker} springen`}
+          >
+            <TabletSmartphone className="w-4 h-4" />
+            <span className="font-mono text-[11px]">{jumpMarker}</span>
+          </Button>
+        )}
+      </div>
 
       {/* Right navigation */}
       <div className="flex items-center gap-2">

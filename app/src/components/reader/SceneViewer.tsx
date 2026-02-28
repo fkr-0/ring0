@@ -10,6 +10,10 @@ interface SceneViewerProps {
   onCharacterClick?: (name: string) => void
   onMotifClick?: (motif: string) => void
   onGlossaryTermClick?: (term: string) => void
+  onTermPreviewStart?: (name: string) => void
+  onTermPreviewEnd?: (name: string) => void
+  onTermPreviewToggle?: (name: string) => void
+  onActiveAnchorChange?: (anchorId: string) => void
   autoScroll?: boolean
   fontSize?: 'sm' | 'md' | 'lg' | 'xl'
   lineHeight?: 'tight' | 'normal' | 'relaxed'
@@ -41,6 +45,10 @@ export function SceneViewer({
   onCharacterClick,
   onMotifClick,
   onGlossaryTermClick,
+  onTermPreviewStart,
+  onTermPreviewEnd,
+  onTermPreviewToggle,
+  onActiveAnchorChange,
   autoScroll = false,
   fontSize = 'md',
   lineHeight = 'normal',
@@ -54,6 +62,37 @@ export function SceneViewer({
     }
   }, [scene?.id, autoScroll])
 
+  useEffect(() => {
+    const container = containerRef.current
+    if (!container || !scene || !onActiveAnchorChange) return
+
+    const anchors = Array.from(container.querySelectorAll<HTMLElement>('[data-anchor-id]'))
+    if (anchors.length === 0) return
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        const visible = entries
+          .filter((entry) => entry.isIntersecting)
+          .sort((a, b) => b.intersectionRatio - a.intersectionRatio)
+        const top = visible[0]
+        const anchorId = top?.target.getAttribute('data-anchor-id')
+        if (anchorId) {
+          onActiveAnchorChange(anchorId)
+        }
+      },
+      {
+        root: container,
+        threshold: [0.4, 0.7, 1],
+      }
+    )
+
+    for (const anchor of anchors) {
+      observer.observe(anchor)
+    }
+
+    return () => observer.disconnect()
+  }, [scene, onActiveAnchorChange])
+
   if (!scene) {
     return (
       <div className="flex items-center justify-center h-full">
@@ -66,6 +105,8 @@ export function SceneViewer({
   }
 
   const renderBlock = (block: ContentBlock, index: number) => {
+    const blockAnchorPrefix = `${scene.id}-b${index + 1}`
+
     switch (block.type) {
       case 'dialogue':
         return (
@@ -73,9 +114,13 @@ export function SceneViewer({
             key={`dialogue-${index}`}
             block={block}
             characters={characters}
+            blockAnchorPrefix={blockAnchorPrefix}
             onCharacterClick={onCharacterClick}
             onMotifClick={onMotifClick}
             onGlossaryTermClick={onGlossaryTermClick}
+            onTermPreviewStart={onTermPreviewStart}
+            onTermPreviewEnd={onTermPreviewEnd}
+            onTermPreviewToggle={onTermPreviewToggle}
           />
         )
       case 'narrative':
@@ -83,10 +128,14 @@ export function SceneViewer({
           <NarrativeBlock
             key={`narrative-${index}`}
             block={block}
+            blockAnchorPrefix={blockAnchorPrefix}
             characters={characters}
             onCharacterClick={onCharacterClick}
             onMotifClick={onMotifClick}
             onGlossaryTermClick={onGlossaryTermClick}
+            onTermPreviewStart={onTermPreviewStart}
+            onTermPreviewEnd={onTermPreviewEnd}
+            onTermPreviewToggle={onTermPreviewToggle}
           />
         )
       case 'scene':

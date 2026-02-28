@@ -17,7 +17,8 @@ export interface ReaderSettings {
   fontSize: 'sm' | 'md' | 'lg' | 'xl'
   lineHeight: 'tight' | 'normal' | 'relaxed'
   fontFamily: 'sans' | 'serif' | 'mono'
-  theme: 'void' | 'deep' | 'warm'
+  theme: 'void' | 'deep' | 'warm' | 'revolte'
+  brightness: number
   showMotifs: boolean
   autoScroll: boolean
   scrollSpeed: number
@@ -26,8 +27,9 @@ export interface ReaderSettings {
 const DEFAULT_SETTINGS: ReaderSettings = {
   fontSize: 'md',
   lineHeight: 'normal',
-  fontFamily: 'sans',
+  fontFamily: 'mono',
   theme: 'void',
+  brightness: 0,
   showMotifs: true,
   autoScroll: false,
   scrollSpeed: 1.0,
@@ -36,12 +38,40 @@ const DEFAULT_SETTINGS: ReaderSettings = {
 interface ReaderSettingsDialogProps {
   settings: ReaderSettings
   onSettingsChange: (settings: ReaderSettings) => void
+  open?: boolean
+  onOpenChange?: (open: boolean) => void
+  triggerClassName?: string
 }
 
-export function ReaderSettingsDialog({ settings, onSettingsChange }: ReaderSettingsDialogProps) {
-  const [open, setOpen] = useState(false)
+export function ReaderSettingsDialog({
+  settings,
+  onSettingsChange,
+  open: openProp,
+  onOpenChange,
+  triggerClassName,
+}: ReaderSettingsDialogProps) {
+  const [internalOpen, setInternalOpen] = useState(false)
+  const open = openProp ?? internalOpen
+  const setOpen = onOpenChange ?? setInternalOpen
 
   const updateSetting = <K extends keyof ReaderSettings>(key: K, value: ReaderSettings[K]) => {
+    if (key === 'theme') {
+      const nextTheme = value as ReaderSettings['theme']
+      const disabledByBrightness =
+        settings.brightness > 0 && (nextTheme === 'deep' || nextTheme === 'warm')
+      if (disabledByBrightness) return
+    }
+
+    if (key === 'brightness') {
+      const nextBrightness = value as number
+      const nextSettings = { ...settings, [key]: nextBrightness }
+      if (nextBrightness > 0 && (nextSettings.theme === 'deep' || nextSettings.theme === 'warm')) {
+        nextSettings.theme = 'void'
+      }
+      onSettingsChange(nextSettings)
+      return
+    }
+
     onSettingsChange({ ...settings, [key]: value })
   }
 
@@ -56,7 +86,7 @@ export function ReaderSettingsDialog({ settings, onSettingsChange }: ReaderSetti
         <Button
           variant="ghost"
           size="icon"
-          className="text-zinc-600 hover:text-zinc-400 hover:bg-zinc-900/50"
+          className={triggerClassName || 'text-zinc-600 hover:text-zinc-400 hover:bg-zinc-900/50'}
         >
           <Settings className="w-5 h-5" />
         </Button>
@@ -160,21 +190,50 @@ export function ReaderSettingsDialog({ settings, onSettingsChange }: ReaderSetti
                       { value: 'void', label: 'Void', desc: 'Deep black-blue' },
                       { value: 'deep', label: 'Deep', desc: 'Charcoal darkness' },
                       { value: 'warm', label: 'Warm', desc: 'Fire-lit shadows' },
+                      { value: 'revolte', label: 'Revolte', desc: 'Violet noir, neon orange' },
                     ] as const
-                  ).map((theme) => (
+                  ).map((theme) => {
+                    const disabled =
+                      settings.brightness > 0 && (theme.value === 'deep' || theme.value === 'warm')
+                    return (
                     <button
                       key={theme.value}
+                      type="button"
                       onClick={() => updateSetting('theme', theme.value)}
+                      disabled={disabled}
                       className={`p-3 rounded-sm border transition-all text-left ${
                         settings.theme === theme.value
                           ? 'border-orange-500/50 bg-orange-500/20'
-                          : 'border-zinc-800 bg-zinc-900/30 hover:border-zinc-700'
+                          : disabled
+                            ? 'border-zinc-900 bg-zinc-950/40 text-zinc-700 cursor-not-allowed opacity-50'
+                            : 'border-zinc-800 bg-zinc-900/30 hover:border-zinc-700'
                       }`}
                     >
                       <div className="text-sm font-medium text-zinc-300">{theme.label}</div>
                       <div className="text-xs text-zinc-600 mt-1">{theme.desc}</div>
+                      {disabled && (
+                        <div className="text-[10px] uppercase tracking-wider text-zinc-500 mt-2">
+                          Disabled when brightness &gt; 0
+                        </div>
+                      )}
                     </button>
-                  ))}
+                    )
+                  })}
+                </div>
+              </div>
+
+              <div className="space-y-2">
+                <Label className="text-xs text-zinc-600 uppercase tracking-wider">Brightness</Label>
+                <div className="px-1">
+                  <input
+                    type="range"
+                    min={0}
+                    max={100}
+                    value={settings.brightness}
+                    onChange={(event) => updateSetting('brightness', Number(event.target.value))}
+                    className="w-full accent-orange-500"
+                  />
+                  <div className="text-xs text-zinc-500 mt-1">Level {settings.brightness}</div>
                 </div>
               </div>
             </div>

@@ -1,13 +1,16 @@
 import type { DialogueLine } from '@/types'
 import { Badge } from '@/components/ui/badge'
-import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip'
 
 interface DialogueBlockProps {
   block: DialogueLine
   characters: Map<string, { name: string; description: string }>
+  blockAnchorPrefix?: string
   onCharacterClick?: (name: string) => void
   onMotifClick?: (name: string) => void
   onGlossaryTermClick?: (name: string) => void
+  onTermPreviewStart?: (name: string) => void
+  onTermPreviewEnd?: (name: string) => void
+  onTermPreviewToggle?: (name: string) => void
 }
 
 const MOTIF_COLORS = {
@@ -22,12 +25,14 @@ const MOTIF_COLORS = {
 export function DialogueBlock({
   block,
   characters,
+  blockAnchorPrefix,
   onCharacterClick,
   onMotifClick,
   onGlossaryTermClick,
+  onTermPreviewStart,
+  onTermPreviewEnd,
+  onTermPreviewToggle,
 }: DialogueBlockProps) {
-  const character = characters.get(block.character)
-
   // Find motif references in dialogue
   const motifMatches = block.lines.flatMap((line) => {
     const matches = line.matchAll(/=([A-ZÄÖÜß_]+)=/g)
@@ -46,6 +51,9 @@ export function DialogueBlock({
           <button
             key={i}
             type="button"
+            onMouseEnter={() => onTermPreviewStart?.(ref)}
+            onMouseLeave={() => onTermPreviewEnd?.(ref)}
+            onTouchStart={() => onTermPreviewToggle?.(ref)}
             onClick={() => {
               if (isCharacter) {
                 onCharacterClick?.(ref)
@@ -71,28 +79,19 @@ export function DialogueBlock({
     <div className="my-8 first:mt-4">
       {/* Character header with glow */}
       <div className="flex items-center gap-3 mb-3">
-        <Tooltip>
-          <TooltipTrigger asChild>
-            <button
-              type="button"
-              onClick={() => onCharacterClick?.(block.character)}
-              className="relative group"
-            >
-              <div className="absolute -inset-2 bg-orange-500/20 rounded-sm blur-sm opacity-0 group-hover:opacity-100 transition-opacity" />
-              <h3 className="relative font-bold text-orange-400 text-sm tracking-wider uppercase">
-                {block.character}
-              </h3>
-            </button>
-          </TooltipTrigger>
-          <TooltipContent side="top" className="max-w-xs">
-            <p className="font-mono text-[11px] uppercase tracking-wide text-zinc-300">
-              {block.character}
-            </p>
-            <p className="mt-1 text-xs text-zinc-100 leading-relaxed">
-              {character?.description || 'Keine Beschreibung vorhanden.'}
-            </p>
-          </TooltipContent>
-        </Tooltip>
+        <button
+          type="button"
+          onMouseEnter={() => onTermPreviewStart?.(block.character)}
+          onMouseLeave={() => onTermPreviewEnd?.(block.character)}
+          onTouchStart={() => onTermPreviewToggle?.(block.character)}
+          onClick={() => onCharacterClick?.(block.character)}
+          className="relative group"
+        >
+          <div className="absolute -inset-2 bg-orange-500/20 rounded-sm blur-sm opacity-0 group-hover:opacity-100 transition-opacity" />
+          <h3 className="relative font-bold text-orange-400 text-sm tracking-wider uppercase">
+            {block.character}
+          </h3>
+        </button>
         {block.stageDirection && (
           <span className="text-xs text-zinc-600 italic font-light">({block.stageDirection})</span>
         )}
@@ -101,7 +100,12 @@ export function DialogueBlock({
       {/* Dialogue lines */}
       <div className="pl-4 space-y-1">
         {block.lines.map((line, i) => (
-          <p key={i} className="text-zinc-300 leading-relaxed font-light">
+          <p
+            key={i}
+            id={blockAnchorPrefix ? `${blockAnchorPrefix}-l${i + 1}` : undefined}
+            data-anchor-id={blockAnchorPrefix ? `${blockAnchorPrefix}-l${i + 1}` : undefined}
+            className="text-zinc-300 leading-relaxed font-light scroll-mt-24"
+          >
             {renderLine(line)}
           </p>
         ))}

@@ -14,8 +14,7 @@ import type {
   Leitmotif,
 } from '@/types'
 
-const CHARACTER_REGEX = /^- ([A-ZÄÖÜß]+) = (.+) — (.+)$/
-const MOTIF_REGEX = /^- ([A-ZÄÖÜß_]+) : : (.+)$/
+const CHARACTER_LINE_REGEX = /^- (.+?) — (.+)$/
 const DIALOGUE_SPEAKER_REGEX = /^([A-ZÄÖÜ][A-ZÄÖÜ\s\-]+)$/
 const STAGE_DIRECTION_REGEX = /^\(([^)]+)\)$/
 const EPISODE_HEADER = /^\* EPISODE (\d+) — (.+)$/
@@ -80,13 +79,26 @@ export function parseOrgFile(content: string, episodeNumber: number): Episode {
 
     // Parse character
     if (inBesetzung) {
-      const charMatch = line.match(CHARACTER_REGEX)
+      const charMatch = line.match(CHARACTER_LINE_REGEX)
       if (charMatch) {
-        const [, name, shortDesc, fullDesc] = charMatch
-        episode.characters.set(name, {
-          name,
-          description: fullDesc.trim(),
-          episodes: [episodeNumber],
+        const namesPart = charMatch[1].trim()
+        const description = charMatch[2].trim()
+
+        const inlineNames = Array.from(namesPart.matchAll(/=([A-ZÄÖÜß_]+)=/g)).map((m) => m[1])
+        const fallbackNames =
+          inlineNames.length > 0
+            ? inlineNames
+            : namesPart
+                .split('/')
+                .map((part) => part.trim().replace(/[^A-ZÄÖÜß_]/g, ''))
+                .filter(Boolean)
+
+        fallbackNames.forEach((name) => {
+          episode.characters.set(name, {
+            name,
+            description,
+            episodes: [episodeNumber],
+          })
         })
       }
       continue
@@ -147,9 +159,21 @@ export function parseOrgFile(content: string, episodeNumber: number): Episode {
     // Parse content within scenes
     if (currentScene) {
       const trimmedLine = lines[i].trimRight()
+      const lastBlock = currentBlock[currentBlock.length - 1]
 
-      // Empty line - skip but preserve paragraph separation
+      // Empty line ends active dialogue blocks.
+      // We inject an empty narrative spacer so following prose is not appended to speech.
       if (!trimmedLine) {
+        if (lastBlock?.type === 'dialogue') {
+          const prevBlock = currentBlock[currentBlock.length - 1]
+          const hasSpacer = prevBlock?.type === 'narrative' && prevBlock.text === ''
+          if (!hasSpacer) {
+            currentBlock.push({
+              type: 'narrative',
+              text: '',
+            })
+          }
+        }
         continue
       }
 
@@ -189,7 +213,6 @@ export function parseOrgFile(content: string, episodeNumber: number): Episode {
       }
 
       // Check if this continues dialogue or is narrative
-      const lastBlock = currentBlock[currentBlock.length - 1]
       if (lastBlock?.type === 'dialogue') {
         // Check if this looks like it belongs to the dialogue
         // (not a new character name, not empty)
@@ -203,7 +226,11 @@ export function parseOrgFile(content: string, episodeNumber: number): Episode {
       if (trimmedLine && !trimmedLine.startsWith('#')) {
         // Merge with previous narrative block or create new
         if (lastBlock?.type === 'narrative') {
-          lastBlock.text += ' ' + trimmedLine
+          if (!lastBlock.text) {
+            lastBlock.text = trimmedLine
+          } else {
+            lastBlock.text += ' ' + trimmedLine
+          }
         } else {
           currentBlock.push({
             type: 'narrative',

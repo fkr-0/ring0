@@ -1,21 +1,28 @@
 import type { NarrativeBlock } from '@/types'
 import { findMotifReferences } from '@/lib/org-parser'
-import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip'
 
 interface NarrativeBlockProps {
   block: NarrativeBlock
+  blockAnchorPrefix?: string
   characters?: Map<string, { name: string; description: string }>
   onCharacterClick?: (character: string) => void
   onMotifClick?: (motif: string) => void
   onGlossaryTermClick?: (term: string) => void
+  onTermPreviewStart?: (name: string) => void
+  onTermPreviewEnd?: (name: string) => void
+  onTermPreviewToggle?: (name: string) => void
 }
 
 export function NarrativeBlock({
   block,
+  blockAnchorPrefix,
   characters,
   onCharacterClick,
   onMotifClick,
   onGlossaryTermClick,
+  onTermPreviewStart,
+  onTermPreviewEnd,
+  onTermPreviewToggle,
 }: NarrativeBlockProps) {
   const motifs = findMotifReferences(block.text)
 
@@ -44,32 +51,23 @@ export function NarrativeBlock({
     return parts.map((part, i) => {
       if (part.isMotif && part.motif) {
         const isCharacter = characters?.has(part.motif)
-        const characterDescription = isCharacter ? characters?.get(part.motif)?.description : ''
 
         if (isCharacter) {
           return (
-            <Tooltip key={i}>
-              <TooltipTrigger asChild>
-                <button
-                  type="button"
-                  onClick={() => onCharacterClick?.(part.motif!)}
-                  className="mx-0.5 px-1.5 py-0.5 text-orange-300/90 font-mono text-sm
+            <button
+              key={i}
+              type="button"
+              onMouseEnter={() => onTermPreviewStart?.(part.motif!)}
+              onMouseLeave={() => onTermPreviewEnd?.(part.motif!)}
+              onTouchStart={() => onTermPreviewToggle?.(part.motif!)}
+              onClick={() => onCharacterClick?.(part.motif!)}
+              className="mx-0.5 px-1.5 py-0.5 text-orange-300/90 font-mono text-sm
                      bg-orange-500/10 border border-orange-500/20 rounded-sm
                      hover:bg-orange-500/20 hover:border-orange-500/40
                      transition-all duration-200"
-                >
-                  ={part.text}=
-                </button>
-              </TooltipTrigger>
-              <TooltipContent side="top" className="max-w-xs">
-                <p className="font-mono text-[11px] uppercase tracking-wide text-zinc-300">
-                  {part.motif}
-                </p>
-                <p className="mt-1 text-xs text-zinc-100 leading-relaxed">
-                  {characterDescription || 'Keine Beschreibung vorhanden.'}
-                </p>
-              </TooltipContent>
-            </Tooltip>
+            >
+              ={part.text}=
+            </button>
           )
         }
 
@@ -77,6 +75,9 @@ export function NarrativeBlock({
           <button
             key={i}
             type="button"
+            onMouseEnter={() => onTermPreviewStart?.(part.motif!)}
+            onMouseLeave={() => onTermPreviewEnd?.(part.motif!)}
+            onTouchStart={() => onTermPreviewToggle?.(part.motif!)}
             onClick={() => {
               if (motifs.includes(part.motif!)) {
                 onMotifClick?.(part.motif!)
@@ -102,7 +103,12 @@ export function NarrativeBlock({
   return (
     <div className="my-6 first:mt-4">
       {paragraphs.map((para, i) => (
-        <p key={i} className="text-zinc-400 leading-relaxed font-light indent-8 first:indent-0">
+        <p
+          key={i}
+          id={blockAnchorPrefix ? `${blockAnchorPrefix}-p${i + 1}` : undefined}
+          data-anchor-id={blockAnchorPrefix ? `${blockAnchorPrefix}-p${i + 1}` : undefined}
+          className="text-zinc-400 leading-relaxed font-light indent-8 first:indent-0 scroll-mt-24"
+        >
           {renderText(para)}
         </p>
       ))}
