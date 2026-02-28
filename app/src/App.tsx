@@ -38,7 +38,7 @@ function App() {
   const [selectedMotif, setSelectedMotif] = useState<Leitmotif | null>(null)
   const [selectedGlossaryTerm, setSelectedGlossaryTerm] = useState<GlossaryTerm | null>(null)
   const [settings, setSettings] = useState<ReaderSettings>(DEFAULT_SETTINGS)
-  const [showHome, setShowHome] = useState(false)
+  const [showHome, setShowHome] = useState(true)
   const [showGlossary, setShowGlossary] = useState(false)
 
   // Parse episodes on mount
@@ -62,6 +62,11 @@ function App() {
   const currentEpisodeData = episodes[currentEpisode - 1]
   const currentSceneData = currentEpisodeData?.scenes[currentScene]
   const buildMetaLabel = useMemo(() => formatBuildMeta(), [])
+  const brandMark = (
+    <span className="font-mono uppercase tracking-[0.25em] text-zinc-100">
+      RING<span className="text-cyan-300">0</span>
+    </span>
+  )
 
   // Calculate total progress
   const totalScenes = useMemo(() => {
@@ -274,7 +279,7 @@ function App() {
               }}
               className="text-zinc-400 hover:text-orange-300 transition-colors"
             >
-              ring0
+              {brandMark}
             </button>
             <button
               type="button"
@@ -341,9 +346,9 @@ function App() {
         <div className="relative z-10 max-w-4xl mx-auto px-8 py-12">
           <div className="mb-12 text-center">
             <h1 className="text-5xl font-bold text-orange-400 tracking-wider uppercase mb-4">
-              ring0
+              {brandMark}
             </h1>
-            <p className="text-xl text-zinc-500 font-light">cyber-noir ring cycle reader</p>
+            <p className="text-xl text-zinc-500 font-light">scifi-noir ring cycle reader</p>
             <button
               type="button"
               onClick={() => setShowGlossary(true)}
@@ -420,6 +425,7 @@ function App() {
         </button>
 
         <div className="flex items-center gap-2">
+          <span className="hidden sm:inline text-[11px]">{brandMark}</span>
           <button
             type="button"
             onClick={() => setShowGlossary(true)}

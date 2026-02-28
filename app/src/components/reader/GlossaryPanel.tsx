@@ -61,7 +61,7 @@ export function GlossaryPanel({ terms, onTermSelect }: GlossaryPanelProps) {
         {grouped.map(([initial, items]) => (
           <div key={initial}>
             <h3 className="text-sm font-mono text-zinc-500 uppercase tracking-widest mb-3">{initial}</h3>
-            <div className="grid gap-2">
+            <div className="grid gap-2 md:grid-cols-2">
               {items.map((term) => (
                 <button
                   type="button"

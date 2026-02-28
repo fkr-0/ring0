@@ -52,10 +52,11 @@ function upsertTerm(
   kind: GlossaryTermKind,
   shortDescription: string
 ) {
+  const normalizedDescription = normalizeShortDescription(term, kind, shortDescription)
   const existing = terms.get(term)
   if (existing) {
-    if (!existing.shortDescription && shortDescription) {
-      existing.shortDescription = shortDescription
+    if (!existing.shortDescription && normalizedDescription) {
+      existing.shortDescription = normalizedDescription
     }
     return
   }
@@ -64,10 +65,41 @@ function upsertTerm(
     term,
     slug: toSlug(term),
     kind,
-    shortDescription,
+    shortDescription: normalizedDescription,
     longDescription: getDetailText(term),
     appearances: new Map(),
   })
+}
+
+function normalizeShortDescription(
+  term: string,
+  kind: GlossaryTermKind,
+  shortDescription: string
+): string {
+  const cleaned = shortDescription.trim()
+
+  if (cleaned.length >= 12) {
+    if (/[.!?]$/.test(cleaned)) return cleaned
+    return `${cleaned}.`
+  }
+
+  if (kind === 'character') {
+    return `${term} ist eine zentrale Figur im Ring0-Zyklus und traegt die Konflikte der Handlung.`
+  }
+
+  if (kind === 'motif') {
+    return `${term} ist ein Leitmotiv, das Handlung, Atmosphaere und Bedeutung verbindet.`
+  }
+
+  if (kind === 'place') {
+    return `${term} ist ein zentraler Schauplatz im Verlauf der vier Episoden.`
+  }
+
+  if (kind === 'object') {
+    return `${term} ist ein handlungsleitendes Objekt mit direktem Einfluss auf die Machtordnung.`
+  }
+
+  return `${term} ist ein Schluesselbegriff der Welt von ring0.`
 }
 
 function addAppearance(terms: Map<string, MutableTerm>, term: string, appearance: GlossaryAppearance) {
