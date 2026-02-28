@@ -11,6 +11,7 @@ Client-side reading app for a German neo-noir/cyberpunk retelling of Wagner's Ri
 ## Repository Layout
 
 - `Ep1-rheingold.org` to `Ep4-Goetterdaemmerung.org`: canonical story source
+- `glossary/`: content glossary seed and optional per-term detail texts
 - `app/`: Vite + React + TypeScript reading application
 - `docs/aktuebersicht.de.md`: compact German act overview and staging notes
 - `.github/workflows/deploy.yml`: GitHub Pages deployment

@@ -1,0 +1,52 @@
+[
+  {
+    "term": "VALHALLA",
+    "kind": "place",
+    "shortDescription": "Orbitaler Machtkomplex der Goetter; Symbol fuer Ordnung durch Vertrag und Distanz."
+  },
+  {
+    "term": "RHEIN",
+    "kind": "place",
+    "shortDescription": "Unterstrom der Welt und natuerliches Gedaechtnis; hier entscheidet sich Anfang und Ende."
+  },
+  {
+    "term": "NIBELHEIM",
+    "kind": "place",
+    "shortDescription": "Industrielle Unterwelt der Ausbeutung, in der Ringmacht als Zwang organisiert wird."
+  },
+  {
+    "term": "RHEINGOLD",
+    "kind": "object",
+    "shortDescription": "Ursprungsenergie des Zyklus; ihr Raub setzt die gesamte Gewaltkette in Gang."
+  },
+  {
+    "term": "RING",
+    "kind": "object",
+    "shortDescription": "Traeger der Besitzlogik: Wer ihn haelt, gewinnt Macht und verliert Bindung."
+  },
+  {
+    "term": "SPEER",
+    "kind": "object",
+    "shortDescription": "Wotans Vertragsinstrument; juristisches Rueckgrat einer bruechigen Ordnung."
+  },
+  {
+    "term": "TARNHELM",
+    "kind": "object",
+    "shortDescription": "Technik der Verwandlung und Verschleierung, die Macht taktisch multipliziert."
+  },
+  {
+    "term": "FLUCH",
+    "kind": "concept",
+    "shortDescription": "Systemeffekt von Besitz und Angst: Vertrauen kippt in Verrat, Bindung in Gewalt."
+  },
+  {
+    "term": "VERTRAG",
+    "kind": "concept",
+    "shortDescription": "Grundform der Herrschaft in ring0: Recht, Schuld und Gewalt werden gleichgeschaltet."
+  },
+  {
+    "term": "FEUER",
+    "kind": "concept",
+    "shortDescription": "Grenze und Urteil zugleich; prueft, trennt und markiert den Uebergang der Ordnung."
+  }
+]

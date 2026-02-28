@@ -65,3 +65,22 @@ export interface AppearanceData {
   count: number
   firstScene: number
 }
+
+export type GlossaryTermKind = 'character' | 'motif' | 'place' | 'object' | 'concept'
+
+export interface GlossaryAppearance {
+  sceneId: string
+  episode: number
+  akt: string
+  sceneTitle: string
+  count: number
+}
+
+export interface GlossaryTerm {
+  term: string
+  slug: string
+  kind: GlossaryTermKind
+  shortDescription: string
+  longDescription?: string
+  appearances: GlossaryAppearance[]
+}

@@ -9,6 +9,7 @@ interface SceneViewerProps {
   characters: Map<string, { name: string; description: string }>
   onCharacterClick?: (name: string) => void
   onMotifClick?: (motif: string) => void
+  onGlossaryTermClick?: (term: string) => void
   autoScroll?: boolean
   fontSize?: 'sm' | 'md' | 'lg' | 'xl'
   lineHeight?: 'tight' | 'normal' | 'relaxed'
@@ -39,6 +40,7 @@ export function SceneViewer({
   characters,
   onCharacterClick,
   onMotifClick,
+  onGlossaryTermClick,
   autoScroll = false,
   fontSize = 'md',
   lineHeight = 'normal',
@@ -72,11 +74,20 @@ export function SceneViewer({
             block={block}
             characters={characters}
             onCharacterClick={onCharacterClick}
+            onMotifClick={onMotifClick}
+            onGlossaryTermClick={onGlossaryTermClick}
           />
         )
       case 'narrative':
         return (
-          <NarrativeBlock key={`narrative-${index}`} block={block} onMotifClick={onMotifClick} />
+          <NarrativeBlock
+            key={`narrative-${index}`}
+            block={block}
+            characters={characters}
+            onCharacterClick={onCharacterClick}
+            onMotifClick={onMotifClick}
+            onGlossaryTermClick={onGlossaryTermClick}
+          />
         )
       case 'scene':
         return <SceneHeaderComponent key={`scene-${index}`} block={block} />

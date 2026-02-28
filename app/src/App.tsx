@@ -4,14 +4,17 @@ import { NavigationControls } from './components/reader/NavigationControls'
 import { ProgressTracker } from './components/reader/ProgressTracker'
 import { CharacterSheet } from './components/reader/CharacterSheet'
 import { MotifSheet } from './components/reader/MotifSheet'
+import { GlossaryPanel } from './components/reader/GlossaryPanel'
+import { GlossaryDetail } from './components/reader/GlossaryDetail'
 import {
   ReaderSettingsDialog,
   DEFAULT_SETTINGS,
   type ReaderSettings,
 } from './components/reader/ReaderSettings'
 import { TextureOverlay, AnimatedBackground } from './components/reader/TextureOverlay'
-import type { Episode, Scene, Leitmotif, Character } from './types'
+import type { Episode, Leitmotif, Character, GlossaryTerm } from './types'
 import { parseOrgFile } from './lib/org-parser'
+import { buildGlossary, formatBuildMeta } from './lib/glossary'
 
 // Import org files via virtual module
 import ep1Content from 'virtual:org-files:Ep1-rheingold.org'
@@ -33,8 +36,10 @@ function App() {
   const [currentScene, setCurrentScene] = useState(0)
   const [selectedCharacter, setSelectedCharacter] = useState<Character | null>(null)
   const [selectedMotif, setSelectedMotif] = useState<Leitmotif | null>(null)
+  const [selectedGlossaryTerm, setSelectedGlossaryTerm] = useState<GlossaryTerm | null>(null)
   const [settings, setSettings] = useState<ReaderSettings>(DEFAULT_SETTINGS)
   const [showHome, setShowHome] = useState(false)
+  const [showGlossary, setShowGlossary] = useState(false)
 
   // Parse episodes on mount
   useEffect(() => {
@@ -56,6 +61,7 @@ function App() {
   // Computed values
   const currentEpisodeData = episodes[currentEpisode - 1]
   const currentSceneData = currentEpisodeData?.scenes[currentScene]
+  const buildMetaLabel = useMemo(() => formatBuildMeta(), [])
 
   // Calculate total progress
   const totalScenes = useMemo(() => {
@@ -70,6 +76,26 @@ function App() {
     count += currentScene
     return count
   }, [episodes, currentEpisode, currentScene])
+
+  const glossaryTerms = useMemo(() => buildGlossary(episodes), [episodes])
+
+  const glossaryByTerm = useMemo(() => {
+    const map = new Map<string, GlossaryTerm>()
+    for (const term of glossaryTerms) {
+      map.set(term.term, term)
+    }
+    return map
+  }, [glossaryTerms])
+
+  const sceneIndexById = useMemo(() => {
+    const map = new Map<string, { episode: number; scene: number }>()
+    episodes.forEach((episode) => {
+      episode.scenes.forEach((scene, sceneIndex) => {
+        map.set(scene.id, { episode: episode.number, scene: sceneIndex })
+      })
+    })
+    return map
+  }, [episodes])
 
   // Navigation handlers
   const handleNextScene = useCallback(() => {
@@ -112,6 +138,8 @@ function App() {
     setCurrentEpisode(episode)
     setCurrentScene(0)
     setShowHome(false)
+    setShowGlossary(false)
+    setSelectedGlossaryTerm(null)
   }, [])
 
   // Character/Motif handlers
@@ -156,6 +184,46 @@ function App() {
     [episodes]
   )
 
+  const handleGlossaryTermClick = useCallback(
+    (termName: string) => {
+      const term = glossaryByTerm.get(termName)
+      if (!term) return
+      if (term.kind === 'character') {
+        handleCharacterClick(termName)
+        return
+      }
+      if (term.kind === 'motif') {
+        handleMotifClick(termName)
+        return
+      }
+      setSelectedMotif(null)
+      setSelectedCharacter(null)
+      setShowHome(false)
+      setShowGlossary(true)
+      setSelectedGlossaryTerm(term)
+    },
+    [glossaryByTerm, handleCharacterClick, handleMotifClick]
+  )
+
+  const handleGlossarySelect = useCallback((term: GlossaryTerm) => {
+    setShowHome(false)
+    setShowGlossary(true)
+    setSelectedGlossaryTerm(term)
+  }, [])
+
+  const handleJumpToAppearance = useCallback(
+    (sceneId: string) => {
+      const target = sceneIndexById.get(sceneId)
+      if (!target) return
+      setCurrentEpisode(target.episode)
+      setCurrentScene(target.scene)
+      setShowGlossary(false)
+      setSelectedGlossaryTerm(null)
+      setShowHome(false)
+    },
+    [sceneIndexById]
+  )
+
   // Get related motifs for character
   const relatedMotifs = useMemo(() => {
     if (!selectedCharacter) return []
@@ -191,6 +259,78 @@ function App() {
     return allChars
   }, [episodes])
 
+  if (selectedGlossaryTerm) {
+    return (
+      <div className="min-h-screen bg-zinc-950 text-zinc-200">
+        <AnimatedBackground />
+        <TextureOverlay />
+        <div className="relative z-10">
+          <header className="max-w-4xl mx-auto px-8 py-6 border-b border-zinc-800/50 flex items-center justify-between gap-4">
+            <button
+              type="button"
+              onClick={() => {
+                setSelectedGlossaryTerm(null)
+                setShowGlossary(true)
+              }}
+              className="text-zinc-400 hover:text-orange-300 transition-colors"
+            >
+              ring0
+            </button>
+            <button
+              type="button"
+              onClick={() => {
+                setSelectedGlossaryTerm(null)
+                setShowGlossary(false)
+              }}
+              className="text-zinc-500 hover:text-zinc-200 transition-colors text-sm"
+            >
+              Zur Leseansicht
+            </button>
+          </header>
+          <GlossaryDetail
+            term={selectedGlossaryTerm}
+            onBack={() => setSelectedGlossaryTerm(null)}
+            onJumpToAppearance={handleJumpToAppearance}
+          />
+          <footer className="max-w-4xl mx-auto px-8 pb-8 text-xs font-mono text-zinc-600">
+            {buildMetaLabel}
+          </footer>
+        </div>
+      </div>
+    )
+  }
+
+  if (showGlossary) {
+    return (
+      <div className="min-h-screen bg-zinc-950 text-zinc-200">
+        <AnimatedBackground />
+        <TextureOverlay />
+        <div className="relative z-10">
+          <header className="max-w-5xl mx-auto px-8 py-6 border-b border-zinc-800/50 flex items-center justify-between gap-4">
+            <button
+              type="button"
+              onClick={() => setShowGlossary(false)}
+              className="text-zinc-400 hover:text-orange-300 transition-colors"
+            >
+              Zur Leseansicht
+            </button>
+            <button
+              type="button"
+              onClick={() => setShowHome(true)}
+              className="text-zinc-500 hover:text-zinc-200 transition-colors text-sm"
+            >
+              Episodenstart
+            </button>
+          </header>
+          <GlossaryPanel terms={glossaryTerms} onTermSelect={handleGlossarySelect} />
+          <footer className="max-w-5xl mx-auto px-8 pb-8 text-xs font-mono text-zinc-600">
+            {buildMetaLabel}
+          </footer>
+        </div>
+      </div>
+    )
+  }
+
   // Home view
   if (showHome || !currentEpisodeData) {
     return (
@@ -201,9 +341,16 @@ function App() {
         <div className="relative z-10 max-w-4xl mx-auto px-8 py-12">
           <div className="mb-12 text-center">
             <h1 className="text-5xl font-bold text-orange-400 tracking-wider uppercase mb-4">
-              Der Ring
+              ring0
             </h1>
-            <p className="text-xl text-zinc-500 font-light">ring0</p>
+            <p className="text-xl text-zinc-500 font-light">cyber-noir ring cycle reader</p>
+            <button
+              type="button"
+              onClick={() => setShowGlossary(true)}
+              className="mt-4 text-sm text-zinc-400 hover:text-orange-300 transition-colors"
+            >
+              Glossar oeffnen
+            </button>
           </div>
 
           <ProgressTracker
@@ -221,6 +368,7 @@ function App() {
               <div className="grid gap-2">
                 {currentEpisodeData.scenes.map((scene, idx) => (
                   <button
+                    type="button"
                     key={scene.id}
                     onClick={() => {
                       setCurrentScene(idx)
@@ -245,6 +393,9 @@ function App() {
             </div>
           )}
         </div>
+        <footer className="relative z-10 max-w-4xl mx-auto px-8 pb-8 text-xs font-mono text-zinc-600">
+          {buildMetaLabel}
+        </footer>
       </div>
     )
   }
@@ -258,6 +409,7 @@ function App() {
       {/* Header */}
       <header className="relative z-20 flex items-center justify-between px-4 py-3 border-b border-zinc-800/50 bg-zinc-950/50 backdrop-blur-sm">
         <button
+          type="button"
           onClick={() => setShowHome(true)}
           className="text-zinc-600 hover:text-orange-400 transition-colors"
         >
@@ -268,6 +420,13 @@ function App() {
         </button>
 
         <div className="flex items-center gap-2">
+          <button
+            type="button"
+            onClick={() => setShowGlossary(true)}
+            className="text-xs uppercase tracking-wider text-zinc-500 hover:text-zinc-200 transition-colors"
+          >
+            Glossar
+          </button>
           <ProgressTracker
             episodes={episodes}
             currentEpisode={currentEpisode}
@@ -287,6 +446,7 @@ function App() {
           characters={sceneCharacters}
           onCharacterClick={handleCharacterClick}
           onMotifClick={handleMotifClick}
+          onGlossaryTermClick={handleGlossaryTermClick}
           autoScroll={settings.autoScroll}
           fontSize={settings.fontSize}
           lineHeight={settings.lineHeight}
@@ -310,6 +470,7 @@ function App() {
           onNextScene={handleNextScene}
           onHome={() => setShowHome(true)}
         />
+        <div className="px-4 pb-3 text-[11px] font-mono text-zinc-600 text-center">{buildMetaLabel}</div>
       </footer>
 
       {/* Sheets */}

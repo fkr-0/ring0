@@ -1,10 +1,13 @@
-import { type DialogueLine } from '@/types'
+import type { DialogueLine } from '@/types'
 import { Badge } from '@/components/ui/badge'
+import { Tooltip, TooltipContent, TooltipTrigger } from '@/components/ui/tooltip'
 
 interface DialogueBlockProps {
   block: DialogueLine
   characters: Map<string, { name: string; description: string }>
   onCharacterClick?: (name: string) => void
+  onMotifClick?: (name: string) => void
+  onGlossaryTermClick?: (name: string) => void
 }
 
 const MOTIF_COLORS = {
@@ -16,7 +19,13 @@ const MOTIF_COLORS = {
   blood: 'text-red-500 border-red-500/30 bg-red-500/10',
 }
 
-export function DialogueBlock({ block, characters, onCharacterClick }: DialogueBlockProps) {
+export function DialogueBlock({
+  block,
+  characters,
+  onCharacterClick,
+  onMotifClick,
+  onGlossaryTermClick,
+}: DialogueBlockProps) {
   const character = characters.get(block.character)
 
   // Find motif references in dialogue
@@ -27,14 +36,31 @@ export function DialogueBlock({ block, characters, onCharacterClick }: DialogueB
 
   // Render line with motif highlighting
   const renderLine = (line: string) => {
-    const parts = line.split(/([A-ZÄÖÜß_]+)/g).filter(Boolean)
+    const parts = line.split(/(=[A-ZÄÖÜß_]+=)/g).filter(Boolean)
     return parts.map((part, i) => {
-      if (part.match(/^[A-ZÄÖÜß_]+$/) && part !== block.character) {
-        // This might be a motif reference
+      const match = part.match(/^=([A-ZÄÖÜß_]+)=$/)
+      if (match) {
+        const ref = match[1]
+        const isCharacter = characters.has(ref)
         return (
-          <span key={i} className="text-green-400/80 font-mono">
-            {part}
-          </span>
+          <button
+            key={i}
+            type="button"
+            onClick={() => {
+              if (isCharacter) {
+                onCharacterClick?.(ref)
+                return
+              }
+              onMotifClick?.(ref)
+              onGlossaryTermClick?.(ref)
+            }}
+            className="mx-0.5 px-1.5 py-0.5 text-green-400/90 font-mono text-sm
+                     bg-green-500/10 border border-green-500/20 rounded-sm
+                     hover:bg-green-500/20 hover:border-green-500/40
+                     transition-all duration-200"
+          >
+            ={ref}=
+          </button>
         )
       }
       return <span key={i}>{part}</span>
@@ -45,12 +71,28 @@ export function DialogueBlock({ block, characters, onCharacterClick }: DialogueB
     <div className="my-8 first:mt-4">
       {/* Character header with glow */}
       <div className="flex items-center gap-3 mb-3">
-        <button onClick={() => onCharacterClick?.(block.character)} className="relative group">
-          <div className="absolute -inset-2 bg-orange-500/20 rounded-sm blur-sm opacity-0 group-hover:opacity-100 transition-opacity" />
-          <h3 className="relative font-bold text-orange-400 text-sm tracking-wider uppercase">
-            {block.character}
-          </h3>
-        </button>
+        <Tooltip>
+          <TooltipTrigger asChild>
+            <button
+              type="button"
+              onClick={() => onCharacterClick?.(block.character)}
+              className="relative group"
+            >
+              <div className="absolute -inset-2 bg-orange-500/20 rounded-sm blur-sm opacity-0 group-hover:opacity-100 transition-opacity" />
+              <h3 className="relative font-bold text-orange-400 text-sm tracking-wider uppercase">
+                {block.character}
+              </h3>
+            </button>
+          </TooltipTrigger>
+          <TooltipContent side="top" className="max-w-xs">
+            <p className="font-mono text-[11px] uppercase tracking-wide text-zinc-300">
+              {block.character}
+            </p>
+            <p className="mt-1 text-xs text-zinc-100 leading-relaxed">
+              {character?.description || 'Keine Beschreibung vorhanden.'}
+            </p>
+          </TooltipContent>
+        </Tooltip>
         {block.stageDirection && (
           <span className="text-xs text-zinc-600 italic font-light">({block.stageDirection})</span>
         )}
