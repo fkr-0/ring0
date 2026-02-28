@@ -13,6 +13,11 @@ interface DialogueBlockProps {
   onTermPreviewToggle?: (name: string) => void
 }
 
+function isTouchPrimary(): boolean {
+  if (typeof window === 'undefined') return false
+  return window.matchMedia('(hover: none), (pointer: coarse)').matches
+}
+
 const MOTIF_COLORS = {
   fire: 'text-orange-500 border-orange-500/30 bg-orange-500/10',
   gold: 'text-amber-100 border-amber-100/30 bg-amber-100/10',
@@ -55,6 +60,7 @@ export function DialogueBlock({
             onMouseLeave={() => onTermPreviewEnd?.(ref)}
             onTouchStart={() => onTermPreviewToggle?.(ref)}
             onClick={() => {
+              if (isCharacter && isTouchPrimary()) return
               if (isCharacter) {
                 onCharacterClick?.(ref)
                 return
@@ -84,7 +90,10 @@ export function DialogueBlock({
           onMouseEnter={() => onTermPreviewStart?.(block.character)}
           onMouseLeave={() => onTermPreviewEnd?.(block.character)}
           onTouchStart={() => onTermPreviewToggle?.(block.character)}
-          onClick={() => onCharacterClick?.(block.character)}
+          onClick={() => {
+            if (isTouchPrimary()) return
+            onCharacterClick?.(block.character)
+          }}
           className="relative group"
         >
           <div className="absolute -inset-2 bg-orange-500/20 rounded-sm blur-sm opacity-0 group-hover:opacity-100 transition-opacity" />

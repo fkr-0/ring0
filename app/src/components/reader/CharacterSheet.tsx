@@ -7,7 +7,6 @@ import {
   SheetTitle,
 } from '@/components/ui/sheet'
 import { Badge } from '@/components/ui/badge'
-import { ScrollArea } from '@/components/ui/scroll-area'
 import { X } from 'lucide-react'
 
 interface CharacterSheetProps {
@@ -31,14 +30,18 @@ export function CharacterSheet({ character, relatedMotifs, open, onClose }: Char
 
   return (
     <Sheet open={open} onOpenChange={onClose}>
-      <SheetContent className="w-[400px] sm:w-[500px] bg-zinc-950/95 border-zinc-800">
+      <SheetContent className="w-[100vw] max-w-[100vw] sm:w-[500px] sm:max-w-[500px] bg-zinc-950/95 border-zinc-800 p-0 overflow-hidden">
         <div className="absolute top-4 right-4 z-10">
-          <button onClick={onClose} className="text-zinc-600 hover:text-zinc-400 transition-colors">
+          <button
+            type="button"
+            onClick={onClose}
+            className="text-zinc-600 hover:text-zinc-400 transition-colors"
+          >
             <X className="w-5 h-5" />
           </button>
         </div>
 
-        <SheetHeader className="mb-8">
+        <SheetHeader className="mb-4 px-4 pt-8 sm:px-6">
           {/* Glowing character name */}
           <div className="relative inline-block mb-4">
             <div className="absolute -inset-4 bg-orange-500/10 rounded-sm blur-xl" />
@@ -52,8 +55,8 @@ export function CharacterSheet({ character, relatedMotifs, open, onClose }: Char
           </SheetDescription>
         </SheetHeader>
 
-        <ScrollArea className="h-[calc(100vh-200px)]">
-          <div className="space-y-6 pr-4">
+        <div className="h-[calc(100dvh-190px)] overflow-y-auto px-4 pb-8 sm:px-6">
+          <div className="space-y-6 pr-1">
             {/* Episode appearances */}
             <div>
               <h4 className="text-xs font-mono text-zinc-600 uppercase tracking-wider mb-3">
@@ -104,7 +107,7 @@ export function CharacterSheet({ character, relatedMotifs, open, onClose }: Char
               </div>
             )}
           </div>
-        </ScrollArea>
+        </div>
       </SheetContent>
     </Sheet>
   )

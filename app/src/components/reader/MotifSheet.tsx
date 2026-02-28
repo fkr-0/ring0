@@ -6,7 +6,6 @@ import {
   SheetHeader,
   SheetTitle,
 } from '@/components/ui/sheet'
-import { ScrollArea } from '@/components/ui/scroll-area'
 import { X } from 'lucide-react'
 
 interface MotifSheetProps {
@@ -62,14 +61,18 @@ export function MotifSheet({ motif, relatedCharacters, open, onClose }: MotifShe
 
   return (
     <Sheet open={open} onOpenChange={onClose}>
-      <SheetContent className="w-[400px] sm:w-[500px] bg-zinc-950/95 border-zinc-800">
+      <SheetContent className="w-[100vw] max-w-[100vw] sm:w-[500px] sm:max-w-[500px] bg-zinc-950/95 border-zinc-800 p-0 overflow-hidden">
         <div className="absolute top-4 right-4 z-10">
-          <button onClick={onClose} className="text-zinc-600 hover:text-zinc-400 transition-colors">
+          <button
+            type="button"
+            onClick={onClose}
+            className="text-zinc-600 hover:text-zinc-400 transition-colors"
+          >
             <X className="w-5 h-5" />
           </button>
         </div>
 
-        <SheetHeader className="mb-8">
+        <SheetHeader className="mb-4 px-4 pt-8 sm:px-6">
           {/* Glowing motif name */}
           <div
             className={`relative inline-block mb-4 p-6 rounded-sm border ${colors.border} ${colors.bg}`}
@@ -82,8 +85,8 @@ export function MotifSheet({ motif, relatedCharacters, open, onClose }: MotifShe
           <SheetDescription className="text-zinc-500">Leitmotif</SheetDescription>
         </SheetHeader>
 
-        <ScrollArea className="h-[calc(100vh-200px)]">
-          <div className="space-y-6 pr-4">
+        <div className="h-[calc(100dvh-190px)] overflow-y-auto px-4 pb-8 sm:px-6">
+          <div className="space-y-6 pr-1">
             {/* Description */}
             <div>
               <h4 className="text-xs font-mono text-zinc-600 uppercase tracking-wider mb-3">
@@ -115,7 +118,7 @@ export function MotifSheet({ motif, relatedCharacters, open, onClose }: MotifShe
               </div>
             )}
           </div>
-        </ScrollArea>
+        </div>
       </SheetContent>
     </Sheet>
   )

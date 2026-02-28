@@ -13,6 +13,11 @@ interface NarrativeBlockProps {
   onTermPreviewToggle?: (name: string) => void
 }
 
+function isTouchPrimary(): boolean {
+  if (typeof window === 'undefined') return false
+  return window.matchMedia('(hover: none), (pointer: coarse)').matches
+}
+
 export function NarrativeBlock({
   block,
   blockAnchorPrefix,
@@ -60,7 +65,10 @@ export function NarrativeBlock({
               onMouseEnter={() => onTermPreviewStart?.(part.motif!)}
               onMouseLeave={() => onTermPreviewEnd?.(part.motif!)}
               onTouchStart={() => onTermPreviewToggle?.(part.motif!)}
-              onClick={() => onCharacterClick?.(part.motif!)}
+              onClick={() => {
+                if (isTouchPrimary()) return
+                onCharacterClick?.(part.motif!)
+              }}
               className="mx-0.5 px-1.5 py-0.5 text-orange-300/90 font-mono text-sm
                      bg-orange-500/10 border border-orange-500/20 rounded-sm
                      hover:bg-orange-500/20 hover:border-orange-500/40

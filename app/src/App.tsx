@@ -190,7 +190,6 @@ function App() {
 
   useEffect(() => {
     if (!activeAnchor) return
-    window.history.replaceState(null, '', `#${activeAnchor}`)
     window.localStorage.setItem(LAST_ANCHOR_STORAGE_KEY, activeAnchor)
     setLastSavedAnchor(activeAnchor)
   }, [activeAnchor])
