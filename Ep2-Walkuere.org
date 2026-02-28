@@ -1,0 +1,1228 @@
+#+title: DER RING: NEON-VALHALLA
+#+subtitle: Episode 2 — DIE WALKÜRE (Vollausarbeitung)
+
+* EPISODE 2 — DIE WALKÜRE
+*Tagline:* Liebe ist ein Verbrechen, wenn Verträge Gott spielen.
+
+*Besetzung (Episode 2)*
+- =LOGE= — Fixer/Ermittler, Voice-Over aus der Distanz; kennt die Akten, riecht die Lüge.
+- =WOTAN= — Konzernkönig; Speer = Eid-Backbone; bindet sich selbst an seine eigenen Regeln.
+- =FRICKA= — Ordnung, Ehe, Legitimität; die Klinge der Konsequenz.
+- =BRÜNNHILDE= — Walküre, Vollstreckerin; lernt Mitgefühl und bezahlt.
+- =SIEGMUND= — Gejagter, “illegal” aus Prinzip; ein Mann, den das System nicht kategorisieren kann.
+- =SIEGLINDE= — Gefangene eines Haushalts; Wärme unter Stahl; Risiko als Gewohnheit.
+- =HUNDING= — Hausherr, Gesetz der Faust; respektabel genug für die Nachbarn, brutal genug fürs Bett.
+- =WALKÜREN= — Schwestern Brünnhildes; Transport, Exekution, Mythos als Luftwaffe.
+- (Nebenraum-Schatten) =DONNER= / =FROH= — Machtapparat; bleiben im Hintergrund, sind aber nie weg.
+
+*Leitmotive (Episode 2, dramaturgisch hörbar)*
+- =NOTHUNG= : Schwert als Schlüssel; aus Holz und Eid; wartet auf den, der es braucht.
+- =WAELSE= : Vatername als Passwort; Herkunft als Waffe.
+- =GESETZ= : Frickas Moral als Infrastruktur; Wotans Speer als Vollstreckung.
+- =MITGEFÜHL= : Brünnhildes Fehler, der richtig ist.
+- =FEUER= : Schutzkreis; Grenze zwischen “nehmen” und “würdigen”.
+
+---
+
+* AKT 1 — Die Hütte
+** SZENE 2.1 — INT. HÜTTE HUNDINGS — NACHT (STURM)
+
+Der Sturm kommt aus den Häuserschluchten der Megacity wie eine Rechnung, die man zu
+lange ignoriert hat.
+Wind schneidet durch Wellblech, Regen tippt Morse auf zerkratzte Fenster. Draußen:
+Sirenen, Drohnen, kaltes Licht, das über die Pfützen streicht und sie wie flüssige
+Spiegel aussehen lässt.
+
+Die Hütte steht am Rand, da wo die Stadt in Kanäle und Schrott übergeht.
+Sie sieht aus wie Armut mit Türschloss.
+Sie ist schlimmer: sie ist Armut mit Eigentümer.
+
+Die Tür fliegt auf, nicht dramatisch, sondern verzweifelt.
+=SIEGMUND= stolpert hinein, nass bis auf die Knochen, Blut am Hemd, Atem wie Scherben.
+Er hält sich an der Wand fest, als könne Holz ihn vor der Welt schützen.
+
+Er hört.
+Nicht nur den Sturm.
+Er hört Schritte, die nicht ihm gehören.
+Er hört Suchraster, die wie Insekten über Dächer kriechen.
+Er hört das System, das “falsch” sagt, wenn es “frei” meint.
+
+Er knickt ein.
+Nicht tot. Noch nicht.
+Aber nah genug, dass er es schmeckt.
+
+Eine Lampe geht an.
+Warm. Klein. Unverschämt menschlich.
+
+=SIEGLINDE= steht im Türrahmen zum Hinterraum.
+Sie trägt kein Glamour. Sie trägt Alltag: ein Tuch, Hände, die wissen, wie man mit
+heißem Wasser und kalten Männern umgeht.
+Ihr Blick trifft ihn, und etwas darin zuckt.
+Nicht Mitleid zuerst.
+Erkennen.
+
+SIEGLINDE
+(leise)
+Du blutest.
+
+SIEGMUND versucht zu reden, aber der Satz bleibt stecken.
+Er schaut auf sie, als hätte er einen Ort gefunden, der nicht nach ihm schießt.
+
+SIEGLINDE tritt näher, ohne zu fragen.
+Sie nimmt einen Becher, füllt Wasser, hält ihn hin.
+
+SIEGLINDE
+Trink.
+
+SIEGMUND trinkt. Zu schnell. Als hätte Wasser in seinem Leben immer nur kurz existiert.
+
+SIEGMUND
+(heiser)
+Ich… muss weiter.
+
+SIEGLINDE
+Du kannst kaum stehen.
+
+SIEGMUND
+Stehen ist Luxus.
+
+Sie lächelt nicht. Sie versteht das zu gut.
+
+SIEGLINDE
+Setz dich.
+
+Er setzt sich. Nicht aus Gehorsam. Aus Erschöpfung.
+
+Sie wäscht Blut von seiner Stirn.
+Ihre Finger sind vorsichtig, aber nicht zart. Sie sind praktisch.
+Praktisch ist eine Form von Güte, wenn man kein Geld hat.
+
+Draußen heult eine Drohne vorbei.
+SIEGLINDE erstarrt einen Moment, dann zwingt sie sich weiterzumachen.
+
+SIEGLINDE
+Wer bist du.
+
+SIEGMUND
+Niemand.
+
+SIEGLINDE
+Niemand kommt nicht so weit.
+
+Er sieht sie an. Sie sieht zurück. Der Sturm macht den Rest.
+
+=LOGE (V.O.)=
+Ein Mann, der “Niemand” sagt, meint meistens:
+“Wenn du meinen Namen kennst, bringst du mich in Gefahr.”
+Oder:
+“Wenn ich meinen Namen sage, erinnere ich mich, dass ich mal wer war.”
+Beides ist unerquicklich.
+
+** SZENE 2.2 — INT. HÜTTE — SPÄTER (HUNDING KOMMT HEIM)
+
+Schritte im Vorraum.
+Schwer. Sicher. Besitzergreifend.
+Die Tür geht auf, als würde sie salutieren.
+
+=HUNDING= tritt ein.
+Groß, breit, geschniegelt. Der Typ Mann, den die Nachbarschaft “anständig” nennt, weil
+er die Gewalt zu Hause hält.
+Er hängt den Mantel auf wie ein Urteil.
+Er riecht den Raum, und sein Blick findet sofort den Fremden.
+
+HUNDING
+Wer ist das.
+
+SIEGLINDE
+Ein Mann. Er brach zusammen.
+
+HUNDING
+(ruhig, gefährlich)
+In meinem Haus.
+
+SIEGMUND versucht aufzustehen. Schafft es halb.
+
+HUNDING hebt eine Hand.
+Nicht als Drohung. Als Besitzanzeige.
+
+HUNDING
+Du bleibst sitzen.
+Hier gilt Gastrecht.
+Bis zum Morgen.
+
+Er sagt “Gastrecht” so, als wäre es eine Kette, die er großzügig um deinen Hals legt.
+
+HUNDING setzt sich, isst, trinkt.
+SIEGLINDE bedient. Nicht unterwürfig. Trainiert.
+Der Fremde schweigt. Nicht aus Höflichkeit. Aus Instinkt.
+
+HUNDING betrachtet SIEGMUND länger, als ein Gastgeber sollte.
+Er sieht Waffen. Narben. Flucht in den Augen.
+
+HUNDING
+Wie heißt du.
+
+SIEGMUND
+Ich habe keinen Namen, der dir nützt.
+
+HUNDING
+Jeder Name nützt mir.
+
+SIEGMUNDs Blick flackert.
+Etwas Altes wird wach.
+
+SIEGMUND
+Nenn mich… Wehwalt.
+
+HUNDING grinst.
+Er glaubt, er hat gerade etwas gewonnen.
+
+HUNDING
+Wo kommst du her, Wehwalt.
+
+SIEGMUND
+Von überall, wo man mich nicht wollte.
+
+HUNDING
+Warum jagt man dich.
+
+SIEGMUND
+Weil ich nicht gut darin bin, zu knien.
+
+HUNDINGs Augen werden schmal.
+Er erkennt den Typ. Er hasst den Typ, weil er ihn bewundert, ohne es zuzugeben.
+
+HUNDING
+(zu SIEGLINDE, kalt)
+Geh.
+
+SIEGLINDE bleibt einen Moment stehen, als wolle sie widersprechen.
+Dann geht sie. Nicht weil sie einverstanden ist.
+Weil sie weiß, dass offene Rebellion in diesem Haus Blut kostet.
+
+HUNDING lehnt sich zu SIEGMUND.
+
+HUNDING
+Ich kenne Leute, die nach einem Mann suchen.
+Einem, der Ärger bringt.
+Vielleicht bist du das.
+
+SIEGMUND
+Vielleicht bin ich nur müde.
+
+HUNDING
+Müdigkeit ist kein Freispruch.
+
+Er steht auf.
+
+HUNDING
+Morgen, bei Tageslicht, wenn Gastrecht endet:
+Du und ich.
+Draußen.
+
+SIEGMUND nickt. Keine Bitte. Keine Verhandlung.
+Er hat in seinem Leben zu viele Morgen erlebt, die so anfangen.
+
+HUNDING geht in den Hinterraum.
+Die Tür schließt sich.
+Der Sturm bleibt.
+
+SIEGLINDE kommt zurück, leise wie ein Gedanke, den man nicht haben darf.
+
+SIEGLINDE
+Er wird dich töten.
+
+SIEGMUND
+Er wird’s versuchen.
+
+SIEGLINDE
+Er versucht selten nur.
+
+Ein Blick. Ein Atemzug.
+Die Hütte fühlt sich plötzlich enger an.
+
+SIEGMUND
+Warum hilfst du mir.
+
+SIEGLINDE schaut weg. Dann zurück.
+
+SIEGLINDE
+Weil du nicht aussiehst wie jemand, der hierher gehört.
+Und weil ich weiß, wie das ist.
+
+Sie zeigt mit dem Kinn zur Mitte des Raumes.
+Da wächst ein Baum durch den Boden.
+Eine Esche, alt, trocken, trotz allem lebendig.
+In ihrem Stamm steckt etwas, das nicht zu Holz gehört: ein Schwert.
+Der Griff ragt heraus wie eine Frage, die man nicht ignorieren kann.
+
+SIEGLINDE
+Siehst du das.
+
+SIEGMUND
+Ja.
+
+SIEGLINDE
+Das ist nicht von hier.
+Das ist… eine Drohung.
+Eine Hoffnung.
+Ich weiß nicht.
+
+SIEGMUND steht auf, taumelt näher.
+Das Schwert wirkt fremd und vertraut.
+Der Griff ist schlicht. Aber der Stahl hat eine Oberfläche, die wie eingespeicherter
+Blitz aussieht.
+Keine Zier. Nur Zweck.
+
+SIEGLINDE
+Bei meiner Hochzeit… kam ein Mann.
+Ein Fremder.
+Ein Auge… wie eine dunkle Linse.
+Er sprach wenig.
+Er rammte das Schwert in den Stamm.
+Sagten: “Wer es braucht, soll es nehmen.”
+Keiner konnte es ziehen.
+HUNDING lachte.
+Dann ließ er mich hier.
+
+SIEGMUND berührt den Griff nicht.
+Noch nicht.
+Er hört in seinem Kopf einen Namen, den er seit Jahren nicht laut gesagt hat.
+
+SIEGMUND
+Wälse.
+
+SIEGLINDE erstarrt.
+
+SIEGLINDE
+Was.
+
+SIEGMUND
+So nannte mein Vater sich, wenn er… wenn er nicht Vater sein konnte.
+
+Stille.
+Eine andere Art Sturm.
+
+SIEGLINDE setzt sich, als hätte man ihr den Boden weggezogen.
+
+SIEGLINDE
+Mein Vater… verschwand.
+Ich war ein Kind.
+Ein Überfall. Feuer. Schreie.
+Ich… ich wurde weggerissen.
+Später fand ich mich… hier.
+
+SIEGMUND sieht sie an, als würde er in einen Spiegel schauen, der zu lange im Dreck lag.
+
+SIEGMUND
+Ich suchte dich.
+
+SIEGLINDE
+(Flüstern)
+Bruder.
+
+Das Wort ist kein Romantik-Knopf.
+Es ist eine Tür, die klemmt.
+Und trotzdem geht sie auf.
+
+=LOGE (V.O.)=
+Es gibt Wahrheiten, die machen dich frei.
+Und es gibt Wahrheiten, die zeigen dir, dass Freiheit ein Luxus ist,
+den dir niemand in der Familie erklärt hat.
+
+** SZENE 2.3 — INT. HÜTTE — TIEFNACHT (SCHLAFTRANK, SCHWERT, FLUCHT)
+
+SIEGLINDE bewegt sich wie jemand, der seit Jahren auf diesen Moment trainiert hat, ohne
+zu wissen, wofür.
+Sie nimmt eine Schale, mischt etwas hinein.
+Kein Gift. Ein Schlaf.
+Ein kleiner Betrug gegen einen großen.
+
+SIEGLINDE
+Er trinkt das immer.
+Weil er glaubt, ich würde nie wagen, es zu ändern.
+
+Sie trägt die Schale zu HUNDING.
+Der Hintergrundraum schluckt sie.
+Ein Moment.
+Dann kommt sie zurück.
+
+SIEGLINDE
+Jetzt.
+
+SIEGMUND steht vor der Esche.
+Er legt die Hand um den Griff.
+
+Er zieht.
+
+Zuerst passiert nichts.
+Dann ein leises Klicken, als würde etwas im Holz “ja” sagen.
+Der Stahl löst sich, nicht aus Material, sondern aus Bedeutung.
+Das Schwert gleitet heraus wie eine Linie, die endlich gezogen werden durfte.
+
+SIEGMUND hält es, als hätte er nie etwas anderes gehalten.
+
+SIEGLINDE atmet aus, als hätte sie diesen Atem seit Jahren festgehalten.
+
+SIEGLINDE
+Nothung.
+
+SIEGMUND
+(prüft das Wort)
+Nothung.
+
+Er dreht sich zu ihr.
+Sie stehen zu nah.
+Nicht aus Absicht. Aus Magnetismus.
+
+SIEGMUND
+Komm.
+
+SIEGLINDE
+(heiser)
+Wohin.
+
+SIEGMUND
+Weg von hier.
+Weg von seinem Gesetz.
+
+Sie schaut zur Tür. Dann zum Hinterraum, wo HUNDING schläft.
+Dann zurück zu SIEGMUND.
+
+SIEGLINDE
+Ich bin… seine Frau.
+
+SIEGMUND
+Nur auf Papier.
+
+SIEGLINDE schluckt.
+Sie sieht in SIEGMUNDs Augen etwas, das sie nie bekam: eine Wahl.
+
+Sie treten zusammen zur Tür.
+Der Sturm nimmt sie in Empfang.
+
+Der Moment, in dem sie sich küssen, ist kein “romantischer Höhepunkt”.
+Es ist ein Akt der Selbstbehauptung.
+Zwei Menschen, die gleichzeitig begreifen, dass die Welt sie für ihre Wahrheit bestrafen
+wird.
+Und die trotzdem nicht zurückweichen.
+
+Die Kamera/Prosa bleibt draußen, beim Regen, beim Atem, beim Schritt in die Nacht.
+Das Innere gehört ihnen, nicht uns.
+
+Dann: Flucht.
+Zwei Schatten, ein Schwert, ein Sturm, der plötzlich nach Freiheit riecht.
+
+---
+
+* AKT 2 — Wotans Büro / Frickas Tribunal
+** SZENE 2.4 — INT. WOTANS HALLEN — TAG (BÜRO DER VERTRÄGE)
+
+Valhalla ist fertig, aber es ist nicht fertig mit ihnen.
+
+WOTANs Halle ist kein Thronsaal.
+Sie ist ein Kontrollraum.
+Wände aus schwarzem Stein/Metall, Monitore, die wie Fenster aussehen, aber nur Daten zeigen.
+Der Speer steht in einem Halter wie ein Server, der die Welt hostet.
+
+=BRÜNNHILDE= tritt ein.
+Rüstung nicht mittelalterlich, sondern funktional: matte Platten, Embleme wie alte
+Runen, ein Helm, der Luft und Mythos filtert.
+Sie wirkt wie WOTANs Wille in Körperform.
+
+WOTAN
+Brünnhilde.
+
+BRÜNNHILDE
+Vater.
+
+WOTAN
+Ein Wälsung… ist auf der Flucht.
+Siegmund.
+Du wirst ihn schützen.
+Du wirst ihm den Sieg geben.
+
+BRÜNNHILDE nickt. Befehl ist Befehl.
+Dann zögert sie.
+Minimal.
+
+BRÜNNHILDE
+Warum.
+
+WOTANs Gesicht bleibt ruhig.
+Seine Stimme bleibt ruhig.
+Aber unter der Ruhe knirscht es.
+
+WOTAN
+Weil ich etwas brauche, das ich nicht sein darf.
+
+BRÜNNHILDE
+Einen freien Helden.
+
+WOTAN schaut sie an, als hätte sie gerade ein Geheimnis ausgesprochen, das in den Wänden
+steckt.
+
+WOTAN
+Ja.
+
+BRÜNNHILDE
+Und er ist frei.
+
+WOTAN
+(zu schnell)
+Er ist… nicht gebunden.
+
+BRÜNNHILDE versteht.
+Nicht alles, aber genug.
+
+BRÜNNHILDE
+Dein Speer bindet dich.
+
+WOTAN
+Mein Speer ist die Welt.
+
+BRÜNNHILDE
+Die Welt ist eine Kette, wenn man sie so baut.
+
+WOTAN dreht sich weg.
+Mächtige Männer hören Wahrheit am liebsten von hinten.
+
+=LOGE (V.O.)=
+WOTAN wollte einen Helden, der “frei” heißt,
+damit er selbst nicht “schuldig” heißen muss.
+Das ist die Art Mathe, bei der am Ende immer Blut rauskommt.
+
+** SZENE 2.5 — INT. FRICKAS TRIBUNAL — TAG (LEGITIMITÄTSGERICHT)
+
+=FRICKA= kommt nicht als “Ehefrau”.
+Sie kommt als Institution.
+
+Ihr Raum ist heller als WOTANs. Schärfer.
+Hier gibt es keine gemütlichen Schatten, in denen man Lügen parken kann.
+
+Sie sitzt nicht auf einem Thron.
+Sie sitzt an einem Tisch.
+Ein Tisch ist schlimmer: am Tisch unterschreibt man.
+
+FRICKA
+Siegmund.
+Sieglinde.
+Inzest.
+Ehebruch.
+Vertragsbruch.
+
+WOTAN
+Sie sind Opfer.
+
+FRICKA
+Sie sind Täter, sobald du sie zu Werkzeugen machst.
+
+WOTAN
+Ich habe das nicht gewollt.
+
+FRICKA
+Das ist das Lieblingswort der Mächtigen.
+“Gewollt” ist irrelevant.
+Du hast es getan.
+
+WOTAN geht einen Schritt vor.
+Sein Speer fehlt. Er ist hier ohne seine große Stimme.
+
+WOTAN
+Ich brauche ihn.
+
+FRICKA
+Du brauchst, dass dein Plan funktioniert.
+Und dein Plan ist eine Lüge.
+
+WOTAN
+Er ist frei.
+
+FRICKA
+Frei?
+Er ist dein Sohn.
+Dein Blut.
+Dein Projekt.
+Dein Umweg um das Gesetz.
+
+WOTAN
+(gepresst)
+Wenn ich den Ring nicht zurückbekomme, fällt alles.
+
+FRICKA
+Dann soll es fallen.
+Aber nicht, indem du mein Prinzip verrätst.
+
+WOTANs Gesicht verhärtet.
+
+WOTAN
+Dein Prinzip ist eine Fessel.
+
+FRICKA
+Mein Prinzip ist das, was du benutzt hast, um Macht zu werden.
+Du kannst nicht mit “Ehe” regieren und mit “Ehe” schummeln.
+Entscheide dich.
+
+FRICKA
+Souverän bist du nur, solange du gebunden bleibst.
+
+Stille.
+WOTAN blickt einen Moment auf FRICKA, als wolle er sie hassen.
+Dann merkt er: sie ist nicht hassbar.
+Sie ist logisch.
+
+FRICKA
+Du wirst Brünnhilde befehlen, Siegmund sterben zu lassen.
+
+WOTAN
+(heiser)
+Nein.
+
+FRICKA
+Doch.
+Sonst bist du nicht König.
+Dann bist du nur ein Mann, der Verträge bricht, wenn sie unbequem werden.
+
+WOTANs Schultern sinken einen Millimeter.
+Ein Millimeter ist bei Göttern ein Erdbeben.
+
+WOTAN
+(kaum hörbar)
+Gut.
+
+FRICKA steht auf.
+Sie hat gewonnen, ohne zu jubeln.
+
+FRICKA
+Und du wirst Hunding die Genugtuung geben.
+Damit dein “Gesetz” nicht lächerlich wird.
+
+WOTAN
+(verbittert)
+Mein Gesetz ist schon lächerlich.
+Es trägt nur teure Kleidung.
+
+FRICKA geht.
+Sie lässt WOTAN zurück wie einen Mann, der endlich verstanden hat, dass sein Spiegel
+nicht lügt.
+
+** SZENE 2.6 — INT. WOTANS HALLEN — SPÄTER (WOTANS MONOLOG / BRÜNNHILDE)
+
+BRÜNNHILDE steht bereit.
+Sie erwartet den Befehl.
+
+WOTAN kommt hinein, als hätte er mehr Gewicht im Körper als zuvor.
+
+WOTAN
+Brünnhilde.
+
+BRÜNNHILDE
+Ich höre.
+
+WOTAN starrt auf den Speer.
+Dann beginnt er zu sprechen.
+Nicht wie ein Befehl.
+Wie ein Geständnis, das er sich selbst schuldet.
+
+WOTAN
+Ich baute Valhalla, um Macht zu sichern.
+Ich bezahlte mit Freia, weil ich glaubte, ich könnte den Preis später ändern.
+Dann kam das Gold.
+Dann der Ring.
+Dann Alberichs Fluch.
+
+Er geht auf und ab.
+Ein König in einem Käfig aus eigenem Recht.
+
+WOTAN
+Ich nahm dem Nibel den Ring.
+Ich gab ihn den Riesen.
+Fafner nahm ihn.
+Fafner wurde zum Hort.
+Ein Tier mit Besitz.
+Und ich… ich darf ihn nicht holen.
+Weil jeder Schritt, den ich mache, in meinem Speer steht.
+Weil ich die Welt so gebaut habe, dass sie mich hält.
+
+BRÜNNHILDE
+Dann brauchst du einen, der nicht gebunden ist.
+
+WOTAN
+Ja.
+Einen, der “frei” ist.
+Nicht durch Worte.
+Durch Herkunft außerhalb des Vertrags.
+Durch Not.
+Durch Trotz.
+Durch Blut.
+
+Er hält inne, sieht BRÜNNHILDE an.
+
+WOTAN
+Ich zeugte die Wälsungen, um mich zu retten.
+Und ich nannte es “Schicksal”, damit es sauber klingt.
+
+BRÜNNHILDEs Blick wird weicher, ohne dass sie es will.
+
+BRÜNNHILDE
+Und jetzt verlangt Fricka seinen Tod.
+
+WOTAN
+(roh)
+Fricka verlangt, dass das Gesetz gilt.
+Und sie hat recht.
+Verstehst du, was das bedeutet?
+
+BRÜNNHILDE nickt langsam.
+Sie spürt die Kollision: Befehl vs Sinn.
+
+WOTAN
+Du wirst Siegmund nicht schützen.
+Du wirst den Sieg Hunding geben.
+
+BRÜNNHILDE
+(fast unhörbar)
+Vater…
+
+WOTAN
+Das ist der Befehl.
+
+Er dreht sich weg, weil er nicht sehen will, wie dieser Befehl ihn kleiner macht.
+
+=LOGE (V.O.)=
+WOTAN wollte die Regeln, solange sie die anderen klein halten.
+Jetzt halten sie ihn klein.
+Das nennt man: gerechte Architektur.
+Nur dass Gerechtigkeit hier niemandem hilft.
+
+---
+
+* AKT 3 — Der Kampf & Strafe
+** SZENE 2.7 — EXT. WALD / DUELLPLATZ — DÄMMERUNG (TODESVERKÜNDUNG)
+
+Der Wald ist kein Wald.
+Er ist der letzte Rest Natur zwischen Beton und Pipeline.
+Bäume wie Narben. Boden wie nasse Asche.
+Der Himmel ist grau und hat kein Mitleid.
+
+SIEGMUND und SIEGLINDE rennen.
+Sieglinde schwankt, aber sie hält sich.
+Sie hat Jahre gehalten.
+
+SIEGMUND trägt Nothung.
+Der Stahl wirkt hier draußen wie eine Lüge gegen die Drohnen.
+
+SIEGLINDE
+(atemlos)
+Er findet uns.
+
+SIEGMUND
+Dann findet er mich.
+
+BRÜNNHILDE erscheint nicht mit Trompeten.
+Sie erscheint wie ein Schnitt im Bild.
+Ein Schatten im Dunst.
+Eine Gestalt, die zu sicher steht, um “Zufall” zu sein.
+
+BRÜNNHILDE
+Siegmund.
+
+SIEGMUND hebt das Schwert.
+
+SIEGMUND
+Wer bist du.
+
+BRÜNNHILDE
+Ich bin die, die dich abholt.
+
+SIEGLINDE tritt einen Schritt zurück.
+Sie spürt, dass diese Frau keine Drohne ist.
+Sie ist schlimmer.
+Sie ist Sinn.
+
+SIEGMUND
+Ich gehe nirgendwo hin.
+
+BRÜNNHILDE
+Du wirst fallen.
+Hunding wird dich schlagen.
+Das ist beschlossen.
+
+SIEGMUND lacht kurz.
+Ohne Freude.
+
+SIEGMUND
+Beschlossen von wem.
+
+BRÜNNHILDE
+Von WOTAN.
+
+Der Name trifft wie ein Schlag.
+SIEGMUNDs Gesicht verändert sich. Wut. Verletzung. Etwas wie Kindheit.
+
+SIEGMUND
+Dann soll WOTAN selbst kommen.
+
+BRÜNNHILDE
+Er kommt nicht.
+Er schickt mich.
+
+SIEGMUND schaut zu SIEGLINDE.
+Sie ist erschöpft.
+Sie ist alles, was er in dieser Welt “Wert” nennt.
+
+SIEGMUND
+Wenn ich gehe… was wird aus ihr.
+
+BRÜNNHILDE
+Sie bleibt.
+
+SIEGMUND
+Allein.
+
+BRÜNNHILDE
+So ist das.
+
+SIEGMUND
+Nein.
+
+Er tritt näher an BRÜNNHILDE heran, nicht drohend, eher entschieden.
+
+SIEGMUND
+Dann sterbe ich lieber hier.
+Mit ihr.
+Oder gar nicht.
+
+BRÜNNHILDE sieht ihn an, und zum ersten Mal in dieser Episode sieht man in ihrem Blick:
+ein Riss.
+Sie hat viele Krieger sterben sehen.
+Aber selten jemanden, der den Tod ablehnt, weil Liebe nicht verhandelbar ist.
+
+BRÜNNHILDE
+(unsicher)
+Du würdest… Valhalla verachten?
+
+SIEGMUND
+Ich verachte jeden Himmel, in dem sie nicht ist.
+
+Ein Moment.
+Der Wald wird still.
+
+BRÜNNHILDE hebt langsam die Hand, als würde sie einen internen Kanal öffnen.
+
+BRÜNNHILDE
+(zu sich, fast)
+Das… ist nicht im Vertrag.
+
+Sie dreht den Kopf.
+Als würde sie eine Stimme hören, die wir nicht hören.
+WOTANs Befehl.
+FRICKAs Urteil.
+Und dazwischen: etwas Menschliches, das sie nicht “dürfen” nennt.
+
+BRÜNNHILDE
+(leise)
+Ich werde dich schützen.
+
+SIEGMUND blinzelt.
+SIEGLINDE auch.
+Als hätten sie gerade gesehen, dass auch Götter Fehler machen können.
+Und dass Fehler manchmal die einzige Hoffnung sind.
+
+** SZENE 2.8 — EXT. DUELL — DÄMMERUNG (SPEER, SCHWERTBRUCH, TOD)
+
+HUNDING kommt mit Männern.
+Nicht viele.
+Er braucht keine vielen.
+Er braucht nur Zeugen.
+
+Er trägt eine Waffe, die nach Ordnung aussieht: sauber, modern, legal.
+Sein Blick ist die eigentliche Waffe.
+
+HUNDING
+Wehwalt.
+
+SIEGMUND hebt Nothung.
+
+SIEGMUND
+Hunding.
+
+HUNDING
+Gastrecht ist vorbei.
+
+SIEGMUND
+Das war’s nie.
+
+HUNDING grinst.
+Dann beginnt es.
+
+Der Kampf ist kurz und brutal.
+Nicht ballettartig.
+Zwei Männer, die wissen, dass Moral im Blutbad selten hilft.
+
+SIEGMUND ist schneller als man erwartet, weil Verzweiflung trainiert.
+HUNDING ist stabiler als man hofft, weil Besitz Muskeln hat.
+
+BRÜNNHILDE bewegt sich im Hintergrund, unsichtbar für Hundings Männer, aber präsent wie
+ein Gewissen, das man nicht ausreden kann.
+Sie hebt ihren Schild — in dieser Welt: ein Feldgenerator, ein leuchtender Halbkreis,
+der Luft hart macht.
+
+SIEGMUND drückt vor.
+Er hat den Moment.
+Nothung hebt sich.
+Der Schlag kommt.
+
+Dann: ein Schatten im Himmel.
+Ein anderer Schnitt im Bild.
+
+=WOTAN=.
+
+Er erscheint nicht wie ein Retter.
+Er erscheint wie ein Update, das niemand wollte.
+Sein Auge ist dunkel, sein Blick ist Gesetz.
+In seiner Hand: der Speer.
+
+WOTAN
+(schneidend)
+Halt.
+
+BRÜNNHILDE erstarrt.
+Ihr Schild flackert.
+
+SIEGMUND sieht WOTAN und versteht alles in einem Atem: Herkunft, Werkzeug, Verrat.
+
+SIEGMUND
+(laut)
+Vater?
+
+WOTAN antwortet nicht mit einem Wort.
+Er antwortet mit dem Speer.
+
+Er stößt ihn in den Raum zwischen Sieg und Wirkung.
+Der Speer trifft Nothung nicht direkt.
+Er trifft den Sinn des Schwertes.
+Den Vertrag, den das Schwert war.
+
+Nothung zerspringt.
+Kein funkenreicher Action-Moment.
+Ein trockener Bruch.
+Als würde die Welt sagen: “Nein.”
+
+SIEGMUNDs Augen weiten sich.
+HUNDINGs Waffe trifft ihn.
+Ein Schuss. Ein Stoß. Ein Ende.
+SIEGMUND fällt.
+
+BRÜNNHILDE schreit nicht.
+Sie macht etwas, das sie nie getan hat: sie handelt gegen den Gott, der sie machte.
+
+Sie reißt SIEGLINDE hoch, wirft ihr einen Mantel um, greift die Schwertsplitter vom
+Boden.
+Sie springt, aktiviert ihren Reiter-Carrier: ein Walküren-Bike/Fluggerät, das wie Mythos
+aussieht, aber Technik ist.
+
+Sie flieht.
+
+WOTAN bleibt.
+HUNDING steht da, atmet schwer, sieht zu WOTAN, als wolle er Anerkennung.
+
+HUNDING
+Ich habe gesiegt.
+
+WOTAN dreht den Kopf zu ihm.
+Langsam.
+
+WOTAN
+Du hast getan, was ich befohlen habe.
+
+HUNDING lächelt.
+
+WOTAN
+Dafür brauchst du nicht mehr leben.
+
+Ein Wort.
+Kein Zauber. Eine Vollstreckung.
+HUNDINGs Körper sackt zusammen, als hätte man ihm die Berechtigung entzogen.
+Seine Männer weichen zurück, weil sie spüren, dass sie gerade gesehen haben, wie “Recht”
+tötet.
+
+WOTAN kniet bei SIEGMUND.
+Schaut auf den Sohn, den er gemacht hat, um ihn zu benutzen, um ihn dann zu brechen.
+
+WOTAN
+(zu leise für Zeugen)
+Das ist der Preis.
+
+=LOGE (V.O.)=
+WOTAN hat das Schwert gebrochen, weil es ihm sonst das Gesicht gebrochen hätte.
+Macht schützt sich.
+Immer.
+Und nennt es dann: Notwendigkeit.
+
+** SZENE 2.9 — EXT. WALKÜRENFELS — NACHT (FLUCHT, PROPHEZEIUNG, FEUER)
+
+Der Walkürenfelsen ist kein romantischer Gipfel.
+Er ist eine Plattform außerhalb der Stadt, hoch genug, dass Drohnen nicht casual vorbeikommen.
+Wind. Stein. Radarstille.
+Ein Ort, an dem man sich trifft, wenn man nicht protokolliert werden will.
+
+Die Walküren kommen in Intervallen, wie Staffeln.
+Sie bringen Tote.
+Nicht Leichen, sondern “Gefallene”: Männer, deren Namen man im System als Held
+etikettiert hat, damit niemand nach den Gründen fragt.
+Sie lachen, sie rufen, sie sind laut — nicht weil sie fröhlich sind, sondern weil Lärm
+hilft, wenn man täglich Tod transportiert.
+
+BRÜNNHILDE kommt zuletzt.
+Sie kommt falsch: zu schnell, zu tief, zu gehetzt.
+Und sie bringt etwas, das nicht in den Auftrag gehört:
+=SIEGLINDE=.
+
+WALKÜRE 1
+Brünnhilde?
+Was machst du da?
+
+WALKÜRE 2
+Das ist eine Sterbliche.
+
+BRÜNNHILDE
+Sie ist mehr als euer Auftrag.
+
+Sieglinde taumelt, stützt sich auf den Stein.
+Ihr Blick ist leer vor Schock.
+Dann presst sie die Hände gegen den Bauch, als würde sie dort etwas schützen, das noch
+keinen Namen hat.
+
+SIEGLINDE
+Ich will sterben.
+
+BRÜNNHILDE tritt zu ihr.
+Nimmt ihr Gesicht in beide Hände, zwingt sie, zu sehen.
+
+BRÜNNHILDE
+Nein.
+
+SIEGLINDE
+Alles ist weg.
+
+BRÜNNHILDE
+Nicht alles.
+
+Sieglinde weint nicht. Sie ist zu leer für Tränen.
+
+BRÜNNHILDE
+Du trägst ein Kind.
+
+SIEGLINDE blinzelt.
+Ein Funke.
+Ein winziger, brutaler Funke.
+
+SIEGLINDE
+Was.
+
+BRÜNNHILDE
+Ein Sohn.
+Ein freier.
+Einer, der keine Angst kennt.
+Einer, der den Speer nicht fürchtet, weil er nicht versteht, warum man sich beugt.
+
+SIEGLINDEs Atem wird unruhig.
+Hoffnung tut weh, wenn man lange keine hatte.
+
+BRÜNNHILDE drückt ihr die Schwertsplitter in die Hände.
+
+BRÜNNHILDE
+Nothung. Zerbrochen, aber nicht tot.
+Du wirst es aufbewahren.
+Du wirst leben.
+
+SIEGLINDE
+Wohin.
+
+BRÜNNHILDE
+In den Wald.
+Dorthin, wo die Unterwelt beginnt und die Stadt aufhört zu lügen.
+Dorthin, wo ein Schmied lebt.
+MIME.
+Er ist giftig, aber er kann Dinge zusammenfügen.
+Du wirst ihn zwingen, zu helfen.
+
+SIEGLINDE
+Warum hilfst du mir.
+
+BRÜNNHILDE schaut weg, dann zurück.
+
+BRÜNNHILDE
+Weil ich heute etwas gesehen habe, was stärker ist als der Speer.
+
+Sieglinde hält die Splitter, als wären sie ein Herz, das man tragen kann.
+Dann läuft sie los, in die Nacht, in den Wind, in ein Leben, das sie nicht bestellt hat.
+
+Die Walküren starren BRÜNNHILDE an.
+Respekt, Angst, Unverständnis.
+Dann ein Geräusch, das alle zum Schweigen bringt:
+ein Schritt.
+Schwer.
+Bekannt.
+
+=WOTAN= kommt über den Felsen.
+Nicht hastig.
+Nicht wütend im kleinen Sinn.
+Wütend wie ein Planet, der seine Bahn verliert.
+
+WOTAN
+Brünnhilde.
+
+Die anderen Walküren weichen zurück.
+Sie wissen, was jetzt kommt.
+Sie wissen, dass sie nichts tun dürfen.
+
+BRÜNNHILDE tritt vor.
+Sie steht gerade.
+Nicht trotzig.
+Nur wahr.
+
+BRÜNNHILDE
+Ich tat, was du in mir gemacht hast:
+Ich sah.
+Ich entschied.
+
+WOTAN
+Du hast meinen Befehl gebrochen.
+
+BRÜNNHILDE
+Ich habe deinen Wunsch erfüllt.
+
+WOTAN lacht einmal. Es klingt wie Metall, das reißt.
+
+WOTAN
+Mein Wunsch?
+Mein Wunsch ist Luxus.
+Mein Befehl ist Gesetz.
+
+BRÜNNHILDE
+Dann ist dein Gesetz falsch.
+
+Ein Satz, der in Valhalla einen Krieg auslösen würde.
+Hier löst er etwas anderes aus: Trauer.
+
+WOTAN sieht sie an.
+Lange.
+Als würde er versuchen, sie wieder zur Funktion zu machen, die sie war.
+
+WOTAN
+Du warst mein Schild.
+
+BRÜNNHILDE
+Ich bin nicht dein Besitz.
+
+WOTANs Hand hebt sich.
+Nicht zum Schlag.
+Zum Urteil.
+
+WOTAN
+Du wirst nicht mehr Walküre sein.
+Du wirst sterblich sein.
+Du wirst schlafen, hier, auf diesem Fels.
+Und der erste Mann, der dich findet, nimmt dich.
+
+Die Walküren zucken zusammen.
+Brünnhilde nicht.
+Sie nickt langsam, als hätte sie das schon geahnt.
+Dann sagt sie:
+
+BRÜNNHILDE
+Wenn ich fallen muss, dann gib mir wenigstens Würde.
+
+WOTAN
+Würde ist ein Wort, das Sterbliche benutzen, wenn sie verlieren.
+
+BRÜNNHILDE
+Dann gib mir Schutz.
+Kein Räuber.
+Kein Zufall.
+Kein kleiner Mann mit großer Gewalt.
+
+WOTANs Blick flackert.
+Weil er sie liebt, obwohl er es nicht darf.
+Oder weil sie ihn spiegelt, obwohl er es nicht erträgt.
+
+BRÜNNHILDE
+Umgib mich mit Feuer.
+Nur wer keine Angst kennt, soll mich erreichen.
+Nur einer, der frei genug ist, durch Flammen zu gehen.
+
+WOTAN hält inne.
+Er sieht plötzlich weit.
+Zu weit.
+Als würde er in der Zukunft etwas brennen sehen, das er gebaut hat.
+
+WOTAN
+Du verlangst viel.
+
+BRÜNNHILDE
+Ich habe viel gegeben.
+
+Stille.
+Dann nickt WOTAN.
+Ein winziges Nicken.
+Ein Vatergestus, versteckt in einem Urteil.
+
+WOTAN
+So sei es.
+
+Er legt die Hand auf ihre Stirn.
+Kein K.O.-Schlag.
+Eher ein Abschalten.
+Brünnhilde sinkt in Schlaf, wie eine Maschine, die endlich Ruhe bekommt.
+Sie liegt da, schön und gefährlich, wie Wahrheit.
+
+WOTAN geht ein paar Schritte zurück.
+Er spricht nicht zu den Walküren.
+Er spricht zur Luft.
+
+WOTAN
+Loge.
+
+Ein Name wie ein Funke.
+
+Die Nacht antwortet mit Flackern.
+Als würde irgendwo in der Dunkelheit ein Mann lächeln, der Feuer als Freund kennt.
+
+Ein Ring aus Flammen beginnt zu wachsen um den Felsen.
+Nicht explosiv.
+Kontrolliert.
+Schön.
+Tödlich.
+Feuer, das nicht wärmt, sondern markiert: Grenze.
+
+WOTAN bleibt am Rand stehen.
+Schaut auf BRÜNNHILDE.
+Seine Stimme wird leiser.
+Nicht weich.
+Nur menschlicher, als ihm lieb ist.
+
+WOTAN
+Schlaf.
+Und vergiss mich nicht.
+
+=LOGE (V.O.)=
+Feuer ist das einzige Versprechen, das WOTAN noch geben kann.
+Alles andere steht in seinem Speer und lügt.
+Feuer lügt nicht.
+Es sagt nur:
+“Komm näher und bezahl.”
+
+WOTAN dreht sich um und geht.
+Die Walküren bleiben zurück, zwischen Flammen und Pflicht.
+
+Unten, weit weg, irgendwo im nassen Herz der Stadt, rennt eine Frau mit Schwertsplittern
+durch die Dunkelheit.
+In ihrem Bauch: eine Zukunft, die noch keinen Vertrag unterschrieben hat.
+
+* ENDE EPISODE 2
+- Hook: Brünnhilde ist im Feuer eingeschlossen; Sieglinde flieht zu MIME; Nothung ist
+  zerbrochen, aber gerettet.
+- Ton: Das Gesetz siegt offiziell, aber verliert moralisch; Mitgefühl wird
+  kriminalisiert; ein “freier Held” wird als Gegenentwurf geboren.

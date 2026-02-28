@@ -1,0 +1,1133 @@
+#+title: DER RING: NEON-VALHALLA
+#+subtitle: Episode 1 — DAS RHEINGOLD (Vollausarbeitung)
+
+* EPISODE 1 — DAS RHEINGOLD
+*Tagline:* Alles beginnt im Wasser. Alles endet im Feuer.
+
+*Besetzung (Episode 1)*
+- =LOGE= — Fixer, Ermittler, Brandstifter im Maßanzug. Noir-Voice-Over.
+- =WOTAN= — Konzernkönig, Vertragsarchitekt, Speer als Eid-Backbone.
+- =FRICKA= — Ordnung, Ehe, Legitimität; sieht Risse sofort.
+- =FREIA= — Jugend/Begehren; in ihrer Nähe bleibt der Körper “funktionstüchtig”.
+- =DONNER= — Gewalt als Wetter; Reset-Knopf mit Showeffekt.
+- =FROH= — Glanz, Werbung, Brückenbauer.
+- =FASOLT= — Bauunternehmer-Riese; der “Romantiker” unter den Brutalos.
+- =FAFNER= — Bauunternehmer-Riese; der Rechner; Blick wie eine Kasse.
+- =ALBERICH= — Ausgestoßener; wird Dieb, Fluch, Tyrann.
+- =MIME= — Nibel-Schmied/Hacker; klein, zäh, giftig.
+- =WELLGUNDE= / =WOGLE= / =FLOSSHILDE= — Wächterinnen des Rhein-Vaults.
+
+*Leitmotive (Episode 1, dramaturgisch hörbar)*
+- =GOLD= : Energie, Schönheit, Versuchung; rein, bevor Hände es schmutzig machen.
+- =RING= : Besitzlogik; “Ich” wird zu “Mein”.
+- =SPEER= : Vertrag; die Welt als juristisches Artefakt.
+- =FLUCH= : Systemeffekt; Besitz kippt Beziehungen in Paranoia.
+- =RHEIN= : Natur als Gedächtnis; sie vergisst nicht.
+
+---
+
+* AKT 1 — Prolog: Rhein-Vault
+** SZENE 1.1 — EXT./INT. RHEIN-KANAL / DATAVAULT — NACHT
+
+Der Rhein ist kein Fluss mehr. Er ist eine Leitung. Ein schwarzer Muskel, der die Stadt
+atmen lässt. Pumpen. Schleusen. Sensoren. Und darunter: eine Kammer, die nie für
+Menschen gedacht war. Eine Krypta aus Glasbeton und kaltem Licht.
+
+Das Wasser trägt Neon wie eine Krankheit. Lichtschmutz. Wer hier schwimmt, schwimmt in
+der Geschichte der Stadt: Ölfilme, Mikroplastik, verlorene Versprechen. Und trotzdem —
+da ist Gesang.
+
+Drei Gestalten gleiten durch das Dunkel, als hätte die Schwerkraft sie vergessen.
+=WELLGUNDE=, =WOGLE=, =FLOSSHILDE=. Keine Meerjungfrauen aus Märchenbüchern. Eher:
+Wächterinnen eines Systems, das älter ist als jedes System, das Menschen bauen. Haut im
+blauen Schimmer. Augen, die nicht blinzeln müssen.
+
+Unter ihnen pulsiert etwas. Nicht “Gold” als Metall. Gold als Sonne in Ketten. Ein Kern
+aus strahlender Materie, eingefasst in eine Matrix aus alten Runen und neuen Firewalls.
+Es liegt in einem offenen Vault, weil es nie als “Besitz” gedacht war. Es ist da. Wie
+der Mond da ist. Wie ein Herz da ist.
+
+Sie spielen. Nicht kindisch. Eher so, wie Delfine spielen: als Beweis, dass sie lebendig
+sind in einem Element, das andere ertränkt.
+
+=WOGLE= dreht eine Spirale um die Kammer, zieht mit der Hand eine Linie durchs Wasser, und
+die Sensoren flackern, als würde das Vault selbst lachen. =FLOSSHILDE= stößt einen Ton
+aus, tief und vibrierend; die Betonwände antworten mit einem Echo, das klingt wie ein
+vergessenes Gebet. =WELLGUNDE= schwebt über dem Gold, als würde sie es beschatten, ohne es
+zu berühren.
+
+Dann kommt er.
+
+Nicht wie ein Hai. Haie sind elegant. Er kommt wie Schmutz, der plötzlich eine Form hat.
+
+=ALBERICH= klettert aus einem Wartungsschacht, der zu klein wirkt für einen Menschen, aber
+passend für jemanden, der sein Leben lang gelernt hat, sich kleiner zu machen, damit
+andere ihn übersehen können. Wasser tropft von seinem Haar. Seine Hände sind rau. An den
+Fingern: Narben von Arbeit und Wut.
+
+Er sieht die drei, als hätten sie ihn bestellt. Als wären sie Teil eines Menüs, das ihm
+immer verwehrt wurde.
+
+Er lächelt. Es ist kein schönes Lächeln. Es ist ein Versuch.
+
+ALBERICH
+(heiser, schmeckend)
+Na… na… was haben wir denn hier.
+
+=WOGLE= grinst sofort. Sie erkennt diese Stimme. Das ist die Stimme, die “bitte” sagt und
+“nehmen” meint.
+
+WOGLE
+Du bist weit ab vom Weg, Kleiner.
+
+ALBERICH tritt näher ans Vault. Seine Stiefel finden keinen Halt im Wasser; er rudert,
+klammert sich an eine Kante, und sein Blick bleibt an den Körpern hängen wie an Werbung
+in einer Armutssiedlung.
+
+ALBERICH
+Ich hab gehört, hier unten gibt’s Licht, das nie ausgeht.
+Und… Gesellschaft.
+
+=WELLGUNDE= dreht sich langsam, mustert ihn nicht mit Verachtung, sondern mit etwas
+Schlimmerem: mit gelangweilter Klarheit.
+
+WELLGUNDE
+Gesellschaft ist möglich. Für jemanden, der weiß, wie man zuhört.
+
+ALBERICH versteht das nicht. Oder er will es nicht verstehen.
+
+Er streckt die Hand nach WELLGUNDE aus. Sie gleitet weg. Nicht hastig. Nicht panisch.
+Nur: weg. Als hätte sie beschlossen, dass seine Hand nicht existiert.
+
+ALBERICHs Gesicht zieht sich zusammen. Ein Zucken am Mundwinkel. Etwas wie Scham, die
+sofort zu Hass gerinnt.
+
+ALBERICH
+(schneller)
+Ihr spielt doch eh nur mit dem Zeug.
+Mit euch selbst.
+Mit allem.
+Was wär so schlimm dran, wenn—
+
+FLOSSHILDE
+(freundlich, messerscharf)
+Wenn du was bekommst, was du willst?
+Schlimm wäre nur: du würdest es halten wollen.
+
+Er lacht. Er lacht falsch.
+Seine Stimme klingt nach rostigem Metall.
+
+ALBERICH
+Ich will nur… ein bisschen Spaß.
+
+Die drei tauschen einen Blick. Ein alter Code läuft zwischen ihnen. Sie kennen diese
+Story. Sie ist in jeder Epoche gleich, nur die Klamotten ändern sich.
+
+WOGLE
+(in die Dunkelheit, singend-spöttisch)
+Ein bisschen Spaß, sagt er.
+Und meint: ein bisschen Macht.
+
+ALBERICH fährt herum. Er hasst, dass sie ihn “lesen”.
+
+ALBERICH
+Was wisst ihr schon von Macht.
+
+WELLGUNDE
+Mehr, als du denkst.
+Weniger, als du willst.
+
+Er ist nah genug am Gold, dass sein Gesicht vom warmen Puls beleuchtet wird. Es macht
+ihn weicher, fast menschlich. Für einen Moment.
+
+ALBERICH
+(leis)
+Was ist das.
+
+FLOSSHILDE
+Das, was nie jemandem gehört hat.
+Und genau deswegen: das, was alle wollen.
+
+Er schaut, als würde er das Wort “gehören” in seiner Zunge drehen wie eine Münze.
+
+ALBERICH
+Und… wenn’s jemand doch nimmt?
+
+WOGLE und WELLGUNDE lachen. Nicht, weil es lustig ist. Sondern weil die Frage alt ist,
+und jede Antwort gefährlich.
+
+WOGLE
+Du kannst es nehmen.
+Natürlich kannst du.
+Niemand hält dich fest.
+
+WELLGUNDE
+Aber du musst bezahlen.
+
+ALBERICH
+Mit was.
+
+FLOSSHILDE
+Mit dir.
+
+Er blinzelt. Endlich.
+
+ALBERICH
+(aggressiv)
+Ich bin doch schon alles los.
+Was wollt ihr noch?
+
+WELLGUNDE
+Liebe.
+
+Das Wort hängt im Wasser wie ein Fremdkörper. ALBERICH starrt es an, als wäre es eine
+Waffe, die er nie gelernt hat zu benutzen.
+
+WOGLE
+    Wenn du der Liebe entsagst —
+    wirklich entsagst —
+    dann kannst du aus dem Gold einen Ring machen.
+    Und der Ring… macht aus der Welt eine Faust.
+
+    # Neue normative Annahme & Verschlüsselungs‑Metapher
+    =WELLGUNDE=
+    Das ist kein Passwort. Es ist Verschlüsselung. Der Schlüssel bist du selbst.
+    Wir verlassen uns darauf, dass niemand so arm ist, dass er die Liebe wegwirft.
+    =LOGE (V.O.)=
+    Das System ist nicht dumm. Es vertraut auf Anthropologie: darauf, dass keiner den Schlüssel nutzt – bis einer es tut.
+
+ALBERICH lacht kurz, aber es bricht ab. Seine Augen haben sich verändert. Jetzt sind sie
+nicht mehr auf die Körper gerichtet. Jetzt sind sie auf das Gold gerichtet.
+
+ALBERICH
+Ein Ring.
+
+FLOSSHILDE
+Ein Griff um alles.
+
+ALBERICH
+Und ihr… hütet das?
+Einfach so?
+
+WELLGUNDE
+Wir hüten es, weil es schön ist.
+
+ALBERICH
+Schön.
+
+Er sagt es wie ein Vorwurf.
+
+Er schwimmt näher. Die Rheinmädchen ziehen sich zurück, aber nicht ängstlich. Sie
+schauen zu. Sie wollen wissen, ob er wirklich so tief fällt, wie er kann.
+
+ALBERICH atmet aus, und die Luftblasen steigen wie kleine Beichten auf.
+Dann sagt er es. Nicht theatralisch. Nicht groß.
+
+ALBERICH
+Dann scheiß ich auf Liebe.
+
+Die Kammer wird still.
+Nicht weil das System ihm glaubt.
+Sondern weil das Wasser gelernt hat, was solche Sätze kosten.
+
+=WOGLE= verliert für einen Wimpernschlag ihr Lächeln.
+
+WOGLE
+Mach das nicht.
+
+ALBERICH hört nicht. Oder er hört zu gut und hasst es.
+
+Er stößt sich ab, reißt das Gold aus dem Vault, als würde er einem Gott das Herz klauen.
+Alarm? Keine Sirenen. Nur das Licht selbst, das sich verändert. Das Gold schreit nicht.
+Die Rheinmädchen schreien.
+
+FLOSSHILDE
+Nein!
+
+WELLGUNDE
+Lass es!
+
+WOGLE
+Du weißt nicht, was du tust!
+
+ALBERICH presst das Gold an sich, als könnte Wärme ihm beweisen, dass er jetzt zählt.
+
+Er verschwindet in den Wartungsschacht. Die Dunkelheit schluckt ihn wie ein Fehler im
+System.
+
+Die Rheinmädchen bleiben zurück, schwerelos und plötzlich alt.
+Nicht alt im Körper.
+Alt im Blick.
+
+Unter ihnen: ein leeres Feld, wo vorher Sonne war.
+
+Sie singen nicht mehr.
+Sie rufen.
+Und der Rhein trägt den Ruf nach oben, durch Rohre und Schleusen, durch die Stadt, als
+hätte er beschlossen, diesmal nicht still zu bleiben.
+
+=LOGE (V.O.)=
+Man kann einen Mann lange arm halten.
+Man kann ihn lange klein halten.
+Aber sobald man ihm zeigt, dass es einen Knopf gibt, der die Welt leiser macht,
+drückt er ihn.
+Nicht weil er böse ist.
+Weil er müde ist.
+
+---
+
+* AKT 2 — Walhalla-Baustelle
+** SZENE 1.2 — EXT. WALHALLA-BAUPLATTFORM — MORGEN
+
+Valhalla ist ein Versprechen mit Schrauben.
+Ein Palast im Orbit, gehängt an eine Arcology, die so sauber glänzt, dass sie die Armut
+darunter wie Dreck aussehen lässt — was der Punkt ist.
+
+Die Plattform, auf der sie stehen, ist noch Baustelle: Kräne, Drohnen, schwebende
+Module, Beton, der im Vakuum aushärtet. Das Licht ist hart. Die Luft ist gefiltert.
+Jeder Atemzug kostet Geld.
+
+=WOTAN= steht am Rand und schaut auf sein Eigentum, als wäre es schon bezahlt.
+
+Er trägt keine Krone. Er trägt einen Speer.
+Kein Speer zum Töten. Ein Speer zum Unterschreiben.
+
+    =LOGE (V.O.)=
+    Der Speer ist kein Gesetz. Er ist nur die Maschine, die so tut, als wäre sie's.
+
+In der glatten schwarzen Oberfläche sind Runen eingeritzt, aber nicht aus
+Steinzeitromantik. Es sind Vertragsknoten. Eid-Hashes. Smart-Contract-Rillen. Jeder
+Schnitt ein Schwur, der sich selbst vollstreckt.
+
+=WOTAN= wirkt groß. Nicht durch Muskeln. Durch Gewohnheit.
+
+=FRICKA= steht neben ihm. Ihr Blick streicht über die Kante der Plattform, als könnte sie
+die Rechnung im Vakuum lesen.
+
+FRICKA
+Du stehst da wie ein Mann, der glaubt, das Universum sei eine Bilanz.
+Und ich steh hier wie die, die dir sagt, dass du dich verrechnet hast.
+
+WOTAN
+(kalt)
+Es ist gebaut.
+Was zählt, ist, dass es steht.
+
+FRICKA
+Was zählt, ist, was du dafür versprochen hast.
+
+WOTANs Griff am Speer wird fester. Minimal. Aber FRICKA sieht alles.
+
+FRICKA
+FREIA.
+
+Ein Name wie ein Alarm.
+
+=WOTAN= schaut nicht zu ihr. Er schaut auf Valhalla, weil es leichter ist, ein Gebäude zu
+lieben als eine Konsequenz.
+
+WOTAN
+Es ist… verhandelbar.
+
+FRICKA
+Nichts ist verhandelbar, wenn du es in den Speer geritzt hast.
+
+WOTAN dreht den Speer, als könnte er den Satz ausradieren.
+
+Hinter ihnen tritt =FREIA= aus einem Containerbereich, begleitet von einem leichten Duft
+nach lebender Biologie — eine Art unsichtbarer Garten, den sie mit sich trägt. In ihrer
+Nähe wirkt die Haut der anderen glatter, die Gelenke weniger knirschend. Sie ist nicht
+“Jugend” als Person. Sie ist die Funktion, die den Körper davon abhält, seine Wahrheit
+zu sagen.
+
+FREIA
+Warum schaut ihr mich an, als wäre ich schon weg?
+
+FRICKA öffnet den Mund. Schließt ihn wieder. Nicht weil sie weich ist. Sondern weil sie
+weiß, dass Worte manchmal zu spät kommen.
+
+WOTAN
+(zu schnell)
+Du bist nicht weg.
+
+FREIA
+Du sagst das so, als müsste es stimmen, weil du es sagst.
+
+WOTAN antwortet nicht.
+
+Die Plattform vibriert.
+Nicht technisch. Sozial.
+
+Zwei Schatten fallen über sie, bevor zwei Schritte sie erreichen.
+
+=FASOLT= und =FAFNER=.
+
+Sie sind groß. Nicht nur körperlich. Sie sind groß, weil sie sich nie gezwungen haben,
+kleiner zu werden. Ihre Körper tragen Exo-Rahmen, die nicht “Robotik” schreien, sondern
+“Arbeit”: Beton, Stahl, Masse. Sie riechen nach Metall und Öl, nach Baustelle, nach
+Leuten, die Dinge wirklich bewegen.
+
+FASOLT hat etwas Weiches im Blick, das ihn gefährlicher macht: Er glaubt, dass er fühlen
+kann, ohne zu verlieren. FAFNERs Blick ist rein funktional: Alles ist Zahl, Gewicht,
+Tausch.
+
+FASOLT
+(laut, zufrieden)
+Da steht es.
+Unser Werk.
+Euer Traum.
+
+FAFNER
+(kurz)
+Zahlung.
+
+WOTAN richtet sich auf. Der Speer ist plötzlich mehr Speer.
+
+WOTAN
+Ihr habt euren Lohn.
+Ehre. Ruhm.—
+
+FAFNER
+(unterbricht)
+FREIA.
+
+Stille.
+
+FREIA tritt einen Schritt zurück. Nicht aus Angst. Aus Instinkt. Der Instinkt einer
+Person, die genau weiß, dass sie in einem Vertrag steht wie eine Zahl.
+
+FASOLT
+(sieht sie an, fast zärtlich)
+Komm, Mädchen.
+Keine Angst.
+Du wirst hoch wohnen.
+
+FREIA
+Ich wohne schon hoch.
+
+FAFNER greift nach ihr. Kein Zögern. Eine Hand wie ein Kran. Er packt sie am Arm.
+
+FRICKA
+(scharf)
+Hände weg.
+
+FAFNER
+Der Speer sagt: Sie gehört uns.
+
+WOTAN presst die Lippen zusammen. FRICKA schaut ihn an, als würde sie ihn vor Gericht
+anklagen. WOTAN schaut weg.
+
+FREIA
+(zu WOTAN, leise)
+Sag was.
+
+WOTAN sagt nichts.
+
+FAFNER zieht sie. FASOLT folgt. FREIA stolpert nicht. Sie geht aufrecht, weil Würde
+manchmal das Einzige ist, was du nicht verkaufen kannst.
+
+Als sie weg ist, passiert es.
+
+Nicht dramatisch. Nicht sofort sichtbar. Eher wie ein Filter, der ausfällt.
+
+Die Luft wird trockener.
+Die Haut der Götter verliert Glanz.
+=WOTANs= Hände wirken plötzlich älter.
+
+=FROH= reibt sich über die Stirn, als hätte man ihm Glanz gestohlen.
+=DONNER= knackt mit den Fingern, aber die Knöchel knacken zurück.
+
+FRICKA
+(sieht WOTAN an)
+Das ist deine Rechnung.
+Spürst du sie?
+
+WOTAN
+(heiser)
+Ich brauche… Zeit.
+
+FRICKA
+Du brauchst eine Lösung.
+Zeit ist jetzt teurer als Gold.
+
+In diesem Moment kommt Bewegung.
+Nicht von oben.
+Von der Seite.
+
+Ein Mann tritt auf die Plattform, als wäre er eingeladen, auch wenn niemand ihn
+eingeladen hat.
+
+=LOGE=.
+
+Maßanzug, der zu gut sitzt für diese Welt. Mantel, der an der Kante weht, obwohl hier
+kaum Wind ist — als hätte er seinen eigenen. Haut dunkel, Blick hell. Ein Lächeln, das
+zwei Bedeutungen hat: “Hallo” und “Ich bringe Ärger”.
+
+LOGE
+Na, na.
+Und ich dachte, hier oben wäre alles… stabil.
+
+WOTAN
+(LOGE erkennend)
+Du kommst spät.
+
+LOGE
+Ich komm immer spät.
+Frage ist: ob ich zu spät komme.
+
+FRICKA sieht LOGE an wie eine Person, die weiß, dass Feuer hübsch sein kann, bevor es
+Häuser frisst.
+
+FRICKA
+Wo warst du.
+
+LOGE
+Da, wo man Dinge findet, die andere nicht finden wollen.
+Unten.
+Im Wasser.
+Bei Liedern, die keine sein wollten.
+
+WOTAN richtet sich auf. Hoffnung ist hässlich an mächtigen Männern. Sie klebt.
+
+WOTAN
+Sprich.
+
+LOGE zieht eine kleine Datenkapsel aus der Manteltasche, wirft sie hoch, fängt sie
+wieder. Show? Ja. Aber auch Kontrolle.
+
+LOGE
+Es gibt da was.
+Etwas, das glänzt.
+Und etwas, das es jetzt nicht mehr tut.
+
+WOTAN
+Gold.
+
+LOGE
+Gold.
+Und mehr.
+Ein Ring, wenn man’s richtig dreht.
+Ein Griff, wenn man’s böse meint.
+
+FRICKA
+Was kostet es.
+
+LOGE
+(leicht)
+Alles.
+
+WOTAN ignoriert die Warnung, wie Mächtige Warnungen ignorieren: als wären sie Geräusche.
+
+WOTAN
+Wo.
+
+LOGE
+In der Unterwelt.
+Nibelheim.
+Und der, der’s hat, ist nicht glücklich.
+Er ist… hungrig mit Besitz.
+
+WOTAN schaut in Richtung, wo FREIA verschwunden ist. Seine Entscheidung fällt nicht
+moralisch. Sie fällt praktisch.
+
+WOTAN
+Dann holen wir es.
+
+LOGE nickt. Sein Lächeln wird schmaler.
+
+=LOGE (V.O.)=
+Es gibt Menschen, die stehlen, weil sie etwas brauchen.
+Und es gibt Menschen, die stehlen, weil sie nicht ertragen, dass andere etwas haben.
+Und dann gibt’s Götter.
+Die stehlen, weil sie Verträge geschrieben haben, die sie selbst nicht bezahlen wollen.
+
+---
+
+* AKT 3 — Nibelheim
+** SZENE 1.4 — INT. ABSTIEG / SCHACHT — TAG
+
+Der Abstieg ist ein Tunnel durch Schichten von Lügen.
+
+WOTAN und LOGE nehmen einen Lift, der nicht offiziell ist. Servicezugang. Wartung.
+“Nicht für Personal”. Genau das, was Macht nutzt, wenn sie unbemerkt bleiben will.
+
+Je tiefer sie kommen, desto wärmer wird es. Und desto ehrlicher.
+
+Die Wände wechseln von sauberem Orbitalstahl zu altem Beton, dann zu nacktem Fels, dann
+zu Metallplatten, die von innen schwitzen. Überall Kabel. Überall Hitze. Überall das
+Geräusch von Arbeit, die nicht bezahlt wird.
+
+LOGE lehnt am Geländer, als wäre das alles ein Spaziergang.
+
+WOTAN hält den Speer wie ein Reisepass.
+
+WOTAN
+Du hast gesagt, er sei… hungrig.
+
+LOGE
+Alberich?
+Ja.
+Und jetzt hat er was zu essen.
+Aber das Essen ist die Welt.
+
+WOTAN
+Er ist Nibel. Ein Wurm.
+
+LOGE
+Würmer können ganze Körper fressen.
+Wenn man sie lässt.
+
+** SZENE 1.5 — INT. NIBELHEIM-FABRIK — TAG
+
+Nibelheim ist keine Höhle.
+Es ist eine Fabrik.
+
+Maschinen, die wie Zähne arbeiten.
+Öfen, die atmen.
+Bänder, die laufen, als würden sie nie aufhören dürfen.
+Und dazwischen: Menschen. Kleine Gestalten. Nibelungen. Sie tragen Schutzmasken, aber
+die Masken schützen nicht vor dem, was hier wirklich giftig ist: Aussichtslosigkeit.
+
+Ein Schrei hallt durch die Halle.
+Nicht Schmerz, nicht nur.
+Eher: Disziplinierung.
+
+ALBERICH geht zwischen ihnen, jetzt trocken, geschniegelt, mit einem Mantel, der aus dem
+Material von gestohlenem Respekt geschnitten ist. Auf seiner Hand: der Ring.
+Unauffällig? Nein. Er will gesehen werden.
+
+Neben ihm: =MIME=, kleiner, krummer, Hände immer in Bewegung. Wenn er nicht schmiedet,
+zählt er. Wenn er nicht zählt, lügt er.
+
+MIME
+(unterwürfig)
+Herr… die Charge ist fast fertig… wir—
+
+ALBERICH
+Schweig.
+Arbeit.
+
+Ein Nibelunge stolpert. ALBERICH schlägt ihn. Nicht aus Not. Aus Prinzip.
+Das Prinzip: “Ich bin nicht mehr der, den ihr ausgelacht habt.”
+
+WOTAN bleibt im Schatten.
+LOGE tritt ein bisschen vor. Er passt sich der Hitze an wie eine Lüge, die sich an
+Fakten klebt.
+
+LOGE
+(laut, freundlich)
+Alberich!
+Du siehst… erfolgreich aus.
+
+ALBERICH fährt herum. Misstrauen zuerst. Dann erkennt er LOGE und WOTAN. Seine Augen
+blitzen. Hass, Angst, Triumph — alles in einem Atem.
+
+ALBERICH
+Was wollt ihr hier.
+
+LOGE
+Nur schauen.
+Man hört so viel über dich.
+Der Mann, der das Gold nahm.
+Der Mann, der “nein” sagte und dafür “alles” bekam.
+
+ALBERICH hebt die Hand. Der Ring glimmt. Die Nibelungen zucken zusammen, als hätte er
+ihnen den Strom abgestellt. Er liebt das.
+
+ALBERICH
+Ja.
+Alles.
+Und ihr… ihr habt nichts.
+
+WOTAN tritt vor. Sein Speer wirkt im Fabriklicht wie ein Gerichtsurteil.
+
+WOTAN
+Du hast genommen, was nicht dir gehört.
+
+ALBERICH lacht.
+
+ALBERICH
+Sagt der Mann, der Valhalla auf Kredit gebaut hat.
+Sagt der Mann, der eine Frau als Zahlung anbietet.
+Du willst über “gehören” reden?
+Hier unten gehört alles dem, der’s nehmen kann.
+
+    =LOGE (V.O.)=
+    Hier unten ist Besitz kein Zertifikat. Besitz ist Challenge‑Response: Du beanspruchst, der Nächste testet, wer stehen bleibt. Kein PKI. Kein Siegel. Nur Hand. Nur Blut.
+
+LOGE klatscht einmal, langsam.
+
+LOGE
+Stark.
+Richtig stark.
+Fast poetisch, wenn man’s nicht so traurig finden müsste.
+
+ALBERICHs Blick verengt sich.
+
+ALBERICH
+Traurig?
+
+LOGE
+Ja.
+Weil du’s jetzt hast.
+Und du bist immer noch du.
+Nur mit mehr Werkzeug.
+
+MIME schaut zwischen ihnen hin und her. Er versteht zu viel. Das macht ihn nervös.
+
+LOGE
+Erzähl uns doch.
+Was kann dieser Ring?
+Und dieses… hübsche Ding da.
+
+LOGE deutet auf einen Helm, der an einer Maschine hängt: den TARNHELM. Er wirkt alt und
+neu zugleich — eine Maske aus Metall, überzogen mit einer Schicht aus adaptiver
+Oberfläche. Tarnfeldgenerator. Morph-Emitter. Das Ding ist eine Lüge, die man aufsetzt.
+
+ALBERICHs Brust schwillt. Prahlerei ist die Schwäche des frisch Mächtigen.
+
+ALBERICH
+Der Helm macht dich zu allem.
+Zu jedem.
+Unsichtbar.
+Unangreifbar.
+
+WOTAN
+Zeig.
+
+ALBERICH zögert. Dann lächelt er. Natürlich zeigt er.
+Menschen, die lange gedemütigt wurden, wollen irgendwann ein Publikum, das nicht wegschauen kann.
+
+ALBERICH setzt den Helm auf.
+Sein Körper flimmert. Konturen verschieben sich. Er wird groß. Schwer. Panzer. Ein
+Monster aus Metall und Hunger — eine Drachenform, aber in dieser Welt: ein wandelnder,
+bewaffneter Knoten aus Exo-Platten, Sensoraugen, erhitzter Atem.
+
+Die Nibelungen kauern. MIME zittert.
+LOGE hebt eine Augenbraue, als wäre er in einem schlechten Club mit guter Anlage.
+
+LOGE
+Nicht schlecht.
+Aber… kannst du auch klein?
+Weißt du… für die feinen Arbeiten.
+
+ALBERICH knurrt in Drachenstimme.
+
+ALBERICH
+Ich kann alles.
+
+LOGE
+Dann mach dich klein.
+Ganz klein.
+So klein, dass ich dich fast übersehen würde.
+
+ALBERICH will nicht übersehen werden.
+Aber der Satz trifft ihn genau da, wo es weh tut: bei seinem alten Leben. Er reagiert,
+wie alte Wunden reagieren: impulsiv.
+
+Er flimmert.
+Der Drache schrumpft.
+Wird zu etwas Kleinem, Zähem, Hässlichem: einer Kröte aus Fleisch und Metall, ein
+grotesker Hybrid. Ein Tier, das man tritt, ohne hinzusehen.
+
+LOGE bewegt sich sofort.
+Wie ein Trick, der zu lange geübt wurde.
+
+LOGE schlägt ein Netz aus leitendem Draht über die Kröte. Feld aktiviert. Der Tarnhelm
+flackert. Die Kröte zuckt.
+
+WOTAN rammt den Speer in den Boden. Ein Eid-Siegel leuchtet auf. Der Raum “bindet”
+Alberich wie ein Vertrag, der sich selbst vollstreckt.
+
+ALBERICH schreit. Nicht mehr Drachenstimme. Wieder Mensch. Wieder klein. Wieder nackt in
+seiner Angst.
+
+ALBERICH
+Betrug!
+
+LOGE
+Willkommen im Geschäft.
+
+MIME will weg. LOGE wirft ihm einen Blick zu, der sagt: Bleib. Oder geh und sterb
+später.
+
+WOTAN packt ALBERICH am Mantel.
+
+WOTAN
+Ring. Helm. Gold.
+
+ALBERICH spuckt aus. Wortlos. Dann lacht er wieder, aber diesmal ist es ein Lachen ohne
+Freude. Ein Lachen, das klingt, als würde man ein Messer schleifen.
+
+ALBERICH
+Ihr nehmt es.
+Natürlich nehmt ihr es.
+Und dann… dann frisst es euch.
+
+WOTAN
+Gib.
+
+ALBERICH hebt die Hand. Der Ring sitzt wie eine Wahrheit, die nicht abgehen will.
+
+Er zieht ihn ab.
+Man sieht, dass es weh tut. Nicht körperlich. Seelisch. Als würde er sich selbst vom
+Finger schneiden.
+
+Der Ring landet in WOTANs Hand. Kurz glänzt er unschuldig.
+
+ALBERICH
+(heiser, laut)
+Hört mich.
+Nicht ihr Nibel da, die ihr sowieso schon tot seid.
+Ihr da.
+Götter.
+Fixer.
+Vertragskönige.
+
+Er steht auf. Ohne Ring. Und trotzdem richtet er sich auf, als hätte er endlich
+verstanden, dass Würde nicht gekauft wird.
+
+ALBERICH
+Dieser Ring ist ein Fluch.
+Nicht weil ich’s sage.
+Sondern weil Besitz so funktioniert.
+Wer ihn hält, wird ihn lieben.
+Wer ihn liebt, wird ihn verteidigen.
+Wer ihn verteidigt, wird töten.
+Und wer ihn hat… wird sterben.
+Nicht irgendwann.
+Im Kern.
+
+Ein Schweigen, das schwerer ist als Hitze.
+
+LOGE lächelt nicht mehr.
+
+WOTAN steckt den Ring ein.
+
+WOTAN
+Drohe wem anders.
+
+ALBERICH
+Ich drohe nicht.
+Ich prognostiziere.
+
+Er schaut kurz zu MIME.
+
+ALBERICH
+Und du… du wirst noch sehen, wie kleine Männer große Helden großziehen,
+nur um ihnen dann Gift zu geben.
+Ihr alle seid Werkzeuge.
+Und der Ring ist das Werkzeug, das Werkzeuge baut.
+
+LOGE
+(ruhig)
+Du bist poetisch geworden, Alberich.
+Fast schade.
+
+ALBERICH
+Schade ist nur, dass ich euch nicht alle jetzt schon im Wasser sehe.
+
+LOGE und WOTAN wenden sich ab.
+Sie nehmen Helm und Gold.
+Und sie lassen Nibelheim zurück, wie man eine Sache zurücklässt, die man nicht bezahlen
+will: ohne Blickkontakt.
+
+=LOGE (V.O.)=
+Ein Fluch ist kein Zauberspruch.
+Ein Fluch ist ein Satz, der stimmt,
+aber den keiner hören will,
+weil er genau da sitzt, wo die Lüge wohnt.
+
+---
+
+* AKT 4 — Rückkehr & Zahlung
+** SZENE 1.6 — EXT. WALHALLA-PLATTFORM — ABEND
+
+Abend im Orbit ist eine Lüge.
+Hier oben wird es nicht “dunkel”.
+Es wird nur weniger hell.
+
+Als WOTAN und LOGE zurückkehren, ist die Plattform ein anderer Ort.
+Die Götter sind blasser. Die Haut dünner. Die Augen müder.
+FREIA fehlt wie ein fehlendes Organ.
+
+FASOLT und FAFNER stehen bereits da, FREIA zwischen sich wie ein Pfand.
+FASOLT hält sie vorsichtig. FAFNER hält sie fest.
+
+WOTAN tritt vor, lässt das Gold sehen.
+Ein Leuchten in einer tragbaren Hülle. Sonne im Koffer.
+
+WOTAN
+Das ist euer Lohn.
+
+FAFNER
+Alles.
+
+WOTAN
+Genug, um Valhalla zu bauen.
+
+FAFNER
+(ohne Humor)
+Valhalla ist gebaut.
+Zahlung ist Zahlung.
+
+LOGE beobachtet die Riesen, beobachtet die Götter, beobachtet das Gold.
+Er beobachtet, wie Gier in verschiedenen Körpern gleich aussieht.
+
+Sie beginnen zu stapeln.
+Goldbarren, Module, Stränge, alles, was aus dem Vault gerissen wurde.
+Sie bauen eine Wand, bis FREIA dahinter verschwindet.
+Dann eine zweite, bis nur noch ein Stück ihrer Haare sichtbar ist.
+Dann eine dritte.
+
+FASOLT
+(ruhiger als FAFNER)
+Noch mehr.
+
+WOTAN knurrt.
+
+WOTAN
+Das ist genug.
+
+FAFNER
+Nicht, solange ich sie sehen kann.
+
+FREIA
+(aufrecht, bitter)
+Ihr stapelt Sonne und nennt es Gerechtigkeit.
+
+FRICKA steht neben WOTAN. Sie sagt nichts. Sie lässt ihn seine eigene Schande tragen.
+
+FAFNER deutet auf WOTANs Hand.
+Sein Blick ist wie ein Scanner.
+
+FAFNER
+Der Ring.
+
+WOTAN friert.
+Nicht wegen Kälte.
+Wegen Besitz.
+
+WOTAN
+Der Ring ist nicht Teil des Vertrags.
+
+FAFNER
+Er ist Teil der Macht.
+Und wir nehmen, was wir brauchen.
+
+LOGE schaut WOTAN an. Nur kurz. Ein Blick, der sagt: Hör auf den Fluch. Hör auf die
+Realität. Hör auf irgendwas, das nicht dein Ego ist.
+
+WOTAN
+Nein.
+
+FRICKA
+(so leise, dass es schneidet)
+Du wirst uns alle töten für ein Schmuckstück.
+
+WOTAN
+Es ist kein Schmuckstück.
+
+FRICKA
+Natürlich ist es das.
+Für Männer wie dich.
+
+FASOLT schaut den Ring an. In seinen Augen liegt nicht nur Gier.
+Da liegt auch eine Sehnsucht nach etwas, das er nicht benennen kann.
+
+FASOLT
+WOTAN.
+Gib ihn.
+Dann ist’s vorbei.
+
+WOTAN hebt den Speer, als würde das irgendwas lösen.
+
+WOTAN
+Ich bin WOTAN.
+
+LOGE
+(halb lächelnd)
+Ja.
+Und das ist genau das Problem.
+
+In diesem Moment ändert sich das Licht.
+
+Eine Präsenz steigt auf die Plattform, ohne Lift, ohne Tür, ohne Erlaubnis.
+=ERDA=.
+
+Sie wirkt nicht wie eine “Göttin”.
+Sie wirkt wie die Personifikation von Wissen, das man nicht kaufen kann.
+Haut wie Erde. Augen wie tiefe Brunnen. Stimme, die nicht schreit, weil sie nicht muss.
+
+ERDA
+WOTAN.
+
+WOTAN bleibt stehen. Sein Speer senkt sich ein bisschen. Unfreiwillig.
+
+ERDA
+Du hältst, was dich halten wird.
+
+WOTAN
+Wer bist du.
+
+ERDA
+Ich bin die, die bleibt, wenn ihr brennt.
+Gib den Ring.
+Oder alles, was du baust, wird zu Asche.
+Nicht irgendwann.
+Bald.
+
+WOTAN schluckt. Seine Hand am Ring zittert.
+Er ist mächtig, aber nicht blind.
+
+FRICKA sieht ihn an, und in ihrem Blick ist kein Triumph. Nur: “Siehst du?”
+
+WOTAN zieht den Ring hervor.
+Das Goldlicht trifft sein Gesicht und macht ihn kurz zu dem, was er vielleicht hätte
+sein können: ein Mann, der Verantwortung kennt.
+
+Dann legt er den Ring auf den Goldstapel.
+Wie ein Opfer.
+Wie eine Kapitulation.
+
+FAFNERs Hand schnappt zu. Der Ring verschwindet in seiner Faust.
+Ein Klick in der Welt.
+
+FASOLT atmet aus, als wäre damit wirklich alles vorbei.
+
+Es ist nicht vorbei.
+
+** SZENE 1.7 — EXT. WALHALLA-PLATTFORM — MOMENTE SPÄTER
+
+Der Fluch arbeitet schnell, wenn er kann.
+
+FASOLT schaut zu FAFNER.
+
+FASOLT
+Wir teilen.
+
+FAFNER
+Wir teilen nicht.
+
+FASOLT
+Der Ring war nicht abgemacht—
+wir teilen.
+
+FAFNER
+(ruhig)
+Der Ring ist ab jetzt abgemacht.
+
+FASOLT setzt einen Schritt nach vorn. Große Männer bewegen sich langsam, wenn sie
+glauben, dass Größe reicht.
+
+FAFNER bewegt sich nicht langsam.
+Er ist nicht groß, weil er groß ist.
+Er ist groß, weil er bereit ist, zu tun, was andere nicht tun.
+
+Ein Schlag.
+Ein schwerer, brutaler, direkter Schlag.
+
+FASOLT fällt.
+Nicht heroisch.
+Wie ein Gebäude, dem man die Statik nimmt.
+
+FREIA schreit. Ein kurzer, echter Ton.
+
+FAFNER steht über dem Körper, ringt die Faust um den Ring.
+Sein Blick ist leer.
+
+FAFNER
+Jetzt gehört er mir.
+
+LOGE sieht WOTAN an.
+WOTAN sieht FASOLT an.
+FRICKA sieht in den Abgrund hinter allem.
+
+FRICKA
+(leise)
+Das ist es.
+Das ist dein “Asset”.
+
+WOTAN sagt nichts. Er kann nicht.
+Er spürt den Fluch wie eine Kälte in der Hand, obwohl der Ring nicht mehr da ist.
+
+DONNER tritt vor.
+Seine Wut ist Wetter. Er hebt den Arm, und Drohnen in der Stratosphäre reagieren, als
+wären sie seine Muskeln.
+
+DONNER
+Genug.
+Dieser Gestank… von Mord… von Angst… er klebt.
+
+Er schlägt.
+Nicht jemanden.
+Er schlägt die Luft.
+
+Ein Gewitter bricht los, künstlich und doch überzeugend.
+Blitze ziehen über die Plattform, reinigen nicht wirklich, aber sie machen Eindruck.
+Regen prasselt in kontrollierten Bahnen. Ein Show-Reset. Ein Marketing-Sturm.
+
+FROH hebt die Hand.
+Sein Talent ist Glanz.
+
+FROH
+Seht.
+
+Vor ihnen bildet sich die Brücke.
+Nicht “Regenbogen” als Romantik.
+Regenbogen als Spektrum, als Daten-Lichtband, als Propaganda-Korridor nach Valhalla.
+Ein Weg aus Farben, die sauber aussehen, weil sie keine Materie sind.
+
+Die Götter sammeln sich. Sie sind schwach, aber sie haben noch Würde.
+Oder sie spielen sie.
+Das ist oft dasselbe.
+
+WOTAN geht zuerst.
+Weil er immer zuerst geht.
+Er schaut nicht nach unten.
+
+Unter ihnen, weit unten, irgendwo im Dunkel, wo Wasser noch Wasser ist, steigen Stimmen
+auf.
+Die Rheinmädchen.
+Ihr Klagen ist kein Lied mehr. Es ist ein Protokoll.
+Ein Gedächtnis, das anklagt.
+
+WELLGUNDE (fern)
+Gebt es zurück!
+
+WOGLE (fern)
+Der Ring gehört nicht euch!
+
+FLOSSHILDE (fern)
+Wasser vergisst nicht!
+
+WOTAN setzt den Fuß auf die Brücke, als würde er über ein Problem gehen.
+
+LOGE bleibt einen Moment zurück.
+Schaut nach unten.
+Schaut nach oben.
+Schaut auf die Brücke, die aussieht wie Erlösung und sich anfühlt wie Flucht.
+
+=LOGE (V.O.)=
+Sie nennen es Valhalla.
+Ich nenn’s: Penthouse über einem Massengrab.
+Oben feiern sie die Farbe.
+Unten weint das Wasser.
+Und irgendwo dazwischen läuft ein Ring herum,
+der nie etwas anderes wollte, als die Wahrheit zu zeigen:
+Dass Besitz nicht füllt.
+Er frisst.
+
+LOGE geht los.
+Das Licht schluckt ihn.
+Valhalla schluckt sie alle.
+
+Und der Rhein bleibt zurück.
+Mit seinem leeren Vault.
+Und seiner vollen Erinnerung.
+
+* ENDE EPISODE 1
+- Hook: Der Ring ist bei FAFNER. FREIA ist frei, aber der Preis ist sichtbar: Mord im
+  Licht.
+- Ton: Ordnung zieht ins Penthouse; Chaos bleibt in den Rohren; und der Fluch beginnt,
+  Beziehungen zu “optimieren”.

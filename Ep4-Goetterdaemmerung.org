@@ -1,0 +1,1462 @@
+#+title: DER RING: NEON-VALHALLA
+#+subtitle: Episode 4 — GÖTTERDÄMMERUNG (Vollausarbeitung)
+
+* EPISODE 4 — GÖTTERDÄMMERUNG
+*Tagline:* Der Fluch endet nicht, weil du ihn verstehst. Er endet, wenn du ihn zurückgibst.
+
+*Besetzung (Episode 4)*
+- =LOGE= — Voice-Over; Chronist des Vertragsbrands; sieht Muster, nicht Ausreden.
+- =DIE NORnen= (3) — Datenweberinnen; Schicksalsstrang als Systemkabel; Vorzeichen und Bruch.
+- =SIEGFRIED= — Held ohne Angst; Ring+Tarnhelm; Unschuld mit Wucht.
+- =BRÜNNHILDE= — Erwachte Walküre; Liebe als Entscheidung; wird zur Richterin.
+- =GUNTHER= — Gibichungen-Erbe; Status als Hohlraum; will Größe, hat nur Fassade.
+- =GUTRUNE= — Schwester; Sehnsucht nach Bedeutung; wird zur Variable im Plan.
+- =HAGEN= — Sohn Alberichs; kalter Architekt; Loyalität nur zur Rache; Speer als Werkzeug.
+- =ALBERICH= — Schattenvater; Fluch-Urheber; erscheint wie ein Albtraum, der nie kündigt.
+- =RHEINMÄDCHEN= (=WELLGUNDE=, =WOGLE=, =FLOSSHILDE=) — Mahnerinnen; Naturgedächtnis; wollen Rückgabe.
+- =GIBICHUNGEN= — Hof/Elite; Zeugen, Publikum, Mitläufer.
+- (Rand, brennend) =WOTAN= / =FRICKA= / =VALHALLA= — Ordnung im Endstadium.
+
+*Leitmotive (Episode 4, dramaturgisch hörbar)*
+- =SEIL= : Schicksalsstrang/Datenkabel; wenn es reißt, ist die Zukunft “unkompiliert”.
+- =TRANK= : Gedächtnis-Hack; Liebe wird überschrieben wie eine Datei.
+- =EID= : Schwur als Waffe; Wahrheit wird an Speere genagelt.
+- =RING= : Besitzlogik in Reinform; erzeugt Verrat, Mord, Leere.
+- =BRAND= : Reset; nicht Strafe, sondern Konsequenz.
+- =RHEIN= : Rücknahme; Natur als letzte Instanz.
+
+---
+
+* PROLOG — Die Nornen & Brünnhildes Abschied
+** SZENE 4.P1 — EXT. RANDZONE / NORnen-ORT (SERVICEPLATEAU AM ABSTURZ) — NACHT
+
+Nacht ist hier kein Himmel.
+Nacht ist ein Stromausfall, der nie kommt.
+
+Unter Valhalla, unter den Plattformen, dort, wo man die Kabel nicht zeigt, stehen drei
+Gestalten im Wind.
+Sie sind nicht jung, nicht alt. Eher: außerhalb davon.
+Die =NORnen=.
+
+Vor ihnen liegt der Strang.
+Ein dickes, dunkles Kabelbündel, das gleichzeitig wie Seil aussieht.
+Daten und Schicksal, zusammengeflochten.
+Es summt leise. Nicht wie Technik. Wie ein Orakel, das nebenbei Strom liefert.
+
+NORNE 1
+(fragt, ohne Fragezeichen)
+Weißt du noch, als der Speer die Welt hielt?
+
+NORNE 2
+Der Speer ist gebrochen.
+
+NORNE 3
+Dann hält nichts mehr.
+Nur Gewohnheit.
+
+Sie ziehen am Strang.
+Bilder laufen durch das Material wie Erinnerungen:
+Rhein-Gold unter Wasser.
+Alberichs Griff.
+Wotans Deal.
+Fafners Mord.
+Siegmunds Fall.
+Feuer um Brünnhilde.
+Siegfrieds Schwertschläge.
+Der Speer, der in zwei Teile geht wie ein Vertrag, der sich schämt.
+
+NORNE 1
+Wotan suchte Wissen bei ERDA.
+Und zahlte mit Angst.
+
+NORNE 2
+Er riss ein Auge aus.
+Damit er weniger sehen muss.
+
+NORNE 3
+Er wollte die Zukunft besitzen.
+Und nannte es: Ordnung.
+
+Der Wind wird stärker.
+Das Kabel vibriert. Der Strang “wehrt” sich.
+
+NORNE 2
+Der Code ist instabil.
+
+NORNE 1
+Weil die Ordnung den Preis nicht mehr tragen kann.
+
+NORNE 3
+Weil der Ring jetzt Hände hat, die lachen.
+
+Sie ziehen stärker.
+Für einen Moment: Widerstand.
+Dann: ein trockenes Geräusch.
+
+Der Strang reißt.
+
+Kein Blitz.
+Kein Feuerwerk.
+Nur ein Riss, der in der Stille klingt, als würde eine Welt die Luft anhalten.
+
+Die Nornen starren auf die beiden Enden.
+Als würde man eine Landkarte anschauen, die plötzlich weiß ist.
+
+NORNE 1
+Das Ende ist nicht geschrieben.
+
+NORNE 2
+Das Ende ist nicht kontrolliert.
+
+NORNE 3
+Dann wird es wahr.
+
+Sie lassen die Enden fallen.
+Der Strang sinkt in die Tiefe, verschwindet.
+Als hätte die Zukunft beschlossen, nicht mehr verfügbar zu sein.
+
+=LOGE (V.O.)=
+Wenn der Schicksalsfaden reißt, nennt das System es “Fehler”.
+Ich nenn’s: Befreiung.
+Der Witz ist nur:
+Freiheit fühlt sich am Anfang an wie Absturz.
+
+** SZENE 4.P2 — EXT. BRÜNNHILDES FELS — MORGEN
+
+Morgenlicht über dem Feuerkreis ist hübsch.
+Hübsch wie ein Messer, das poliert wurde.
+
+=SIEGFRIED= schnallt seinen Mantel, überprüft den Tarnhelm wie ein Gadget, das man auf
+Reisen mitnimmt.
+Der Ring sitzt an seiner Hand, als wäre er dort geboren.
+Er pfeift leise, weil Stille ihn langweilt.
+
+=BRÜNNHILDE= steht neben ihm.
+Wach. Klar. Schwer.
+Sie trägt keine Rüstung.
+Sie trägt Bewusstsein.
+
+BRÜNNHILDE
+Du gehst.
+
+SIEGFRIED
+Ich geh.
+Kommt wieder.
+So machen Leute das doch.
+
+BRÜNNHILDE
+(ruhig)
+Du bist nicht “Leute”.
+
+SIEGFRIED grinst.
+
+SIEGFRIED
+Du auch nicht.
+
+Brünnhilde schaut auf den Ring.
+Sie sagt nichts.
+Aber ihr Blick ist ein Satz.
+
+SIEGFRIED
+Was.
+
+BRÜNNHILDE
+Dieser Ring…
+ist nicht Schmuck.
+Er ist eine Geschichte, die Blut will.
+
+SIEGFRIED
+Dann kriegt er keins.
+Ich bin schnell.
+
+BRÜNNHILDE schüttelt den Kopf.
+Nicht enttäuscht.
+Eher traurig über den Mechanismus.
+
+BRÜNNHILDE
+Du bist schnell, ja.
+Aber Flüche sind geduldig.
+
+Sie nimmt seine Hand.
+Nicht Besitz, nicht Kette.
+Eher: Verabredung.
+
+BRÜNNHILDE
+Wenn du gehst…
+nimm dies.
+
+Sie löst ein Zeichen von sich — in dieser Welt: ein Walküren-Siegel, ein kleiner
+Sender/Token, der auf ihre Frequenz codiert ist.
+Und sie legt es in seine Handfläche wie ein Schwur, der ohne Speer auskommt.
+
+BRÜNNHILDE
+Das ist nicht Schutz gegen die Welt.
+Nur gegen dich selbst.
+
+SIEGFRIED
+(lacht)
+Gegen mich selbst?
+
+BRÜNNHILDE
+Du bist dein gefährlichster Gegner.
+Weil du nicht weißt, dass du einer bist.
+
+Sie führt ihn zu einem Gerät am Rand des Felsens: ein Reiter-Carrier, Brünnhildes “Grane”.
+Schwer, elegant, mythologisch in Form, technisch in Funktion.
+
+BRÜNNHILDE
+Nimm Grane.
+Und geh.
+
+SIEGFRIED
+Und du?
+
+BRÜNNHILDE
+Ich war lange Befehl.
+Jetzt bin ich Wache.
+Nicht für Gold.
+Für Sinn.
+
+SIEGFRIED küsst sie.
+Kurz. Hart. Echt.
+Dann steigt er auf.
+
+SIEGFRIED
+Ich komm zurück.
+
+BRÜNNHILDE
+(zu leise)
+Die, die so etwas sagen, werden getestet.
+
+Siegfried startet.
+Der Carrier schneidet durch die Luft.
+Er verschwindet hinter dem Feuerkreis.
+
+Brünnhilde bleibt.
+Ihre Hand geht unbewusst an die Stelle, wo der Ring früher einmal war, bevor Siegfried
+ihn trug.
+Sie schaut in Richtung Valhalla, weit oben, glänzend, krank vor Ordnung.
+
+=LOGE (V.O.)=
+Liebe ist gefährlich, weil sie nicht käuflich ist.
+Und Besitz ist gefährlich, weil er so tut, als wäre er Liebe.
+Brünnhilde wusste das.
+Siegfried nicht.
+Und Wissen ist der Unterschied zwischen Tragödie und Unfall.
+
+** SZENE 4.P3 — INT./EXT. BRÜNNHILDES FELS — NACHT (WALTRAUTE)
+
+Die Nacht klebt am Feuerkreis wie ein letzter Versuch, Ordnung zu halten. Die
+Flammen flackern niedriger. Brünnhilde ist allein, aber ihre Gedanken sind
+laut.
+
+Eine Gestalt bricht durch das Feuer: =WALTRAUTE=, eine Walküre, eine Schwester.
+Sie trägt die Gerüche von Rauch und kalten Datenkabeln.
+
+WALTRAUTE
+Schwester.
+
+BRÜNNHILDE dreht sich. Überraschung, aber keine Angst.
+
+BRÜNNHILDE
+Waltraute?
+
+WALTRAUTE
+Ich komme aus Valhalla. Oder dem, was davon übrig ist. Der Speer ist gebrochen.
+Die Eide faulten. Die Dienste fallen aus. Wotan schweigt. Seine Systeme
+stürzen ab. Er schickt mich. Er bittet: Gib den Ring zurück. Sonst
+stürzt alles.
+
+BRÜNNHILDE
+(hart)
+Er bittet? Er, der mich in Schlaf legte und mich in Feuer sperrte? Jetzt,
+wo sein Code brennt, erinnert er sich?
+
+WALTRAUTE
+Es ist nicht um ihn. Es ist um die Welt. Dein Ring hält einen Fluch. Seine
+Logik ist eine parasitäre Semantik. Sie vergiftet jeden Vertrag. Nur du
+kannst ihn zurückgeben. Die normative Annahme war, dass du es tun würdest.
+Das System ist nicht dumm, es vertraut auf Anthropologie. Aber Anthropologie
+hat Alberich geirrt. Jetzt ist alles auf dich gebaut. Bitte.
+
+BRÜNNHILDE
+Du sprichst wie ein Protokoll. Ich spreche wie ein Mensch. Ich liebe
+Siegfried. Dieser Ring ist unser. Liebe lässt sich nicht codieren. Ihr habt
+eure Eide, ich habe mein Herz.
+
+WALTRAUTE
+Liebe ohne Welt ist Asche. Die Welt ist größer als dein Modell. Du musst
+sie zurückgeben. Sonst ist das Feuer, das uns reinigt, das Feuer, das uns
+verbrennt.
+
+BRÜNNHILDE
+Nein.
+
+Waltraute sieht sie an, atmet aus, als würde sie ein Stück Zukunft
+loslassen.
+
+WALTRAUTE
+Dann habe ich nichts mehr zu sagen.
+
+Sie geht zurück durch den Feuerkreis. Ihr Blick bleibt zuletzt auf dem Ring
+in Brünnhildes Hand. Dann ist sie weg.
+
+=LOGE (V.O.)=
+Das ist der Moment, in dem ein System merkt, dass seine Security‑Assumption
+falsch war. Es hatte geglaubt, dass niemand die Liebe wegwirft. Es hatte
+geglaubt, dass eine Tochter auf ihre Stadt hört. Aber Anthropologie ist keine
+Garantie. Und so stürzt es nicht, weil es dumm wäre, sondern weil es zu
+sehr an das Gute im Menschen geglaubt hat.
+
+---
+
+* AKT 1 — Gibichungen-Hof
+** SZENE 4.1 — INT. GIBICHUNGEN-PALAST — TAG (LUXUS ALS LEERE)
+
+Der =GIBICHUNGEN=-Palast ist kein Zuhause.
+Er ist eine Visitenkarte.
+
+Glas, Stein, Stahl.
+Funkiger Sound aus unsichtbaren Lautsprechern, teuer genug, dass er “organisch” klingt.
+Menschen in Stoffen, die mehr kosten als ein Jahr in Mimes Welt.
+Augen, die alles scannen, aber nichts fühlen.
+
+=GUNTHER= steht am Fenster, schaut auf die Stadt, als könnte er darin Bedeutung finden.
+Er findet nur Spiegel.
+
+=GUTRUNE= sitzt am Tisch, dreht einen Ring an ihrem Finger, der nicht verflucht ist — und
+genau deshalb belanglos wirkt.
+
+=HAGEN= steht im Schatten.
+Er steht immer im Schatten, auch wenn Licht da ist.
+Er trägt keine Krone, keinen Glanz.
+Er trägt Geduld.
+
+GUNTHER
+Ich brauche… etwas.
+Etwas, das mich größer macht.
+
+HAGEN
+Du brauchst eine Frau.
+
+Gunther schaut irritiert.
+Zu banal für seinen Geschmack.
+Hagen bleibt ruhig.
+Banal ist effizient.
+
+HAGEN
+Brünnhilde.
+Die Walküre im Feuer.
+Wenn du sie hast, hast du Mythos.
+Mythos ist die beste Währung.
+
+GUTRUNE
+(lebhaft)
+Und ich?
+
+HAGEN
+Du brauchst einen Mann, der größer ist als dein Haus.
+
+GUTRUNE
+(halb lächelnd)
+Gibt’s so einen?
+
+HAGEN
+Ja.
+Er kommt.
+
+Gunther dreht sich.
+
+GUNTHER
+Wer.
+
+HAGEN
+Siegfried.
+
+Ein Name fällt in den Raum wie ein schweres Glas.
+Gunther versucht, ihn zu “besitzen”, indem er ihn ausspricht.
+
+GUNTHER
+Ich kenne ihn nicht.
+
+HAGEN
+Du wirst ihn kennen.
+Er trägt den Ring.
+Und er trägt keine Angst.
+Das macht ihn manipulierbar.
+
+GUTRUNE
+Wie manipuliert man einen Mann ohne Angst?
+
+HAGEN
+Man nimmt ihm die Erinnerung.
+
+Gunther schaut Hagen an, als wäre das zu dunkel.
+Hagen schaut zurück, als wäre Dunkelheit nur eine Farbe.
+
+HAGEN
+Ein Trank.
+Neurochemie, alt wie die Gier.
+Er vergisst Brünnhilde.
+Er sieht dich, Gutrune, als seine Geschichte.
+Dann schwört er dir.
+Und dir, Gunther, schwört er Blutbrüderschaft.
+Und dann holt er Brünnhilde für dich.
+Mit Tarnhelm.
+Mit Gewalt.
+Mit allem, was er “Spiel” nennt.
+
+GUTRUNE wird blass.
+Nicht aus Angst.
+Aus dem Schock, wie leicht Menschen werden können.
+
+GUNTHER
+Und der Ring?
+
+HAGEN
+(ohne Emotion)
+Der kommt zurück.
+Zu uns.
+Zu mir.
+Zu dem, was richtig ist.
+
+GUNTHER
+Was ist richtig.
+
+HAGEN
+Dass der, der ihn gemacht hat, ihn wieder hat.
+Mein Vater.
+
+Ein Moment Stille.
+Gutrune spürt: da ist etwas, das älter ist als ihr Haus.
+
+=LOGE (V.O.)=
+Die Gibichungen hatten alles, außer Sinn.
+Das ist eine gefährliche Kombination.
+Wenn Sinn fehlt, kaufen Menschen Mythos.
+Und Mythos wird meist mit Blut geliefert.
+
+** SZENE 4.2 — EXT. PALASTHOF / TERRASSE — SPÄTER (ALBERICH UND HAGEN)
+
+Nacht fällt im Palast wie Samt.
+Samt, unter dem Messer liegen.
+
+HAGEN steht allein, Wache.
+Er ist Wache nicht für Menschen.
+Für Pläne.
+
+Aus dem Schatten löst sich eine Gestalt, die da nie sein dürfte und doch immer da ist:
+=ALBERICH=.
+
+Er wirkt nicht wie ein Mann, der nur “älter” wurde.
+Er wirkt wie ein Fluch, der gelernt hat, zu laufen.
+
+ALBERICH
+Hagen.
+
+HAGEN zuckt nicht.
+Er hat auf diese Stimme gewartet, sein Leben lang.
+
+HAGEN
+Vater.
+
+ALBERICH tritt näher, gierig, aber vorsichtig.
+
+ALBERICH
+Hast du’s gesehen?
+Den Ring?
+In einer Hand, die nicht würdig ist?
+
+HAGEN
+Er kommt.
+
+ALBERICH
+(heiser)
+Nicht warten.
+Nehmen.
+
+HAGEN
+Ich nehme.
+Aber nicht wie du.
+Nicht mit Schrei.
+Mit Plan.
+
+ALBERICH lächelt.
+Ein hässliches Lächeln, stolz und krank.
+
+ALBERICH
+Plan ist gut.
+Aber vergiss nicht: Der Ring will nicht “Plan”.
+Er will Besitz.
+Er will, dass du dich selbst verlierst.
+
+HAGEN
+Ich verliere nichts.
+
+ALBERICH legt die Hand auf Hagens Schulter.
+Kurz, schwer.
+
+ALBERICH
+Jeder verliert.
+Die Frage ist nur: was.
+
+Alberich verschwindet wieder im Schatten.
+Als wäre er nie da gewesen.
+Hagen bleibt stehen, und für einen Moment wirkt er nicht wie Stein.
+Eher wie Stahl, der kalt wurde.
+
+---
+
+* AKT 1b — Siegfrieds Ankunft & der Trank
+** SZENE 4.3 — EXT./INT. PALASTHOF / BANKETT — TAG
+
+Siegfried kommt wie ein Unfall mit Lächeln.
+Er steigt von Grane ab, sieht sich um, als wäre das hier ein neuer Spielplatz.
+
+Der Palast reagiert, wie Paläste reagieren:
+mit Staunen, Neid, und sofortiger Berechnung.
+
+Gunther tritt ihm entgegen, macht die Gesten eines Königs, ohne die Schwere.
+
+GUNTHER
+Willkommen.
+Siegfried, Sohn…
+
+SIEGFRIED
+(unterbricht freundlich)
+Siegfried reicht.
+
+HAGEN tritt aus dem Schatten.
+Seine Stimme ist ruhig, aber sie trägt Kälte wie Parfum.
+
+HAGEN
+Du bist weit gereist.
+
+SIEGFRIED
+War ein schöner Weg.
+Viel Luft.
+Wenig Leute, die reden.
+
+GUTRUNE tritt näher.
+Ihre Augen hängen an ihm wie an einer Chance.
+Nicht nur erotisch — existenziell.
+
+GUTRUNE
+Du bist… anders.
+
+SIEGFRIED
+Ja.
+
+Er sagt es ohne Arroganz.
+Nur als Fakt.
+
+HAGEN reicht ihm einen Becher.
+Der Trank ist klar, unschuldig.
+Wie viele Dinge, die töten.
+
+HAGEN
+Trink.
+Auf Freundschaft.
+Auf Haus.
+Auf… Zukunft.
+
+SIEGFRIED trinkt.
+Weil er keinen Grund sieht, nicht zu trinken.
+Weil Angst ihm fehlt, und Misstrauen eine Form von Angst ist.
+
+Ein Moment.
+Nichts sichtbar.
+Dann flackert sein Blick.
+Als hätte jemand eine Datei umbenannt.
+
+SIEGFRIED
+(zu Gutrune)
+Du…
+
+GUTRUNE lächelt.
+Er sieht sie jetzt nicht als Person, sondern als Zentrum.
+
+GUTRUNE
+Ja.
+
+HAGEN
+(sofort)
+Und Gunther?
+
+SIEGFRIED dreht sich zu Gunther.
+Ein neuer Impuls: Bindung.
+Nicht aus Liebe.
+Aus Überschreibung.
+
+SIEGFRIED
+Bruder.
+
+Gunther schluckt.
+Er hat bekommen, was er wollte.
+Und merkt sofort: es fühlt sich leer an.
+
+HAGEN
+Schwört.
+
+Siegfried zieht sein Messer.
+Gunther auch.
+Sie schneiden.
+Blut tropft in eine Schale.
+Altmodisch. Effektiv.
+Der Palast liebt Rituale, wenn sie Macht bedeuten.
+
+SIEGFRIED
+Was willst du, Bruder.
+
+GUNTHER
+Brünnhilde.
+
+Ein kurzes Zucken in Siegfrieds Gesicht.
+Nicht Erinnerung.
+Nur ein Schatten, den der Trank nicht komplett löschen kann.
+Dann ist es weg.
+
+SIEGFRIED
+Wer.
+
+HAGEN
+Die im Feuer.
+
+SIEGFRIED
+Ah.
+Klingt spannend.
+Hol ich.
+
+Gunther blinzelt.
+Das war’s?
+So einfach?
+
+Hagen nickt kaum merklich.
+Ein Plan, der klickt.
+
+=LOGE (V.O.)=
+Man kann einem Mann alles nehmen.
+Geld, Name, Heimat.
+Das Schlimmste, was du ihm nehmen kannst, ist Erinnerung.
+Denn ohne Erinnerung wird Liebe zu einem Möbelstück:
+du stellst sie um, bis sie in den Raum passt.
+
+---
+
+* AKT 2 — Brünnhildes Sturz & der öffentliche Bruch
+** SZENE 4.4 — EXT. BRÜNNHILDES FELS — NACHT (TARNHELM, GEWALT, RING)
+
+Der Feuerkreis brennt.
+Wie immer.
+Aber Feuer ist nur Grenze für Menschen, die Angst kennen.
+
+Siegfried setzt den Tarnhelm auf.
+Sein Körper flimmert, verändert Kontur.
+Er wird zu Gunthers Silhouette, zu Gunthers Gewicht, zu Gunthers Stimme.
+Die Technik lügt perfekt.
+
+Brünnhilde tritt heraus.
+Sie erwartet keinen Feind.
+Sie erwartet vielleicht einen Sturm.
+Oder Sehnsucht.
+Oder Siegfried.
+Nicht dies.
+
+“Gunther” steht vor ihr.
+
+BRÜNNHILDE
+(überrascht)
+Wer bist du.
+
+SIEGFRIED (als Gunther)
+Gunther.
+
+Brünnhilde lacht einmal, kurz, scharf.
+
+BRÜNNHILDE
+Du bist nicht der, der durchs Feuer geht.
+
+SIEGFRIED (als Gunther)
+Heute bin ich’s.
+
+Er tritt vor.
+Brünnhilde zieht sich nicht zurück.
+Sie ist Walküre. Selbst im Exil.
+
+BRÜNNHILDE
+Das ist Betrug.
+
+SIEGFRIED (als Gunther)
+Das ist… Werbung.
+Und du bist das Produkt.
+
+Er greift nach ihr.
+Es ist kein erotischer Zugriff, kein “romantischer Raub”.
+Es ist Macht, die sich nimmt, was sie bestellt hat.
+
+Brünnhilde kämpft.
+Hart.
+Sie schlägt ihn zurück, einmal, zweimal.
+Aber Siegfried ist stärker, und seine Stärke ist blind.
+
+Er ringt sie nieder.
+Nicht langsam.
+Nicht genießend.
+Effizient, wie ein Mann, der denkt, er erledige eine Aufgabe.
+
+Brünnhilde spürt plötzlich etwas Kaltes: eine Hand an ihrem Finger.
+Der Ring.
+
+Sie versucht, ihn zu schützen.
+Nicht, weil sie ihn “will”.
+Sondern weil sie weiß, was er ist.
+
+Siegfried reißt ihn ab.
+Ein kurzes Aufleuchten.
+Als würde der Fluch sich freuen, wieder die Bühne zu wechseln.
+
+Brünnhilde liegt da, atmet schwer.
+Sie ist nicht “besiegt”.
+Sie ist entehrt.
+Und Entehrung ist eine Wunde, die sich nicht verbindet.
+
+Siegfried steht auf.
+Der Tarnhelm flimmert.
+Ein Moment: fast sieht man Siegfried durch die Lüge.
+Dann ist er weg, in der Nacht, zurück zur Bühne.
+
+=LOGE (V.O.)=
+Es gibt Gewalt, die ist persönlich.
+Und es gibt Gewalt, die ist administrativ.
+Diese hier war administrativ.
+Und deshalb ist sie so tödlich.
+Weil niemand sich dafür verantwortlich fühlt.
+
+** SZENE 4.5 — INT. GIBICHUNGEN-HALLE — TAG (HOCHZEIT, ANKLAGE, EID)
+
+Die Halle ist voller Menschen, voller Glanz, voller Lärm.
+Funk und Streicher, gemixt wie eine Welt, die nicht weiß, was sie sein will.
+GUTRUNE steht neben Siegfried.
+Sie strahlt.
+Nicht weil sie böse ist.
+Weil sie glaubt.
+
+Gunther führt Brünnhilde herein.
+
+Brünnhilde geht nicht wie eine Braut.
+Sie geht wie eine Gefangene, die beschlossen hat, nicht zu weinen.
+Ihre Augen sind trocken.
+Das ist schlimmer als Tränen.
+
+Sie sieht Siegfried.
+Und für einen Moment glaubt sie, sie sei wahnsinnig.
+Denn da steht er — nicht als Gunther.
+Als er selbst.
+Mit dem Ring an der Hand.
+
+Die Welt kippt.
+
+BRÜNNHILDE
+(laut)
+Dieser Mann.
+
+Stille fällt, schwer, plötzlich.
+Alle drehen sich.
+Skandal ist das einzige, was den Palast wirklich belebt.
+
+BRÜNNHILDE
+Dieser Mann war meiner.
+Er schwor.
+Er gab mir den Ring.
+Und jetzt… trägt er ihn wie Beute.
+
+SIEGFRIED schaut sie an.
+Leere.
+
+SIEGFRIED
+Ich kenne dich nicht.
+
+Ein Satz wie ein Messer ohne Blut.
+Brünnhilde wankt, fängt sich.
+
+BRÜNNHILDE
+Du lügst.
+
+SIEGFRIED
+(ruhig)
+Ich lüge nicht.
+Ich… erinnere mich nicht.
+
+Gunther wird blass.
+Gutrune wird blass.
+Hagen bleibt ruhig.
+Das ist sein Moment.
+
+HAGEN
+(laut, formal)
+Dann schwört.
+Vor der Halle.
+Vor der Wahrheit.
+
+Er tritt vor, stößt seinen Speer in den Boden.
+Nicht Wotans Speer — aber ein Speer, der Speer spielen kann.
+Ein Eid-Pfahl. Ein Ritual-Anker.
+
+HAGEN
+Siegfried.
+Lege die Hand auf den Speer.
+Schwöre, dass du Brünnhilde nie genommen hast.
+
+Siegfried legt die Hand auf den Speer.
+Ohne Zögern.
+
+SIEGFRIED
+Ich schwöre.
+Ich nahm sie nicht als ich.
+Ich nahm sie nicht.
+Ich kenne sie nicht.
+
+Die Formulierung ist technisch.
+Zu technisch.
+Hagen lächelt innerlich.
+
+Brünnhilde tritt vor.
+Sie legt ihre Hand ebenfalls auf den Speer.
+Ihre Stimme ist klar, und das macht alle nervös.
+
+BRÜNNHILDE
+Ich schwöre, dass dieser Mann mich nahm.
+Mit Lüge.
+Mit Gestalt.
+Mit Gewalt.
+Und dass dieser Ring das Zeugnis ist.
+
+Ein Murmeln.
+Die Halle atmet Skandal wie Sauerstoff.
+
+Hagen sieht Gunther an.
+Gunther sieht in den Boden.
+Gutrune sieht Siegfried an, als würde ihr Herz die Realität nicht akzeptieren.
+
+HAGEN
+(zu Gunther, leise genug für Gift)
+Du willst Größe.
+Hier ist sie.
+Aber Größe kostet.
+
+Gunther nickt schwach.
+Er ist bereit, alles zu zahlen, außer Verantwortung.
+
+---
+
+* AKT 2b — Mordplan
+** SZENE 4.6 — INT. SEITENKAMMER — NACHT (HAGEN, GUNTHER, BRÜNNHILDE)
+
+Eine Seitenkammer.
+Weniger Licht.
+Mehr Wahrheit.
+
+Hagen, Gunther, Brünnhilde.
+Drei Arten von Verrat.
+
+GUNTHER
+(gebrochen)
+Er hat mich entehrt.
+
+HAGEN
+Er hat dich benutzt.
+
+BRÜNNHILDE
+(ruhig, kalt)
+Er hat mich zerstört.
+
+HAGEN
+Dann zerstören wir ihn.
+
+Gunther zögert.
+Ein Rest von “Moral” flackert, aber Moral ist hier nur Angst vor Konsequenzen.
+
+GUNTHER
+Er ist mein Bruder.
+
+HAGEN
+Bruder ist Blut.
+Er gab dir Blut?
+Oder nahm er es dir?
+
+Gunther schweigt.
+
+Hagen dreht sich zu Brünnhilde.
+
+HAGEN
+Du kennst ihn.
+Gibt es eine Stelle, an der er verwundbar ist?
+
+Brünnhilde erstarrt.
+Sie weiß, was diese Frage bedeutet.
+Sie weiß, dass ihr Antwort ein Tod ist.
+
+BRÜNNHILDE
+Warum.
+
+HAGEN
+Weil Wahrheit hier nur mit Leichen zählt.
+
+Brünnhilde schließt die Augen.
+Sie sieht Siegmund.
+Sie sieht Wotans Speer.
+Sie sieht Siegfried, wie er lacht, ohne Angst.
+Und sie sieht den Ring an seiner Hand.
+
+BRÜNNHILDE
+Ich segnete ihn.
+Damals.
+Als Schutz.
+Dass keine Klinge ihn trifft…
+außer dort, wo er nie Gefahr erwartete.
+
+HAGEN
+Wo.
+
+BRÜNNHILDE
+Am Rücken.
+
+Hagen nickt.
+Wie ein Techniker, der die letzte Variable bekommen hat.
+
+HAGEN
+Dann wird es schnell.
+
+Brünnhilde öffnet die Augen.
+Sie sind trocken.
+Sie hat gerade etwas getan, das sie nie verzeihen kann.
+Und sie hat es getan, weil die Welt sie in diese Ecke geschoben hat.
+Das macht es tragisch, nicht billig.
+
+=LOGE (V.O.)=
+Rache ist eine Religion für Leute, die zu viel verloren haben.
+Brünnhilde verlor nicht nur Liebe.
+Sie verlor Sinn.
+Und wenn Sinn weg ist, fühlt sich Mord manchmal an wie Ordnung.
+
+---
+
+* AKT 3 — Jagd, Rhein, Tod
+** SZENE 4.7 — EXT. RHEIN-AUEN / INDUSTRIEWALD — TAG (JAGD)
+
+Jagd ist hier kein Sport.
+Jagd ist PR.
+
+Gunther, Hagen, Männer, Kameras.
+Siegfried geht mit, weil Bewegung sein Default ist.
+Er trägt den Ring wie ein Accessoire.
+Er pfeift wieder.
+
+Sie halten am Rhein.
+Der Rhein sieht friedlich aus, wenn man die Rohre ignoriert.
+Heute ignoriert keiner die Rohre.
+Heute sind sie Kulisse.
+
+Aus dem Wasser steigen Stimmen.
+Die Rheinmädchen.
+Nicht als süße Wesen.
+Als Mahnerinnen, nass, lächelnd, gefährlich.
+
+WELLGUNDE
+Siegfried.
+
+SIEGFRIED dreht sich, überrascht, amüsiert.
+
+SIEGFRIED
+Ihr seid echt.
+
+WOGLE
+Echt genug, um dich zu warnen.
+
+FLOSSHILDE
+Gib den Ring zurück.
+
+Siegfried lacht.
+
+SIEGFRIED
+Warum.
+
+WELLGUNDE
+Weil er dich umbringt.
+
+SIEGFRIED
+Alles bringt mich irgendwann um.
+
+WOGLE
+Nicht alles macht deine Freunde zu Mördern.
+
+Siegfried zögert.
+Ein winziger Schatten.
+Nicht Angst — Irritation.
+
+FLOSSHILDE
+Wenn du ihn behältst, wird er dich besitzen.
+Und wenn er dich besitzt, besitzt du nichts mehr.
+Nicht mal dich.
+
+SIEGFRIED
+(leicht genervt)
+Ihr klingt wie alte Leute.
+
+WELLGUNDE
+Wir sind alt genug, um Muster zu erkennen.
+Du bist jung genug, um dich für Ausnahme zu halten.
+
+Siegfried hebt die Hand, zeigt den Ring.
+
+SIEGFRIED
+Ich hab ihn.
+Also gehört er mir.
+
+Die Rheinmädchen tauschen einen Blick.
+Dann tauchen sie ab, als würde die Natur sagen: “Dann lern.”
+
+Hagen beobachtet alles.
+Er lächelt nicht.
+Er speichert.
+
+** SZENE 4.8 — EXT. JAGDLAGER — SPÄTER (TRANK, ERINNERUNG)
+
+Sie setzen sich.
+Becher, Fleisch, Lachen.
+Das Lachen ist zu laut.
+Wie immer, wenn Schuld in der Nähe ist.
+
+Hagen reicht Siegfried einen Becher.
+Nicht den Vergessens-Trank — einen Gegenimpuls.
+Etwas, das die Sperre löst.
+Denn Hagen will, dass Siegfried “versteht”, bevor er stirbt.
+Rache braucht Bewusstsein, sonst fühlt sie sich unvollständig an.
+
+HAGEN
+Trink.
+Auf Geschichten.
+Erzähl uns deine.
+
+Siegfried trinkt.
+Und dann… flackert es.
+Wie ein Licht, das wieder Strom bekommt.
+
+Sein Blick wird fern.
+
+SIEGFRIED
+Ich… war in einer Werkstatt.
+Mime.
+Ein Drache.
+Blut.
+Ein Vogel, der sprach.
+Ein Feuerkreis.
+
+Gunther schluckt.
+Hagen bleibt ruhig.
+
+SIEGFRIED
+Und da war… sie.
+Brünnhilde.
+
+Das Wort fällt anders.
+Schwerer.
+Echter.
+
+SIEGFRIED
+Ich hab sie geweckt.
+Ich hab sie geküsst.
+Ich…
+
+Er hält sich an den Kopf.
+Er erinnert sich.
+Und mit Erinnerung kommt etwas, das er nie kannte:
+Reue.
+Fast Angst.
+Fast.
+
+SIEGFRIED
+Was hab ich getan.
+
+HAGEN
+(weich wie Gift)
+Du hast gelebt.
+
+SIEGFRIED schaut Hagen an.
+Zum ersten Mal sieht er etwas im Schattenmann.
+Etwas Kaltes.
+
+SIEGFRIED
+Du bist… falsch.
+
+HAGEN steht auf.
+Zu ruhig.
+
+HAGEN
+Ich bin korrekt.
+
+Siegfried dreht sich, lacht kurz, als wolle er die Spannung abschütteln.
+Er dreht den Rücken.
+
+Der Fehler.
+Der einzige.
+
+Hagen hebt den Speer.
+Kein großes Ausholen.
+Ein präziser Stoß.
+
+Der Speer trifft Siegfrieds Rücken.
+
+Siegfried erstarrt.
+Als hätte die Welt kurz pausiert.
+
+SIEGFRIED
+(Flüstern)
+Ah.
+
+Er dreht sich langsam um.
+Sein Blick findet Hagen.
+Dann Gunther.
+Dann die Männer.
+Dann den Rhein.
+
+SIEGFRIED
+(ruhig, überrascht)
+Das… ist Angst.
+So fühlt sich das an.
+
+Er sinkt.
+Nicht theatralisch.
+Wie ein großes Tier, das plötzlich versteht, dass es sterblich ist.
+
+SIEGFRIED
+(zu sich)
+Brünnhilde…
+
+Er stirbt.
+
+Stille.
+Dann: ein Windstoß.
+Als hätte der Rhein kurz ausgeatmet.
+
+Gunther steht da, weiß wie Glas.
+Hagen zieht den Speer heraus, als wäre es ein Werkzeug, das man nach Gebrauch reinigt.
+
+HAGEN
+Jetzt… der Ring.
+
+Gunther starrt auf Siegfrieds Hand.
+Das Goldlicht scheint plötzlich schmutzig.
+
+=LOGE (V.O.)=
+Siegfried starb, wie er lebte:
+zu schnell, zu ehrlich, zu unvorbereitet.
+Ein Junge ohne Angst versteht Angst erst,
+wenn sie ihn von innen ausmacht.
+Das ist keine Moral.
+Das ist Mechanik.
+Overfitting. Ohne Angst folgt die Optimierung dem Moment. Und der Moment frisst ihn auf.
+
+** SZENE 4.9 — EXT. TRAUERZUG / ZURÜCK ZUM PALAST — ABEND (LEICHENMARSCH)
+
+Sie tragen ihn.
+Nicht weil sie ihn ehren.
+Weil ein toter Held noch PR ist.
+
+Lichter der Stadt spiegeln sich in nassem Asphalt.
+Funk-Beat wird langsam, tiefer, schwerer, als würde die Musik selbst trauern müssen.
+Menschen schauen, filmen, posten.
+Der Tod ist Content.
+
+Der Körper liegt auf einer Plattform.
+Siegfrieds Gesicht ist ruhig.
+Fast beleidigend ruhig.
+
+Hagen geht nebenher.
+Sein Schatten ist länger als die Straßenlaternen.
+
+---
+
+* AKT 3b — Ringstreit, Brünnhildes Urteil, Weltenbrand
+** SZENE 4.10 — INT. GIBICHUNGEN-HALLE — NACHT (RINGSTREIT, GUNTHERS TOD)
+
+Zurück im Palast ist alles wieder hell.
+Zu hell.
+Als wolle man Blut wegbeleuchten.
+
+Gutrune stürzt auf Siegfried zu.
+Sie sieht den Körper, und ihre Welt bricht.
+
+GUTRUNE
+Was ist passiert.
+
+Gunther kann nicht reden.
+Hagen redet.
+
+HAGEN
+Ein Unfall.
+Bei der Jagd.
+Ein Eber—
+(zu glatt)
+—ein Speer—
+(zu wahr)
+—Schicksal.
+
+Gutrune schreit.
+Ein echter Ton im Plastikpalast.
+
+Hagen beugt sich zu Siegfrieds Hand.
+
+HAGEN
+Der Ring.
+
+Gunther tritt vor.
+Endlich.
+Ein Rest Würde, spät, aber da.
+
+GUNTHER
+Nein.
+Er war mein Bruder.
+Und ich bin König.
+Ich nehme ihn.
+
+Hagen schaut ihn an.
+Mitleidlos.
+
+HAGEN
+Du bist kein König.
+Du bist ein Mann, der sich als König verkleidet.
+
+Gunther zieht sein Schwert.
+Hagen zieht nicht.
+Er braucht kein Duell.
+Er braucht nur einen Moment.
+
+Er stößt.
+Gunther fällt.
+
+Zweimal derselbe Mechanismus:
+Gier, dann Mord.
+Fluch als Routine.
+
+Hagen greift nach dem Ring.
+Siegfrieds Hand “wehrt” sich kurz — nicht magisch, eher wie ein Nervenzucken.
+Hagen zuckt zurück.
+Er ist nicht abergläubisch, aber er respektiert Phänomene.
+
+** SZENE 4.11 — INT. GIBICHUNGEN-HALLE — MOMENTE SPÄTER (BRÜNNHILDE KOMMT)
+
+Die Türen öffnen sich.
+Brünnhilde tritt ein.
+
+Sie trägt keine Ketten.
+Sie trägt Klarheit.
+Alle verstummen, weil Klarheit selten ist und immer gefährlich.
+
+Brünnhilde schaut auf Siegfried.
+Dann auf Gunther.
+Dann auf Hagen.
+Dann auf Gutrune.
+
+BRÜNNHILDE
+Jetzt versteht ihr.
+
+Gutrune schluchzt.
+
+GUTRUNE
+Er… liebte mich.
+
+Brünnhilde schaut sie an.
+Nicht hart, nicht weich.
+Wahr.
+
+BRÜNNHILDE
+Er erinnerte sich nicht.
+Das ist nicht Liebe.
+Das ist Raub.
+
+Gutrune bricht zusammen.
+Hagen bleibt stehen wie ein Pfahl.
+
+HAGEN
+(ruhig)
+Der Ring gehört mir.
+
+Brünnhilde lächelt.
+Ein kurzes, bitteres Lächeln.
+
+BRÜNNHILDE
+Der Ring gehört niemandem.
+
+Hagen hebt den Speer.
+
+HAGEN
+Dann nimm ihn.
+Wenn du kannst.
+
+Brünnhilde geht zu Siegfried.
+Sie nimmt den Ring von seiner Hand.
+Diesmal nicht als Diebstahl.
+Als Rücknahme.
+
+Der Ring glimmt.
+Als würde er kurz hoffen, sie zu korrumpieren.
+Brünnhilde bleibt unbewegt.
+
+BRÜNNHILDE
+Hört zu.
+Ihr wollt Geschichten?
+Hier ist die letzte.
+
+Sie wendet sich an die Halle.
+Ihre Stimme wird größer, ohne zu schreien.
+
+BRÜNNHILDE
+WOTAN baute Valhalla auf Verträgen.
+Alberich baute Macht auf Verzicht.
+Beide bauten auf demselben Material:
+Menschen, die man benutzt.
+
+Sie schaut auf Hagen.
+
+BRÜNNHILDE
+Du bist das Kind dieser Logik.
+Du bist der perfekte Mitarbeiter des Fluchs.
+
+HAGEN
+Ich bin die Korrektur.
+
+BRÜNNHILDE
+Du bist nur das nächste Messer.
+
+Sie dreht sich wieder zu Siegfried.
+
+BRÜNNHILDE
+Du warst frei.
+Und du warst dumm.
+Und du warst schön.
+Das ist eine gefährliche Mischung.
+Ich verzeihe nicht.
+Ich deprovisioniere.
+
+** SZENE 4.12 — EXT. RHEINUFER / SCHEITERHAUFEN — NACHT (BRAND, RÜCKGABE, ENDE)
+
+Sie bringen den Körper zum Rhein.
+Nicht alle.
+Nur die, die noch atmen können, wenn Wahrheit in der Luft ist.
+
+Brünnhilde baut den Scheiterhaufen.
+Nicht aus Holzromantik.
+Aus dem, was die Welt hat: Paletten, Metall, alte Banner, Propaganda.
+Sie macht daraus ein Feuer, das Sinn hat.
+
+Grane steht bereit.
+Das Reitgerät wirkt plötzlich wie ein echtes Tier, weil Brünnhildes Entschlossenheit es
+mythologisch macht.
+
+Hagen folgt.
+Er will den Ring.
+Er will ihn wie ein Junkie seinen Stoff.
+
+HAGEN
+Gib ihn.
+
+Brünnhilde sieht ihn nicht mal richtig an.
+
+BRÜNNHILDE
+Du bekommst nichts.
+Nicht mal Genugtuung.
+
+Sie hebt den Ring.
+Das Goldlicht spiegelt sich im Rhein.
+Das Wasser scheint kurz zu lächeln, als hätte es auf diesen Moment gewartet.
+
+Die Rheinmädchen steigen auf.
+Ihre Gesichter sind ernst.
+Nicht triumphierend.
+Eher: erleichtert.
+
+WOGLE
+Gib ihn.
+
+Brünnhilde nickt.
+
+BRÜNNHILDE
+Ich gebe ihn zurück.
+Und mit ihm… den Irrtum, dass Besitz Liebe ist.
+
+Sie steckt den Ring nicht ins Wasser.
+Noch nicht.
+
+Sie steigt auf Grane.
+Sie wendet sich ein letztes Mal zur Welt.
+
+BRÜNNHILDE
+Valhalla.
+Sieh zu.
+
+Dann reitet sie in das Feuer.
+
+Der Brand ist kein “Effekt”.
+Er ist eine Entscheidung, die die Physik akzeptiert.
+
+Flammen fressen den Scheiterhaufen.
+Sie fressen die Nacht.
+Sie fressen die Bühne.
+
+Und irgendwo oben, weit über den Rohren, über den Palästen, über der Orbital-Arcology,
+beginnt Valhalla zu brennen.
+Nicht, weil Brünnhilde es “zaubert”.
+Weil das System ohne Speer, ohne Strang, ohne Wahrheit nicht mehr halten kann.
+Die Ordnung war immer nur so stabil wie das Verdrängen.
+
+Der Rhein schwillt an.
+Nicht wie Naturkatastrophe.
+Wie Rücknahme.
+Wasser kommt dahin, wo es nie hin durfte.
+
+Die Rheinmädchen greifen nach dem Ring.
+Brünnhildes Hand löst ihn im letzten Moment aus dem Fluchgriff und gibt ihn frei.
+
+Der Ring sinkt.
+Zurück in den Rhein.
+Zurück ins Nicht-Besitzbare.
+
+Hagen stürzt nach vorn.
+
+HAGEN
+Nein!
+
+Er springt ins Wasser.
+Er kämpft.
+Er greift.
+Aber Wasser ist kein Vertrag.
+Wasser verhandelt nicht.
+
+Die Rheinmädchen ziehen ihn hinab.
+Nicht aus Sadismus.
+Aus Mechanik.
+
+Hagen verschwindet.
+Wie ein Fehler, der endlich gelöscht wird.
+
+Feuer oben.
+Wasser unten.
+Und dazwischen: eine Welt, die kurz nicht weiß, wer sie ohne Verträge ist.
+
+=LOGE (V.O.)=
+Sie nannten es Götterdämmerung.
+Als wäre es nur ein Sonnenuntergang für Mächtige.
+Aber es war eher:
+ein Reset.
+Ein System, das endlich zugibt, dass es kaputt ist.
+Brünnhilde gab den Ring zurück.
+Nicht aus Moral.
+Aus Klarheit.
+Und Klarheit… ist die härteste Klinge von allen.
+
+* ENDE EPISODE 4
+- Hook (Nachklang): Ohne Speer-Code ist die Welt offen. Menschen müssen Bedeutung selbst
+  bauen, ohne göttliche Infrastruktur.
+- Letztes Bild: Rheinwasser überflutet Neon, spiegelt Feuer, und trägt den Ring in die
+  Tiefe — nicht als Sieg, sondern als Rückgabe.

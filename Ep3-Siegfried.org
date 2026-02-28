@@ -1,0 +1,1090 @@
+#+title: DER RING: NEON-VALHALLA
+#+subtitle: Episode 3 — SIEGFRIED (Vollausarbeitung)
+
+* EPISODE 3 — SIEGFRIED
+*Tagline:* Ein Junge ohne Angst ist eine Waffe ohne Sicherung.
+
+*Besetzung (Episode 3)*
+- =LOGE= — Voice-Over; Fixer/Chronist des Machtmülls; beobachtet, kommentiert, zündet.
+- =SIEGFRIED= — Kind der Grenzüberschreitung; stark, naiv, ungebunden; kennt keine Angst.
+- =MIME= — Nibel-Schmied/Hacker; Ziehvater mit Gift im Herzen; will den Ring über Umwege.
+- =WOTAN (DER WANDERER)= — inkognito; ein Gott im Exil seiner eigenen Verträge; sucht
+  Einfluss, ohne Verantwortung.
+- =ALBERICH= — Schattenvater, wachsam; will den Ring; nährt sich von Rache.
+- =FAFNER= — Hortender Drache; Exo-Panzer/AI-Wächter; Ring und Tarnhelm.
+- =WALDVOGEL= — in dieser Welt: bio-digitaler Schwarm/Signal; “Vogelstimme” als
+  Übersetzung des Drachenbluts.
+- =BRÜNNHILDE= — Schlafende im Feuer; Mythos als Gewissen in Quarantäne.
+- (Rand) =ERDA= — Wissen; tritt kurz auf, wenn das System knackt.
+
+*Leitmotive (Episode 3, dramaturgisch hörbar)*
+- =ANGST= : Abwesenheit als Gefahr; keine Bremse, kein Respekt vor Grenzen.
+- =SCHMIEDEN= : Selbsterschaffung; Identität als Arbeit, nicht als Vertrag.
+- =DRACHENBLUT= : Erkenntnis durch Kontamination; Sprache der Natur/Signale.
+- =SPEERBRUCH= : Ende der Vertragsordnung; Code-Base wird zerstört.
+- =ERWECKUNG= : Bewusstsein; Liebe als Entscheidung, nicht als Eigentum.
+
+---
+
+* AKT 1 — Mimes Werkstatt
+** SZENE 3.1 — INT. MIME-WERKSTATT / SCHROTTKATHEDRALE — TAG
+
+Die Werkstatt liegt da, wo die Stadt aufhört, sich zu schämen.
+Am Rand der Kanäle, hinter einer Reihe abgestorbener Werbetafeln, unter einer Brücke,
+die nie fertig gebaut wurde.
+Alles ist Rost. Alles ist Geräusch.
+Ein Ort, an dem man Dinge repariert, die die Welt wegwerfen will.
+
+=MIME= lebt hier wie ein Parasit in einer Maschine: klein, nervös, immer mit den Händen
+beschäftigt.
+Er schmiedet nicht aus Kunst. Er schmiedet aus Not.
+Metallstücke, Kabel, alte Waffen, kaputte Drohnen — er macht daraus Werkzeuge für Leute,
+die keine Wahl haben.
+
+Und dann ist da =SIEGFRIED=.
+
+Er ist zu groß für den Raum.
+Zu laut für die Stille zwischen den Hammerschlägen.
+Zu lebendig für einen Ort, der vom Überleben lebt.
+
+Siegfried wirft ein Stück Schrott durch die Luft, fängt es, lacht.
+Er lacht nicht, weil es lustig ist.
+Er lacht, weil sein Körper voll Energie ist und niemand ihm beigebracht hat, dass
+Energie gefährlich sein kann.
+
+MIME
+(zischend)
+Nicht in der Werkstatt!
+Willst du alles kaputt machen?
+
+SIEGFRIED
+(grinsend)
+Ist doch schon kaputt.
+
+MIME schnaubt.
+Das ist die Wahrheit, die ihn am meisten beleidigt: dass ein Kind die Welt so klar sehen
+kann.
+
+MIME
+Komm her. Halt still.
+
+Siegfried kommt näher, nicht gehorsam, sondern neugierig.
+Mime zieht ihm eine Blutspur vom Unterarm, prüft eine Schramme wie ein Buchhalter eine
+Zahl.
+
+MIME
+Du bist wieder in der Stadt gewesen.
+
+SIEGFRIED
+Da draußen ist’s spannend.
+
+MIME
+Da draußen ist’s tödlich.
+
+SIEGFRIED
+Dann sollen sie’s halt versuchen.
+
+MIME sieht ihn an, als hätte er ein Tier großgezogen, das er nicht mehr kontrollieren
+kann.
+In gewisser Weise stimmt das.
+
+MIME
+Du brauchst Angst.
+
+SIEGFRIED
+Wozu.
+
+MIME
+Damit du nicht dumm stirbst.
+
+SIEGFRIED
+Sterben ist nur… aufhören.
+
+MIME schlägt mit dem Hammer auf den Amboss, zu hart, zu wütend.
+Siegfried zuckt nicht mal.
+
+MIME
+(übertrieben ruhig)
+Du hast einen Auftrag.
+
+SIEGFRIED
+Ich hab Hunger.
+
+MIME
+Den auch. Aber zuerst: ein Schwert.
+
+Er zeigt auf einen Haufen Metall.
+Schwertfragmente. Nothung-Splitter. Sie liegen da wie eine zerbrochene Geschichte.
+
+SIEGFRIED
+Das Ding? Ist kaputt.
+
+MIME
+(zu schnell)
+Du machst es ganz.
+
+SIEGFRIED
+Warum machst du’s nicht.
+
+MIME
+Ich… (schluckt) …ich kann’s nicht.
+Das Metall ist… eigen.
+Es nimmt keine fremde Hand.
+
+Siegfried beugt sich hin, nimmt einen Splitter.
+Er hält ihn ans Licht.
+In der Klinge sitzt noch ein Rest von Wotans “Weltcode”.
+Nicht sichtbar für normale Augen.
+Aber Siegfrieds Blick hängt dran, als würde er eine Herausforderung riechen.
+
+SIEGFRIED
+Ich mach’s.
+
+MIME
+(lächelt dünn)
+Natürlich machst du’s.
+
+=LOGE (V.O.)=
+MIME war ein Mann, der sich zu klein gemacht hatte, bis er glaubte, klein sei seine
+Natur.
+Und dann wuchs ihm ein Junge in der Werkstatt hoch,
+der zu groß war, um Angst zu kennen.
+MIME nannte das “Schicksal”.
+Ich nannte es: eine billige Versicherung mit hoher Selbstbeteiligung.
+
+** SZENE 3.2 — INT. WERKSTATT — SPÄTER (SIEGFRIEDS FRAGEN)
+
+Siegfried sitzt am Tisch, starrt Mime an, als hätte er gerade bemerkt, dass es in seinem
+Leben Lücken gibt.
+
+SIEGFRIED
+Wer war meine Mutter.
+
+MIME erstarrt einen halben Atemzug zu lang.
+Das reicht.
+
+MIME
+Tot.
+
+SIEGFRIED
+Wie.
+
+MIME
+(aggressiv)
+Wie alle.
+Die Welt nimmt.
+
+SIEGFRIED
+Und mein Vater.
+
+MIME
+(zu schnell)
+Weg.
+
+SIEGFRIED
+Weg wohin.
+
+MIME
+Weg.
+
+Siegfried steht auf.
+Zu schnell.
+Der Tisch wackelt.
+
+SIEGFRIED
+Du lügst.
+
+MIME
+Ich erziehe.
+
+SIEGFRIED
+Du versteckst.
+
+MIME
+Du brauchst keine Wahrheit.
+Du brauchst Werkzeuge.
+
+SIEGFRIED
+(ruhig)
+Ich brauch beides.
+
+Mime sieht, dass er die Kontrolle verliert.
+Also geht er zum einzigen Hebel, den er kennt: Manipulation.
+
+MIME
+Gut.
+Dein Vater war ein Held.
+Ein Wälsung.
+Er starb.
+Weil das Gesetz ihn wollte.
+
+SIEGFRIED
+Gesetz.
+
+MIME
+Ja.
+Da oben.
+Bei denen, die sauber sind.
+
+SIEGFRIED
+(zeigt nach oben)
+Valhalla.
+
+MIME
+Genau.
+Und unten… gibt’s was, das sie hassen.
+Ein Ring.
+Eine Macht.
+Wenn du ihn holst… bist du frei.
+Reicher als alle.
+Stärker als das Gesetz.
+
+Siegfried schaut ihn an.
+Nicht gierig.
+Neugierig.
+
+SIEGFRIED
+Wo ist er.
+
+MIME
+Bei Fafner.
+Ein Drache.
+
+SIEGFRIED
+(lacht)
+Drachen gibt’s nicht.
+
+MIME
+(zu hastig)
+Doch. In dieser Welt gibt’s alles, wenn du’s nur schlimm genug baust.
+
+---
+
+* AKT 2 — Der Wanderer & die Rätsel
+** SZENE 3.3 — EXT./INT. WERKSTATT — TAG (WOTAN KOMMT)
+
+Der Wind ändert sich.
+Nicht meteorologisch.
+Politisch.
+
+Ein Mann tritt in Mimes Reich wie ein Gerücht, das Beine bekommen hat.
+Mantel, breitkrempiger Hut, ein Auge abgedeckt wie ein altes Versprechen.
+Ein Wanderstab, der nicht Speer sein will, aber Speer war.
+
+=WOTAN=, inkognito als =DER WANDERER=.
+
+MIME friert.
+Nicht vor Angst. Vor Erinnerung.
+
+MIME
+Wer bist du.
+
+WANDERER
+Ein, der fragt.
+
+MIME
+Hier fragt keiner umsonst.
+
+WANDERER
+Dann antworte, damit ich dir was gebe.
+
+MIME knurrt.
+Er erkennt Machtinstinkt, auch ohne Krone.
+
+WANDERER
+Wir spielen Rätsel.
+
+MIME
+Was krieg ich.
+
+WANDERER
+Dein Leben. Vielleicht.
+Und Wissen. Sicher.
+
+MIME kann nicht widerstehen.
+Er hält sich für schlau, und Schlauheit ist seine Religion.
+
+WANDERER
+Erstes Rätsel:
+Nenne mir die, die im Wasser wachen.
+Und was sie verloren.
+
+MIME
+(sofort)
+Rheinmädchen.
+Sie verloren das Gold.
+
+WANDERER
+Zweites:
+Nenne den, der das Gold nahm und was er dafür zahlte.
+
+MIME
+Alberich.
+Er zahlte… Liebe.
+Er entsagte ihr.
+
+Der Wanderer nickt.
+Sein einziges Auge wirkt müde, aber wach.
+
+WANDERER
+Drittes:
+Nenne, was den Göttern bleibt, wenn Verträge sie fressen.
+
+MIME zögert.
+Er fühlt, dass die Antwort nicht in seinem Mund liegen will.
+
+MIME
+Macht.
+
+WANDERER
+(fast freundlich)
+Falsch.
+Ihnen bleibt: Angst.
+Und die nennen sie “Ordnung”.
+
+MIME knirscht.
+
+MIME
+Deine Reihe.
+
+WANDERER
+Gut.
+
+MIME
+Wer wird den Ring gewinnen?
+
+WANDERER
+Der, der Fafner tötet.
+
+MIME
+Wer wird Fafner töten?
+
+WANDERER
+Der, der Nothung neu schmiedet.
+
+MIME
+Und wer schmiedet Nothung?
+
+WANDERER lächelt.
+Nicht nett.
+Wie jemand, der ein Urteil spricht, ohne “schuld” zu sagen.
+
+WANDERER
+Nicht du.
+
+MIME flackert vor Wut.
+
+MIME
+Wer dann?!
+
+WANDERER
+Der, der keine Angst kennt.
+
+Ein Schweigen.
+Siegfried, der im Hintergrund stand und zuhörte, grinst.
+
+SIEGFRIED
+Das bin ich.
+
+WANDERER betrachtet ihn.
+Lange.
+In diesem Blick liegt etwas, das nicht mal Wotans Ego wegpolieren kann:
+Respekt. Und Furcht.
+
+WANDERER
+(zu Siegfried)
+Junge… du bist ein Messer ohne Griff.
+
+SIEGFRIED
+Dann halt mich nicht fest.
+
+Der Wanderer dreht sich zum Gehen.
+Als er die Schwelle überschreitet, bleibt er stehen.
+
+WANDERER
+Mime.
+Du wolltest einen Helden.
+Du bekommst einen.
+Aber Helden sind schlecht im Gehorchen.
+
+Er geht.
+
+=LOGE (V.O.)=
+WOTAN kam als Wanderer, weil er als Gott nur noch Verträge tragen konnte.
+Er wollte Einfluss ohne Verantwortung.
+Das ist die Lieblingsfantasie der Mächtigen.
+Und sie endet meist in Feuer.
+
+---
+
+* AKT 3 — Nothung wird neu geschmiedet
+** SZENE 3.4 — INT. MIME-WERKSTATT — ABEND (SCHMIEDEN)
+
+MIME legt Holz nach.
+Nicht für Wärme, sondern für Drama.
+Er braucht, dass Siegfried sich “bestimmt” fühlt.
+Dass er glaubt, er schmiede sich selbst — während Mime die Richtung vorgibt.
+
+SIEGFRIED aber… braucht keinen Motivationsrede.
+Er braucht nur ein Problem.
+
+Er nimmt die Splitter.
+Ordnet sie.
+Nicht sorgfältig. Instinktiv.
+Als würden seine Hände erinnern, was sein Kopf nicht weiß.
+
+MIME
+Vorsicht! Das Metall—
+
+SIEGFRIED
+—nimmt keine fremde Hand?
+Dann ist gut, dass ich keine fremde Hand bin.
+
+Er wirft die Splitter in den Ofen.
+Hitze frisst Geschichte.
+Metall wird weich, wie Wahrheit weich wird, wenn man sie heiß genug macht.
+
+SIEGFRIED zieht das glühende Material heraus.
+Er hämmert.
+Jeder Schlag ist ein “Ja” gegen die Welt, die “Nein” gesagt hat.
+
+MIME starrt.
+Ein Teil von ihm ist ehrfürchtig.
+Der andere Teil ist neidisch bis ins Knochenmark.
+
+Der Stahl formt sich.
+Nicht perfekt.
+Aber echt.
+
+SIEGFRIED löscht die Klinge in Wasser.
+Der Dampf steigt auf wie ein Geist, der nicht weiß, ob er gehen darf.
+
+Als er Nothung hebt, ist der Raum plötzlich größer.
+Nicht wegen der Waffe.
+Wegen dem, was sie bedeutet: ein Werkzeug, das dem Vertrag widerspricht.
+
+SIEGFRIED
+(ruhig)
+So.
+
+MIME
+(zu freundlich)
+Wundervoll.
+Jetzt… jetzt gehst du zu Fafner.
+
+SIEGFRIED
+Ich geh überall hin.
+
+MIME
+Und wenn du den Ring hast—
+(verschluckt gierig)
+—dann… dann bringst du ihn mir.
+Damit ich… ihn sicher aufbewahre.
+
+SIEGFRIED lacht.
+Nicht spöttisch.
+Eher kindlich.
+
+SIEGFRIED
+Warum sollte ich dir was bringen.
+
+MIME
+Weil ich dich großgezogen habe.
+
+SIEGFRIED
+Du hast mich nicht großgezogen.
+Ich bin groß geworden.
+
+MIME zuckt.
+Seine Augen werden hart.
+Er wechselt Plan: nicht mehr “Vater”, sondern “Techniker”.
+
+MIME
+Dann… machen wir’s anders.
+Du willst doch wissen, wer du bist.
+Der Ring… der gibt dir Antworten.
+
+SIEGFRIED
+(zieht das Schwert)
+Dann hol ich ihn.
+Und Antworten hol ich mir auch.
+
+---
+
+* AKT 4 — Der Drache (Fafners Hort)
+** SZENE 3.5 — EXT. WALD / INDUSTRIERUINE — TAG
+
+Der Wald wird dichter.
+Nicht schön. Abwehrend.
+Bäume wachsen hier wie Zäune.
+Zwischen den Wurzeln: alte Rohre, verlassene Leitungen, Stücke einer Industrie, die sich
+selbst kannibalisiert hat.
+
+MIME führt Siegfried.
+Er redet viel, weil Stille ihm Angst macht.
+
+MIME
+Er ist groß.
+Er ist alt.
+Er—
+
+SIEGFRIED
+Du hast Angst.
+
+MIME
+Natürlich habe ich Angst!
+Das ist… normal!
+
+SIEGFRIED
+Klingt wie eine Krankheit.
+
+Sie erreichen eine Öffnung.
+Eine Höhle, aber aus Beton und Stahl.
+Ein Bunker, der zu lange gelebt hat.
+
+MIME
+Da drin.
+Fafner.
+
+SIEGFRIED
+(zieht Nothung)
+Bleib hier.
+
+MIME nickt zu schnell.
+
+MIME
+Natürlich.
+Ich… halte Wache.
+
+Er hält keine Wache.
+Er plant.
+
+** SZENE 3.6 — INT. FAFNERS REVIER — TAG (KAMPF)
+
+Drinnen ist es still, aber es ist eine technische Stille: gedämpfte Motoren, das Summen
+von Systemen, die nicht schlafen.
+Der Boden ist bedeckt mit Dingen, die mal “Wert” waren: Gold, Waffen, Datenkerne, alte Artefakte.
+Und dazwischen: ein Körper.
+
+=FAFNER= liegt wie ein Panzer, der beschlossen hat, zu atmen.
+Er ist nicht “ein Tier”.
+Er ist ein Mensch, der sich in Schutzschichten vergraben hat, bis er nur noch Hort ist.
+Exo-Frames. Sensoren. Schwere Gliedmaßen.
+Seine Stimme kommt aus Lautsprechern wie aus einem Grab.
+
+FAFNER
+Wer.
+
+SIEGFRIED tritt näher.
+Keine Vorsicht.
+Keine Ehrfurcht.
+
+SIEGFRIED
+Ich.
+
+FAFNER
+Geh.
+
+SIEGFRIED
+Nö.
+
+FAFNER bewegt sich.
+Langsam, aber unausweichlich.
+Wie Besitz, der verteidigt wird.
+
+Der Kampf ist brutal und roh.
+Fafners Schlag zertrümmert Beton.
+Siegfried springt dazwischen wie ein Junge, der nicht gelernt hat, dass man an solchen
+Stellen stirbt.
+
+Nothung trifft.
+Nicht einmal.
+Mehrfach.
+Siegfried findet die Nahtstellen, weil Unschuld manchmal ein gutes Auge für Schwächen
+hat.
+
+FAFNER brüllt.
+Nicht vor Schmerz.
+Vor Wut, dass jemand ihn nicht fürchtet.
+
+FAFNER
+Du weißt nicht, was du tust.
+
+SIEGFRIED
+Doch.
+Ich töte dich.
+
+Er stößt Nothung tief, in die zentrale Verbindung.
+Ein metallisches Stöhnen.
+Fafner sackt zusammen.
+
+In seinem letzten Moment wird seine Stimme weniger “Drache” und mehr “Mann”.
+
+FAFNER
+Der Ring…
+macht dich… klein.
+
+SIEGFRIED lehnt sich näher.
+
+SIEGFRIED
+Wie klein.
+
+FAFNER
+So klein… dass du glaubst, du wärst groß.
+
+Dann ist er still.
+
+SIEGFRIED steht da, atmet.
+Blut spritzt, warm, dunkel — Drachenblut und Menschblut, ununterscheidbar.
+Es trifft Siegfrieds Lippen.
+
+Er leckt es weg, unbewusst.
+Dann zuckt er.
+Als hätte jemand ein neues Frequenzband geöffnet.
+
+** SZENE 3.7 — EXT. WALD — MOMENTE SPÄTER (WALDVOGEL / STIMMEN)
+
+Die Welt klingt anders.
+Nicht poetisch. Konkret.
+Er hört Schichten.
+
+Er hört den Wind als Code.
+Er hört Insekten als Rhythmus.
+Er hört etwas Kleines oben im Geäst: einen Vogel.
+Oder: eine bio-digitalisierte Drohnenspinne, die singt.
+Oder: ein Signal, das sein Kopf “Vogel” nennt, weil er keine andere Kategorie hat.
+
+WALDVOGEL (STIMME)
+Nimm den Helm.
+Nimm den Ring.
+Und traue dem Zwerg nicht.
+
+SIEGFRIED schaut hoch, grinst.
+
+SIEGFRIED
+Du redest.
+
+WALDVOGEL
+Du hörst.
+
+Siegfried geht zurück in den Hort.
+Er nimmt den Tarnhelm.
+Er nimmt den Ring.
+Er nimmt es, als wären es Tools in einem Werkzeugkasten.
+
+=ALBERICH= steht im Schatten des Eingangs.
+Er ist älter geworden, aber seine Augen sind schärfer.
+Er sieht den Ring, und sein Gesicht wird zu Hunger.
+
+ALBERICH
+Junge.
+Das ist nicht für dich.
+
+SIEGFRIED
+Doch.
+Ist jetzt bei mir.
+
+ALBERICH tritt vor, aber bleibt auf Distanz.
+Er hat gelernt: direkte Gewalt funktioniert selten gegen Menschen ohne Angst.
+
+ALBERICH
+Du weißt nicht, was du trägst.
+
+SIEGFRIED
+Ich trag nen Ring.
+
+ALBERICH
+Du trägst meinen Fluch.
+
+SIEGFRIED lacht.
+
+SIEGFRIED
+Dann behalt ihn.
+
+ALBERICHs Zähne knirschen.
+Er will zuschlagen.
+Aber er sieht Nothung.
+Er sieht den Jungen, der Fafner getötet hat.
+Er bleibt Schatten.
+
+ALBERICH
+Der Ring bringt Tod.
+
+SIEGFRIED
+Tod bringt alles.
+Ist nix Besonderes.
+
+Alberich zieht sich zurück, aber sein Blick bleibt wie ein Nagel in der Szene.
+
+=LOGE (V.O.)=
+Alberich wollte den Ring zurück.
+Nicht, weil er ihn “liebte”.
+Sondern weil er ohne ihn wieder der wäre, der ausgelacht wurde.
+Man kann einem Mann viel wegnehmen.
+Aber wenn du ihm einmal das Gefühl gibst, dass er zählt,
+dann nimmt er dir lieber die Welt, als dieses Gefühl.
+
+** SZENE 3.8 — EXT. WALD — SPÄTER (MIMES GIFT)
+
+MIME kommt angelaufen, übertrieben fröhlich.
+
+MIME
+Du lebst!
+Ich wusste es!
+Ich… ich hab’s gespürt!
+
+SIEGFRIED schaut ihn an.
+Und jetzt, mit der neuen “Hörschicht”, hört er mehr als Worte.
+Er hört Absicht.
+
+WALDVOGEL (STIMME, leise)
+Er mischt Gift.
+
+MIME hält einen Becher hin.
+
+MIME
+Trink.
+Du brauchst Kraft.
+
+SIEGFRIED nimmt den Becher.
+Riecht.
+Lächelt.
+
+SIEGFRIED
+Du bist lustig, Mime.
+
+MIME
+Wieso.
+
+SIEGFRIED
+Weil du glaubst, ich bin dumm.
+
+MIME erstarrt.
+Dann versucht er’s mit Charme.
+
+MIME
+Ich bin dein Vater.
+
+SIEGFRIED
+Du bist ein Zwerg mit großen Plänen.
+
+MIME greift nach einem Messer.
+Siegfried ist schneller.
+Ein einziger Hieb mit Nothung.
+
+MIME fällt.
+Nicht heroisch.
+Wie eine Intrige, die keine Bühne mehr hat.
+
+MIME
+(keuchend)
+Und… der Ring…?
+
+SIEGFRIED
+(ruhig)
+Der bleibt bei mir.
+
+MIME stirbt.
+Siegfried schaut kurz auf ihn, dann weg.
+Nicht grausam.
+Eher: uninteressiert.
+Das macht es schlimmer.
+
+=LOGE (V.O.)=
+Manchmal ist die größte Grausamkeit nicht Hass.
+Es ist Gleichgültigkeit.
+Gleichgültigkeit ist das Endstadium von “ich hab nie gelernt, dass andere echt sind”.
+
+---
+
+* AKT 4.5 — Der Wanderer & Erda
+** SZENE 3.8a — INT. TIEFENKAMMER / WISSENS‑NODE — ABEND
+
+Die Tiefe unter Valhalla ist kein Ort für Verträge. Sie ist eine Kammer aus Kabeln und
+Wurzeln, aus Datensträngen und Ahnungen. Hier fließt Information wie Wasser, aber
+keine Ordnung hält sie.
+
+=DER WANDERER= betritt die Kammer. Er trägt die Müdigkeit des Codes in den Schultern.
+
+WANDERER
+Ich habe über Verträge regiert. Ich habe mit Hashes geschworen. Jetzt bricht die
+Welt. Sag mir, wie ich sie patchen kann.
+
+=ERDA= erscheint nicht, sie ist einfach da: ein Gesicht aus Erde, Augen aus Tiefe.
+
+ERDA
+Es gibt keinen Patch. Der Host ist kompromittiert. Die Welt ist größer als dein
+Modell. Sie ist asynchron, hyperkomplex. Du hast sie synchronisieren wollen mit
+Speer und Eid. Jetzt fließt das Chaos durch jeden Riss. Deine Contracts laufen auf
+einer kompromittierten Plattform.
+
+WANDERER
+Dann verliere ich.
+
+ERDA
+Du deprovisionierst. Du machst einen kontrollierten Shutdown. Du gibst den Ring
+zurück. Nur so endet der Fluch. Alles andere ist Overfitting: ohne Angst folgt die
+Optimierung dem Moment und der Moment frisst dich auf.
+
+WANDERER
+(leise)
+Also… keine Reparatur.
+
+ERDA
+Keine, die bleibt. Du kannst nur entscheiden, wie viel Ordnung du mitnimmst, wenn
+du gehst.
+
+WANDERER
+Ich verstehe.
+
+=LOGE (V.O.)=
+Die Welt ist nicht gemein. Sie ist nur größer als dein Modell. Wenn du sie wie ein
+Programm behandelst, bekommst du Exceptions, keine Wunder.
+
+---
+
+* AKT 5 — Speerbruch & Feuerkreis
+** SZENE 3.9 — EXT. FEUERWALL UM BRÜNNHILDES FELS — ABEND
+
+Der Vogel führt ihn.
+Oder seine Neugier.
+Oder der Ring.
+Vielleicht alles.
+
+Siegfried steht vor dem Feuerkreis.
+Flammen, die nicht wie “Natur” brennen.
+Sie brennen wie eine Grenze.
+Wie ein Passwort, das du nur mit Haut eingeben kannst.
+
+SIEGFRIED
+Schön.
+
+Er geht hinein.
+
+Das Feuer schlägt nach ihm.
+Er schreit nicht.
+Er kennt keinen Reflex namens “Angst”.
+Seine Haut singt.
+Er lacht.
+Er kommt durch.
+
+Auf der anderen Seite steht jemand.
+Nicht als Mann.
+Als Hindernis.
+
+Der Wanderer.
+=WOTAN=.
+
+Er wirkt hier nicht wie Gott.
+Er wirkt wie ein alter Boss, der merkt, dass seine Firma insolvent ist.
+
+WANDERER
+Junge.
+
+SIEGFRIED
+Alter Mann.
+
+WANDERER
+Kein Schritt weiter.
+
+SIEGFRIED
+Warum.
+
+WANDERER
+Weil ich es sage.
+
+SIEGFRIED lächelt.
+
+SIEGFRIED
+Das reicht nicht.
+
+WANDERER hebt den Stab.
+Er flackert.
+Für einen Moment sieht man darin den Speer, das Eid-Backbone, den Code der Welt.
+
+WANDERER
+Dieser Speer hat die Welt gehalten.
+
+SIEGFRIED
+Dann ist die Welt schwach.
+
+Er schlägt mit Nothung.
+
+Der Speer bricht.
+Nicht wie Holz.
+Wie ein System, das seinen Root-Key verliert.
+Ein Riss läuft durch die Luft, als würden Verträge reißen.
+
+WOTAN steht da, mit zwei Hälften in der Hand.
+Er schaut auf das Ende seiner Ordnung.
+Und er tut etwas, das er nie gelernt hat:
+Er lässt los.
+
+WANDERER
+(leise)
+Dann… geh.
+
+Er tritt zurück.
+Nicht besiegt im Muskel.
+Besiegt im Sinn.
+
+=LOGE (V.O.)=
+Der Speer war nie nur Waffe.
+Er war ein Betriebssystem.
+Und jetzt hat ein Junge ohne Angst
+den Kernel gekillt.
+Die Welt bootet neu.
+Und beim Neu-Booten gehen immer Daten verloren.
+Meistens: die Unschuld.
+
+---
+
+* AKT 6 — Brünnhildes Erwachen
+** SZENE 3.10 — EXT. FELS IM FEUER — NACHT (SCHLAFENDE WALKÜRE)
+
+Siegfried tritt auf den Fels.
+Der Wind ist anders hier.
+Reiner. Älter.
+Als hätte man dem Raum kurz erlaubt, Mythos zu sein.
+
+Da liegt =BRÜNNHILDE=.
+Rüstung abgelegt, Schlaf wie ein Bann.
+Sie wirkt nicht “hilflos”.
+Sie wirkt versiegelt.
+Ein Geheimnis, das WOTAN weggesperrt hat.
+
+Siegfried nähert sich.
+Sein Blick ist neugierig, nicht gierig.
+Er hat nie gelernt, dass Schönheit Besitz bedeutet.
+
+SIEGFRIED
+(zu sich)
+Ein Mann.
+
+Dann sieht er: es ist eine Frau.
+Er stutzt.
+Er hat Frauen gesehen, aber keine wie diese.
+Keine, die wie Entscheidung aussieht.
+
+Er löst ihren Helm.
+Berührt ihre Stirn.
+Sie atmet anders.
+Wie jemand, der aus einem tiefen Code-Loop aufwacht.
+
+BRÜNNHILDE schlägt die Augen auf.
+
+BRÜNNHILDE
+(roh, verwirrt)
+Wer…?
+
+SIEGFRIED
+Siegfried.
+
+BRÜNNHILDE richtet sich auf.
+Ihr Blick ist scharf, sofort.
+Sie scannt ihn wie eine Kämpferin.
+Dann scannt sie sich selbst.
+Dann die Welt.
+
+BRÜNNHILDE
+Ich… lebe.
+
+SIEGFRIED
+Ja.
+
+BRÜNNHILDE sieht Feuer.
+Sie sieht den verbrannten Rand der Welt.
+Sie sieht: WOTAN hat sein Versprechen gehalten.
+Und seine Strafe.
+
+BRÜNNHILDE
+Du bist durch das Feuer gekommen.
+
+SIEGFRIED
+War warm.
+
+Sie lacht.
+Ein echtes, kurzes Lachen.
+Dann wird sie ernst.
+
+BRÜNNHILDE
+Du kennst keine Angst.
+
+SIEGFRIED
+(überlegt)
+Ich kenn… Hunger.
+Und Spaß.
+Und Wut.
+Aber Angst…? Nie getroffen.
+
+BRÜNNHILDE
+Dann bist du der, auf den ich gewartet habe.
+Ohne es zu wissen.
+
+Sie steht auf.
+Ihre Größe ist nicht körperlich.
+Sie ist moralisch.
+Sie schaut ihn an, und man merkt: sie sieht nicht nur den Jungen.
+Sie sieht den Bruch im Speer.
+Sie sieht die Möglichkeit, dass die Welt anders sein könnte.
+
+BRÜNNHILDE
+Ich war Walküre.
+Ich war Befehl.
+Jetzt… bin ich ich.
+
+SIEGFRIED
+Klingt gut.
+
+BRÜNNHILDE tritt näher.
+Sie berührt sein Gesicht.
+Nicht prüfend. Anerkennend.
+
+BRÜNNHILDE
+Und du… bist frei.
+Gefährlich frei.
+
+SIEGFRIED
+Dann sei gefährlich mit mir.
+
+Sie küssen sich.
+Nicht süß.
+Eher: zwei Kräfte, die sich nicht mehr verleugnen.
+
+Brünnhilde schaut kurz auf seine Hand.
+Sie sieht den Ring.
+Ein Flackern.
+Wissen.
+Vorahnung.
+
+BRÜNNHILDE
+Was ist das.
+
+SIEGFRIED
+Ein Ring.
+Hab ihn gefunden.
+
+BRÜNNHILDE
+(zu leise)
+Nichts wird “gefunden”, wenn es verflucht ist.
+
+SIEGFRIED
+Dann soll er halt fluchen.
+
+Brünnhilde lächelt traurig.
+Nicht weil sie ihn verurteilt.
+Weil sie die Welt kennt.
+
+=LOGE (V.O.)=
+Sie küssten sich am Rand eines brennenden Systems,
+als wäre Liebe eine neue Verfassung.
+Vielleicht ist sie das.
+Vielleicht ist sie nur Benzin.
+In dieser Welt ist der Unterschied manchmal nur:
+wer das Streichholz hält.
+
+* ENDE EPISODE 3
+- Hook: Siegfried besitzt Ring + Tarnhelm; Wotans Speer ist gebrochen; Brünnhilde ist
+  wach und liebt.
+- Ton: Unschuld wird zur Macht; Macht ruft Verrat; der Fluch hat jetzt Beine, Muskeln
+  und ein Lächeln.

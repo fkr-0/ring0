@@ -1,0 +1,16 @@
+// == tsconfig.build.json ==
+{
+  "extends": "./tsconfig.json",
+  "compilerOptions": {
+    "noEmit": false,
+    "outDir": "mist",
+    "module": "esnext",
+    "target": "ES2017",
+    "declaration": true,
+    "declarationMap": true,
+    "sourceMap": true
+  },
+  "include": ["src/**/*.ts", "src/**/*.tsx"],
+  "exclude": ["node_modules", ".next", "**/*.test.ts", "**/*.spec.ts"]
+}
+// == end/tsconfig.build.json ==
