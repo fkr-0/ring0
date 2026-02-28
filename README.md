@@ -1,4 +1,4 @@
-# Der Ring: Neon-Valhalla
+# ring0
 
 Client-side reading app for a German neo-noir/cyberpunk retelling of Wagner's Ring cycle.
 

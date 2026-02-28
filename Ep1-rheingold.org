@@ -1,4 +1,4 @@
-#+title: DER RING: NEON-VALHALLA
+#+title: ring0
 #+subtitle: Episode 1 — DAS RHEINGOLD (Vollausarbeitung)
 
 * EPISODE 1 — DAS RHEINGOLD

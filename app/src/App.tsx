@@ -203,7 +203,7 @@ function App() {
             <h1 className="text-5xl font-bold text-orange-400 tracking-wider uppercase mb-4">
               Der Ring
             </h1>
-            <p className="text-xl text-zinc-500 font-light">Neon-Valhalla</p>
+            <p className="text-xl text-zinc-500 font-light">ring0</p>
           </div>
 
           <ProgressTracker

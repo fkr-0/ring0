@@ -1,4 +1,4 @@
-#+title: DER RING: NEON-VALHALLA
+#+title: ring0
 #+subtitle: Episode 3 — SIEGFRIED (Vollausarbeitung)
 
 * EPISODE 3 — SIEGFRIED
