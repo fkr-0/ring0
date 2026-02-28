@@ -4,6 +4,31 @@ All notable changes to this project will be documented in this file.
 
 The format is based on Keep a Changelog and this project follows Semantic Versioning.
 
+## [0.3.0] - 2026-02-28
+
+### Added
+
+- Bottom navigation unifying glossary, home, settings, and quick jump marker access
+- Persistent reading anchors with copyable deep links and "jump to last position" flow
+- Glossary content source moved to repository root (`glossary/seed.de.json`, `glossary/details/*.md`)
+- Searchable glossary detail flow with appearance references and scene jump integration
+- Build metadata display in UI footer (commit hash, tag, deploy timestamp)
+- New visual theme `revolte` (deep blue-violet base with neon orange accents)
+
+### Changed
+
+- Reader default typography switched to monospace
+- Theme settings now include a brightness slider with subtle background lift and stronger accent lift
+- Theme constraints: `deep` and `warm` are disabled when brightness is above zero
+- Reader panels and overlays now react consistently to theme and brightness configuration
+- Character info interactions moved from pure hover tooltips toward fixed-position preview behavior
+
+### Fixed
+
+- Org parser now correctly handles character extraction from `Besetzung` lines using `=NAME=` patterns
+- Org parser now closes dialogue blocks on empty lines (prevents narrative text from being appended to speech)
+- UI consistency improvements for glossary/detail return navigation behavior
+
 ## [0.1.1] - 2026-02-28
 
 ### Added
