@@ -149,7 +149,7 @@ export function SceneViewer({
     <div
       ref={containerRef}
       className={`
-        h-full overflow-y-auto scroll-smooth
+        h-full overflow-y-auto
         ${FONT_SIZES[fontSize]} ${LINE_HEIGHTS[lineHeight]} ${FONT_FAMILIES[fontFamily]}
       `}
       style={{

@@ -1,6 +1,6 @@
 import { Button } from '@/components/ui/button'
-import { BookOpen, ChevronLeft, ChevronRight, Home, TabletSmartphone } from 'lucide-react'
-import { useCallback } from 'react'
+import { BookOpen, ChevronLeft, ChevronRight, Home, Menu, TabletSmartphone } from 'lucide-react'
+import { useState } from 'react'
 import type { ReactNode } from 'react'
 
 interface NavigationControlsProps {
@@ -16,9 +16,11 @@ interface NavigationControlsProps {
   onPrevScene: () => void
   onNextScene: () => void
   onHome: () => void
-  settingsControl: ReactNode
+  renderSettingsControl: (className: string) => ReactNode
   jumpMarker?: string
   onJumpToMarker?: () => void
+  progressRatio: number
+  episodeCuts?: number[]
 }
 
 export function NavigationControls({
@@ -34,143 +36,178 @@ export function NavigationControls({
   onPrevScene,
   onNextScene,
   onHome,
-  settingsControl,
+  renderSettingsControl,
   jumpMarker,
   onJumpToMarker,
+  progressRatio,
+  episodeCuts = [0.25, 0.5, 0.75],
 }: NavigationControlsProps) {
-  const handleKeyDown = useCallback(
-    (e: KeyboardEvent) => {
-      switch (e.key) {
-        case 'ArrowLeft':
-          if (e.shiftKey && canGoBack) {
-            e.preventDefault()
-            onBack()
-          } else if (canGoToPrevScene) {
-            e.preventDefault()
-            onPrevScene()
-          }
-          break
-        case 'ArrowRight':
-          if (e.shiftKey && canGoForward) {
-            e.preventDefault()
-            onForward()
-          } else if (canGoToNextScene) {
-            e.preventDefault()
-            onNextScene()
-          }
-          break
-        case 'Home':
-          onHome()
-          break
-      }
-    },
-    [
-      canGoBack,
-      canGoForward,
-      canGoToPrevScene,
-      canGoToNextScene,
-      onBack,
-      onForward,
-      onPrevScene,
-      onNextScene,
-      onHome,
-    ]
-  )
-
-  // Note: In a real app, you'd add event listeners in an effect
-  // For now, we'll just render the controls
+  const [mobileMenuOpen, setMobileMenuOpen] = useState(false)
+  const clampedProgress = Math.max(0, Math.min(1, progressRatio))
 
   return (
-    <div className="flex items-center justify-between px-4 py-3 border-t border-zinc-800/50 bg-zinc-950/50">
-      {/* Left navigation */}
-      <div className="flex items-center gap-2">
-        <Button
-          variant="ghost"
-          size="icon"
-          onClick={onBack}
-          disabled={!canGoBack}
-          className="text-zinc-600 hover:text-zinc-400 hover:bg-zinc-900/50 disabled:opacity-30"
-          title="Previous episode (Shift+←)"
-        >
-          <ChevronLeft className="w-5 h-5" />
-        </Button>
-        <Button
-          variant="ghost"
-          size="icon"
-          onClick={onPrevScene}
-          disabled={!canGoToPrevScene}
-          className="text-zinc-600 hover:text-zinc-400 hover:bg-zinc-900/50 disabled:opacity-30"
-          title="Previous scene (←)"
-        >
-          <ChevronLeft className="w-4 h-4" />
-        </Button>
+    <div className="relative border-t border-zinc-800/50 bg-zinc-950/60">
+      <div className="pointer-events-none absolute inset-0 overflow-hidden">
+        <div
+          className="absolute inset-y-0 left-0 bg-gradient-to-r from-orange-500/20 via-cyan-500/15 to-orange-400/20"
+          style={{ width: `${clampedProgress * 100}%` }}
+        />
+        {episodeCuts.map((cut, index) => (
+          <div
+            key={index}
+            className="absolute top-0 bottom-0 w-px bg-zinc-700/50"
+            style={{ left: `${cut * 100}%` }}
+          />
+        ))}
       </div>
 
-      {/* Center - Home button */}
-      <div className="flex items-center gap-1">
-        <Button
-          variant="ghost"
-          size="icon"
-          onClick={onGlossary}
-          className={
-            isGlossaryActive
-              ? 'text-zinc-100 bg-zinc-800/70 hover:bg-zinc-700/70'
-              : 'text-zinc-600 hover:text-zinc-300 hover:bg-zinc-900/50'
-          }
-          title="Glossar"
-        >
-          <BookOpen className="w-4 h-4" />
-        </Button>
-        <Button
-          variant="ghost"
-          size="icon"
-          onClick={onHome}
-          className={
-            isHomeActive
-              ? 'text-zinc-100 bg-zinc-800/70 hover:bg-zinc-700/70'
-              : 'text-zinc-600 hover:text-orange-400 hover:bg-zinc-900/50'
-          }
-          title="Episode overview (Home)"
-        >
-          <Home className="w-5 h-5" />
-        </Button>
-        {settingsControl}
-        {jumpMarker && onJumpToMarker && (
+      <div className="relative flex items-center justify-between px-3 py-2">
+        {/* Left navigation */}
+        <div className="flex items-center gap-1">
           <Button
             variant="ghost"
-            onClick={onJumpToMarker}
-            className="h-8 px-2 gap-1 text-cyan-300 hover:text-cyan-200 hover:bg-cyan-500/10"
-            title={`Zu ${jumpMarker} springen`}
+            size="icon"
+            onClick={onBack}
+            disabled={!canGoBack}
+            className="hidden sm:inline-flex text-zinc-600 hover:text-zinc-300 hover:bg-zinc-900/60 disabled:opacity-30"
+            title="Previous episode (Shift+←)"
           >
-            <TabletSmartphone className="w-4 h-4" />
-            <span className="font-mono text-[11px]">{jumpMarker}</span>
+            <ChevronLeft className="w-5 h-5" />
           </Button>
-        )}
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={onPrevScene}
+            disabled={!canGoToPrevScene}
+            className="text-zinc-500 hover:text-zinc-200 hover:bg-zinc-900/60 disabled:opacity-30"
+            title="Previous scene (←)"
+          >
+            <ChevronLeft className="w-4 h-4" />
+          </Button>
+        </div>
+
+        {/* Center menu */}
+        <div className="hidden sm:flex items-center gap-1">
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={onGlossary}
+            className={
+              isGlossaryActive
+                ? 'text-zinc-100 bg-zinc-800/70 hover:bg-zinc-700/70'
+                : 'text-zinc-600 hover:text-zinc-300 hover:bg-zinc-900/50'
+            }
+            title="Glossar"
+          >
+            <BookOpen className="w-4 h-4" />
+          </Button>
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={onHome}
+            className={
+              isHomeActive
+                ? 'text-zinc-100 bg-zinc-800/70 hover:bg-zinc-700/70'
+                : 'text-zinc-600 hover:text-orange-400 hover:bg-zinc-900/50'
+            }
+            title="Episode overview (Home)"
+          >
+            <Home className="w-5 h-5" />
+          </Button>
+          {renderSettingsControl(
+            'text-zinc-600 hover:text-zinc-300 hover:bg-zinc-900/50'
+          )}
+          {jumpMarker && onJumpToMarker && (
+            <Button
+              variant="ghost"
+              onClick={onJumpToMarker}
+              className="h-8 px-2 gap-1 text-cyan-300 hover:text-cyan-200 hover:bg-cyan-500/10"
+              title={`Zu ${jumpMarker} springen`}
+            >
+              <TabletSmartphone className="w-4 h-4" />
+              <span className="font-mono text-[11px]">{jumpMarker}</span>
+            </Button>
+          )}
+        </div>
+
+        {/* Mobile center */}
+        <Button
+          variant="ghost"
+          size="icon"
+          onClick={() => setMobileMenuOpen((value) => !value)}
+          className="sm:hidden text-zinc-500 hover:text-zinc-200 hover:bg-zinc-900/60"
+          title="Menue"
+        >
+          <Menu className="w-4 h-4" />
+        </Button>
+
+        {/* Right navigation */}
+        <div className="flex items-center gap-1">
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={onNextScene}
+            disabled={!canGoToNextScene}
+            className="text-zinc-500 hover:text-zinc-200 hover:bg-zinc-900/60 disabled:opacity-30"
+            title="Next scene (→)"
+          >
+            <ChevronRight className="w-4 h-4" />
+          </Button>
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={onForward}
+            disabled={!canGoForward}
+            className="hidden sm:inline-flex text-zinc-600 hover:text-zinc-300 hover:bg-zinc-900/60 disabled:opacity-30"
+            title="Next episode (Shift+→)"
+          >
+            <ChevronRight className="w-5 h-5" />
+          </Button>
+        </div>
       </div>
 
-      {/* Right navigation */}
-      <div className="flex items-center gap-2">
-        <Button
-          variant="ghost"
-          size="icon"
-          onClick={onNextScene}
-          disabled={!canGoToNextScene}
-          className="text-zinc-600 hover:text-zinc-400 hover:bg-zinc-900/50 disabled:opacity-30"
-          title="Next scene (→)"
-        >
-          <ChevronRight className="w-4 h-4" />
-        </Button>
-        <Button
-          variant="ghost"
-          size="icon"
-          onClick={onForward}
-          disabled={!canGoForward}
-          className="text-zinc-600 hover:text-zinc-400 hover:bg-zinc-900/50 disabled:opacity-30"
-          title="Next episode (Shift+→)"
-        >
-          <ChevronRight className="w-5 h-5" />
-        </Button>
-      </div>
+      {mobileMenuOpen && (
+        <div className="sm:hidden relative px-3 pb-2 flex items-center gap-1">
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={onGlossary}
+            className={
+              isGlossaryActive
+                ? 'text-zinc-100 bg-zinc-800/70 hover:bg-zinc-700/70'
+                : 'text-zinc-600 hover:text-zinc-300 hover:bg-zinc-900/50'
+            }
+            title="Glossar"
+          >
+            <BookOpen className="w-4 h-4" />
+          </Button>
+          <Button
+            variant="ghost"
+            size="icon"
+            onClick={onHome}
+            className={
+              isHomeActive
+                ? 'text-zinc-100 bg-zinc-800/70 hover:bg-zinc-700/70'
+                : 'text-zinc-600 hover:text-orange-400 hover:bg-zinc-900/50'
+            }
+            title="Episode overview (Home)"
+          >
+            <Home className="w-5 h-5" />
+          </Button>
+          {renderSettingsControl('text-zinc-600 hover:text-zinc-300 hover:bg-zinc-900/50')}
+          {jumpMarker && onJumpToMarker && (
+            <Button
+              variant="ghost"
+              onClick={onJumpToMarker}
+              className="h-8 px-2 gap-1 text-cyan-300 hover:text-cyan-200 hover:bg-cyan-500/10"
+              title={`Zu ${jumpMarker} springen`}
+            >
+              <TabletSmartphone className="w-4 h-4" />
+              <span className="font-mono text-[11px]">{jumpMarker}</span>
+            </Button>
+          )}
+        </div>
+      )}
     </div>
   )
 }

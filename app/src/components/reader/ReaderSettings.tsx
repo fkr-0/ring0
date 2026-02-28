@@ -58,15 +58,15 @@ export function ReaderSettingsDialog({
     if (key === 'theme') {
       const nextTheme = value as ReaderSettings['theme']
       const disabledByBrightness =
-        settings.brightness > 0 && (nextTheme === 'deep' || nextTheme === 'warm')
+        settings.brightness > 0 && (nextTheme === 'void' || nextTheme === 'deep')
       if (disabledByBrightness) return
     }
 
     if (key === 'brightness') {
       const nextBrightness = value as number
       const nextSettings = { ...settings, [key]: nextBrightness }
-      if (nextBrightness > 0 && (nextSettings.theme === 'deep' || nextSettings.theme === 'warm')) {
-        nextSettings.theme = 'void'
+      if (nextBrightness > 0 && (nextSettings.theme === 'void' || nextSettings.theme === 'deep')) {
+        nextSettings.theme = 'warm'
       }
       onSettingsChange(nextSettings)
       return
@@ -184,17 +184,17 @@ export function ReaderSettingsDialog({
 
               <div className="space-y-2">
                 <Label className="text-xs text-zinc-600 uppercase tracking-wider">Atmosphere</Label>
-                <div className="grid grid-cols-3 gap-2">
+                <div className="grid grid-cols-2 md:grid-cols-4 gap-2">
                   {(
                     [
                       { value: 'void', label: 'Void', desc: 'Deep black-blue' },
                       { value: 'deep', label: 'Deep', desc: 'Charcoal darkness' },
                       { value: 'warm', label: 'Warm', desc: 'Fire-lit shadows' },
-                      { value: 'revolte', label: 'Revolte', desc: 'Violet noir, neon orange' },
+                      { value: 'revolte', label: 'Revolte', desc: 'Reclaim the streets' },
                     ] as const
                   ).map((theme) => {
                     const disabled =
-                      settings.brightness > 0 && (theme.value === 'deep' || theme.value === 'warm')
+                      settings.brightness > 0 && (theme.value === 'void' || theme.value === 'deep')
                     return (
                     <button
                       key={theme.value}

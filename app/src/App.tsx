@@ -633,28 +633,46 @@ function App() {
 
         <div className="flex items-center gap-2">
           <span className="hidden sm:inline text-[11px]">{brandMark}</span>
-          <ProgressTracker
+          <div className="hidden md:block">
+            <ProgressTracker
             episodes={episodes}
             currentEpisode={currentEpisode}
             currentScene={currentScene}
             totalScenesRead={totalScenesRead}
             totalScenes={totalScenes}
             onEpisodeClick={handleEpisodeClick}
-          />
+            />
+          </div>
         </div>
       </header>
 
-      {previewTerm && (
-        <aside
-          className="relative z-20 mx-4 mt-2 rounded border border-zinc-700/70 backdrop-blur px-4 py-3 transition-opacity duration-500"
-          style={{ backgroundColor: `rgba(24, 24, 27, ${0.85 - panelBrightnessLift * 0.18})` }}
-          onMouseLeave={() => setPreviewTerm(null)}
-        >
+      <aside
+        className={`hidden md:block fixed right-4 top-20 z-30 w-80 rounded border border-zinc-700/70 backdrop-blur px-4 py-3 transition-all duration-300 pointer-events-none ${
+          previewTerm ? 'opacity-100 translate-y-0' : 'opacity-0 -translate-y-1'
+        }`}
+        style={{ backgroundColor: `rgba(24, 24, 27, ${0.85 - panelBrightnessLift * 0.18})` }}
+      >
+        {previewTerm && (
+          <div>
+            <p className="text-xs uppercase tracking-widest text-zinc-500">{previewTerm.kind}</p>
+            <p className="font-mono text-zinc-100 mt-1">{previewTerm.term}</p>
+            <p className="text-sm text-zinc-300 mt-2 leading-relaxed">{previewTerm.shortDescription}</p>
+          </div>
+        )}
+      </aside>
+
+      <aside
+        className={`md:hidden fixed left-3 right-3 bottom-20 z-30 rounded border border-zinc-700/70 backdrop-blur px-4 py-3 transition-all duration-300 ${
+          previewTerm ? 'opacity-100 translate-y-0' : 'opacity-0 translate-y-2 pointer-events-none'
+        }`}
+        style={{ backgroundColor: `rgba(24, 24, 27, ${0.88 - panelBrightnessLift * 0.14})` }}
+      >
+        {previewTerm && (
           <div className="flex items-start justify-between gap-3">
-            <div>
-              <p className="text-xs uppercase tracking-widest text-zinc-500">{previewTerm.kind}</p>
-              <p className="font-mono text-zinc-100 mt-1">{previewTerm.term}</p>
-              <p className="text-sm text-zinc-300 mt-2 leading-relaxed">
+            <div className="min-w-0">
+              <p className="text-[10px] uppercase tracking-widest text-zinc-500">{previewTerm.kind}</p>
+              <p className="font-mono text-zinc-100 mt-1 truncate">{previewTerm.term}</p>
+              <p className="text-xs text-zinc-300 mt-2 leading-relaxed max-h-16 overflow-hidden">
                 {previewTerm.shortDescription}
               </p>
             </div>
@@ -666,8 +684,8 @@ function App() {
               Schliessen
             </button>
           </div>
-        </aside>
-      )}
+        )}
+      </aside>
 
       {/* Main content */}
       <main className="relative z-10 flex-1 overflow-hidden">
@@ -711,25 +729,23 @@ function App() {
             setSelectedGlossaryTerm(null)
             setSettingsOpen(false)
           }}
-          settingsControl={
+          renderSettingsControl={(className) => (
             <ReaderSettingsDialog
               settings={settings}
               onSettingsChange={setSettings}
               open={settingsOpen}
               onOpenChange={setSettingsOpen}
-              triggerClassName={
-                settingsOpen
-                  ? 'text-zinc-100 bg-zinc-800/70 hover:bg-zinc-700/70'
-                  : 'text-zinc-600 hover:text-zinc-300 hover:bg-zinc-900/50'
-              }
+              triggerClassName={settingsOpen ? 'text-zinc-100 bg-zinc-800/70 hover:bg-zinc-700/70' : className}
             />
-          }
+          )}
           jumpMarker={lastSavedMarker?.marker}
           onJumpToMarker={lastSavedAnchor ? () => handleJumpToAnchor(lastSavedAnchor) : undefined}
+          progressRatio={totalScenes > 0 ? totalScenesRead / totalScenes : 0}
+          episodeCuts={episodes.length > 1 ? Array.from({ length: episodes.length - 1 }, (_, index) => (index + 1) / episodes.length) : []}
         />
         <div className="px-4 pb-1 text-[11px] font-mono text-zinc-600 text-center">{buildMetaLabel}</div>
         {activeAnchor && (
-          <div className="px-4 pb-3 text-[11px] font-mono text-zinc-500 text-center">
+          <div className="px-4 pb-3 text-[13px] font-mono text-zinc-400 text-center">
             Abschnitt: {activeAnchor}
             {activeAnchorLink && (
               <button

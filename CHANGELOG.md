@@ -4,6 +4,28 @@ All notable changes to this project will be documented in this file.
 
 The format is based on Keep a Changelog and this project follows Semantic Versioning.
 
+## [0.3.1] - 2026-02-28
+
+### Added
+
+- Mobile bottom-float term preview overlay without layout displacement
+- Compact mobile bottom navigation with expandable action cluster
+- Episode progress gradient with vertical episode cut markers in the bottom bar
+
+### Changed
+
+- Moved glossary/home/settings controls into the bottom navigation flow
+- Increased readability of the active section indicator in the bottom bar
+- Theme selection layout adjusted for four themes without awkward wrapping
+- Updated `revolte` subtitle to "Reclaim the streets"
+- Brightness constraint logic now disables `void` and `deep` (instead of `deep` and `warm`)
+
+### Fixed
+
+- GitHub Pages deploy workflow now fetches tags for correct release tag display in build metadata
+- Removed scroll smoothing from scene container to reduce perceived scroll lag
+- Fixed hover-preview layout shift/glitch by rendering preview as fixed overlay
+
 ## [0.3.0] - 2026-02-28
 
 ### Added
